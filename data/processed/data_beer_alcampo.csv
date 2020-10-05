@@ -38,10 +38,10 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 0.75,0.75,Cerveza HEIFER 1 Litro,No promotion, HEIFER 1 ,No specified,1 L,1,https://www.alcampo.es/media/h95/h60/8891090993182.jpg,Alcampo
 0.54,1.63,"Cerveza (0,0% alcohol) con sabor a limón Radler BUCKLER lata de 33 cl.",No promotion, BUCKLER ,lata,33 cl,1,https://www.alcampo.es/media/ha6/hb8/9546809868318.jpg,Alcampo
 0.6,1.81,Cerveza tostada AMSTEL ORO lata de 33 cL.,No promotion, AMSTEL ORO ,lata,33 cL,1,https://www.alcampo.es/media/h7c/ha9/9546810982430.jpg,Alcampo
-5.82,1.46,"Cerveza tostada  0,0 % alcohol MAHOU Pack 12 latas x 33 cl.",No promotion,"  0,0 ",lata,33 cl,1,https://www.alcampo.es/media/h90/h8d/9475631546398.jpg,Alcampo
+5.82,1.46,"Cerveza tostada  0,0 % alcohol MAHOU Pack 12 latas x 33 cl.",No promotion, MAHOU ,lata,33 cl,1,https://www.alcampo.es/media/h90/h8d/9475631546398.jpg,Alcampo
 1.06,1.06,Cerveza ALHAMBRA PREMIUM LAGER botella de 1 litro,No promotion, ALHAMBRA PREMIUM LAGER ,botella,1 l,1,https://www.alcampo.es/media/h11/h3c/8952710791198.jpg,Alcampo
 0.27,0.81,Cerveza con limón sin alcohol HOLBRAND lata de 33 cl.,No promotion, HOLBRAND ,lata,33 cl,1,https://www.alcampo.es/media/hdd/h75/8890967785502.jpg,Alcampo
-0.51,1.54,"Cerveza 0,0 % tostada AMSTEL ORO 33 cl.",No promotion," 0,0 ",No specified,33 cl,1,https://www.alcampo.es/media/had/h49/9548561186846.jpg,Alcampo
+0.51,1.54,"Cerveza 0,0 % tostada AMSTEL ORO 33 cl.",No promotion, AMSTEL ORO 33 ,No specified,33 cl,1,https://www.alcampo.es/media/had/h49/9548561186846.jpg,Alcampo
 0.6,1.81,Cerveza sin filtrar EL ÁGUILA 33 cl.,No promotion, EL ÁGUILA 33 ,No specified,33 cl,1,https://www.alcampo.es/media/had/h5a/9548538806302.jpg,Alcampo
 0.73,2.21,Cerveza tostada doble lúpulo MAHOU MAESTRA lata de 33 cl.,No promotion, MAHOU MAESTRA ,lata,33 cl,1,https://www.alcampo.es/media/h69/hb5/9492144259102.jpg,Alcampo
 1.29,1.29,Cerveza CRUZCAMPO 1 l.,No promotion, CRUZCAMPO 1 ,No specified,1 l,1,https://www.alcampo.es/media/h4c/hbb/10172156543006.jpg,Alcampo
@@ -63,7 +63,7 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 1.0,2.81,"Cerveza CORONA botella de 33,5 cl.",No promotion, CORONA ,botella,"33,5 cl",1,https://www.alcampo.es/media/hb3/h52/9188484186142.jpg,Alcampo
 3.11,2.07,"Cervezas sin alcohol (0,0% Vol.) ESTRELLA GALICIA pack de 6 botellas de 25 c",No promotion, ESTRELLA GALICIA ,botella,25 c,6,https://www.alcampo.es/media/h7b/h76/9522724732958.jpg,Alcampo
 1.93,1.28,"Cerveza sin alcohol MAHOU, pack 6 uds. x 25 cl.",No promotion," MAHOU, ",No specified,25 cl,6,https://www.alcampo.es/media/hac/h87/9492156416030.jpg,Alcampo
-0.57,1.72,"Cerveza tostada con limón 0,0 % alcohol  AMSTEL RADLER 33 cl.",No promotion," 0,0 ",No specified,33 cl,1,https://www.alcampo.es/media/h0b/h70/10172148678686.jpg,Alcampo
+0.57,1.72,"Cerveza tostada con limón 0,0 % alcohol  AMSTEL RADLER 33 cl.",No promotion,  AMSTEL RADLER 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h0b/h70/10172148678686.jpg,Alcampo
 1.0,3.03,Cerveza negra GUINNESS ORIGINAL botella 33 cl.,No promotion, GUINNESS ORIGINAL ,botella,33 cl,1,https://www.alcampo.es/media/h75/h33/9546889461790.jpg,Alcampo
 0.6,1.81,Cerveza AMBAR ESPECIAL lata de 33 centilitros,No promotion, AMBAR ESPECIAL ,lata,33 c,1,https://www.alcampo.es/media/h1d/hba/9915987722270.jpg,Alcampo
 6.48,0.81,"Cervezas  HOLBRAND, pack de 24 latas de 33 centilitros.",No promotion,"  HOLBRAND, ",lata,", ",24,https://www.alcampo.es/media/hab/hf5/8947297288222.jpg,Alcampo
@@ -79,7 +79,7 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 0.27,0.81,Cerveza Holandesa de Importación sin alcohol HOLBRAND Lata 33 cl.,No promotion, HOLBRAND ,No specified,33 cl,1,https://www.alcampo.es/media/h6f/h29/9294112981022.jpg,Alcampo
 0.52,1.57,"Cerveza sin alcohol (0,0% Vol.) ESTRELLA GALICIA lata de 33 centilitros",No promotion, ESTRELLA GALICIA ,lata,33 c,1,https://www.alcampo.es/media/h21/hce/8952670158878.jpg,Alcampo
 0.55,1.66,Cerveza HEINEKEN lata de 33 centilitros,No promotion, HEINEKEN ,lata,33 c,1,https://www.alcampo.es/media/h26/h7c/9546813341726.jpg,Alcampo
-3.17,2.11,"Cerveza 0,0 tostada MAHOU pack 6 uds. x 25 cl",No promotion," 0,0 ",No specified,25 cl,6,https://www.alcampo.es/media/h1e/he1/9543193690142.jpg,Alcampo
+3.17,2.11,"Cerveza 0,0 tostada MAHOU pack 6 uds. x 25 cl",No promotion, MAHOU ,No specified,25 cl,6,https://www.alcampo.es/media/h1e/he1/9543193690142.jpg,Alcampo
 7.91,1.99,Cerveza  doble malta VOLL DAMM pack 12 luds de 33 cl.,No promotion, VOLL DAMM ,No specified,33 cl,12,https://www.alcampo.es/media/hcb/h59/10411459182622.jpg,Alcampo
 4.68,2.36,Cervezas reserva extra Especial 1906 pack 6 uds. x 33 cl,No promotion, 1906 ,No specified,33 cl,6,https://www.alcampo.es/media/h96/h2e/10033585061918.jpg,Alcampo
 0.81,2.45,Cerveza sin filtrar EL ÁGUILA 33 cl.,No promotion, EL ÁGUILA 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hb9/hf3/9548548964382.jpg,Alcampo
@@ -161,7 +161,7 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 1.09,2.18,Cerveza alemana de trigo FRANZISKANER DUNKEL botella 50 cl.,No promotion, FRANZISKANER DUNKEL ,botella,50 cl,1,https://www.alcampo.es/media/h4c/h7b/8952474599454.jpg,Alcampo
 6.19,3.12,Cervezas 1906 Reserva Especial pack de 6 botellines de 33 cl.,No promotion, 1906 ,No specified,33 cl,6,https://www.alcampo.es/media/hea/hc4/9965496107038.jpg,Alcampo
 1.69,5.12,Cerveza premium 8 lúpulos mediterranea COMPLOT IPA 33 cl. ,No promotion, COMPLOT IPA 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h1e/h3c/9251647848478.jpg,Alcampo
-3.39,2.26,"Cerveza sin alcohol 0,0 % tostada ESTRELLA GALICIA pack 6 uds. x 25 cl.",No promotion," 0,0 ",No specified,25 cl,6,https://www.alcampo.es/media/h83/hff/10250099785758.jpg,Alcampo
+3.39,2.26,"Cerveza sin alcohol 0,0 % tostada ESTRELLA GALICIA pack 6 uds. x 25 cl.",No promotion, ESTRELLA GALICIA ,No specified,25 cl,6,https://www.alcampo.es/media/h83/hff/10250099785758.jpg,Alcampo
 1.0,2.0,Cerveza Checa PILSNER URQUELL Lata 50 Cl.,No promotion, PILSNER URQUELL ,No specified,50 ,1,https://www.alcampo.es/media/hec/h1b/8952667045918.jpg,Alcampo
 1.93,5.84,Cerveza rubia Punk Ipa BREWDOG 33 cl.,No promotion, BREWDOG 33 ,No specified,33 cl,1,https://www.alcampo.es/media/ha1/hbe/10407756005406.jpg,Alcampo
 3.18,2.12,Cervezas HEINEKEN pack de 6 uds  x 25 cl.,No promotion, HEINEKEN ,No specified,25 cl,6,https://www.alcampo.es/media/h60/h0a/9546830970910.jpg,Alcampo
@@ -183,12 +183,12 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 9.9,1.66,Cervezas HEINEKEN pack de 18  uds. x  33 cl.,No promotion, HEINEKEN ,No specified,33 cl,18,https://www.alcampo.es/media/hc1/hc1/9546899587102.jpg,Alcampo
 0.7,1.4,Cerveza tipo lager y estilo pilsen de espuma consistente CRUZCAMPO lata 50 cl.,No promotion, CRUZCAMPO ,lata,50 cl,1,https://www.alcampo.es/media/h62/h41/10428600385566.jpg,Alcampo
 1.05,2.95,"Cerveza rubia mexicana MODELO ESPECIAL botella de 33,5 centilitros",No promotion, MODELO ESPECIAL ,botella,"33,5 c",1,https://www.alcampo.es/media/h06/hb9/8902127910942.jpg,Alcampo
-5.99,1.51,"Cervezas con zumo de limón y 0,0 % alcohol AMSTEL RADLER pack 12 uds. x 33 cl.",No promotion," 0,0 ",No specified,33 cl,12,https://www.alcampo.es/media/h49/h44/10407377436702.jpg,Alcampo
+5.99,1.51,"Cervezas con zumo de limón y 0,0 % alcohol AMSTEL RADLER pack 12 uds. x 33 cl.",No promotion, AMSTEL RADLER ,No specified,33 cl,12,https://www.alcampo.es/media/h49/h44/10407377436702.jpg,Alcampo
 2.52,1.68,Cerveza con limón sin alcohol MIXTA MAHOU pack de 6 botellines de 25 centilitros,No promotion, MIXTA MAHOU ,No specified,25 c,6,https://www.alcampo.es/media/hee/hd0/8895869878302.jpg,Alcampo
 2.62,1.74,Cervezas CRUZCAMPO pack de 6 uds x 25 cl.,No promotion, CRUZCAMPO ,No specified,25 cl,6,https://www.alcampo.es/media/hfd/h96/9546813800478.jpg,Alcampo
 0.93,2.81,Cerveza Checa STAROPRAMEN Botella de 33 centilitros,No promotion, STAROPRAMEN ,No specified,33 c,1,https://www.alcampo.es/media/h11/h48/8930059124766.jpg,Alcampo
 0.96,2.9,Malta líquida sin alcohol MALTA GOYA botella de 33 cl.,No promotion, MALTA GOYA ,botella,33 cl,1,https://www.alcampo.es/media/hd4/h26/9309864198174.jpg,Alcampo
-0.65,1.96,"Cerveza 0,0 % SAN MIGUEL MAGNA 33 cl.",No promotion," 0,0 ",No specified,33 cl,1,https://www.alcampo.es/media/h29/hab/10250097819678.jpg,Alcampo
+0.65,1.96,"Cerveza 0,0 % SAN MIGUEL MAGNA 33 cl.",No promotion, SAN MIGUEL MAGNA 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h29/hab/10250097819678.jpg,Alcampo
 4.36,1.45,Cerveza  SAN MIGUEL ESPECIAL pack de 12 Botellines de 25 centilitros,No promotion,  SAN MIGUEL ESPECIAL ,No specified,25 c,12,https://www.alcampo.es/media/h90/h88/10396999090206.jpg,Alcampo
 6.29,1.58,Cerveza sin alcohol SAN MIGUEL pack de 12 uds x 33 cl.,No promotion, SAN MIGUEL ,No specified,33 cl,12,https://www.alcampo.es/media/h94/ha3/10407500808222.jpg,Alcampo
 1.18,2.36,Cerveza de trigo ERDINGER botella 50 cl.,No promotion, ERDINGER ,botella,50 cl,1,https://www.alcampo.es/media/h1a/hb4/8952597610526.jpg,Alcampo
@@ -240,7 +240,7 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 1.0,3.03,Cerveza con limón sin alcohol CLAUSTHALER LEMON botella de 33 centilitros,No promotion, CLAUSTHALER LEMON ,botella,33 c,1,https://www.alcampo.es/media/h54/h90/8893750116382.jpg,Alcampo
 0.48,1.45,Cerveza CRUZCAMPO ESPECIAL 33 cl.,No promotion, CRUZCAMPO ESPECIAL 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h63/h49/10172149399582.jpg,Alcampo
 1.07,3.24,Cerveza Maestra Dunkel MAHOU 33 cl.,No promotion, MAHOU 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h4e/h6f/9350755975198.jpg,Alcampo
-3.28,2.18,"Cervezas negra (0,0 % Vol.) ESTRELLA GALICIA pack 6 uds. x 25 cl.",No promotion,"0,0 ",No specified,25 cl,6,https://www.alcampo.es/media/h1a/ha7/9898954686494.jpg,Alcampo
+3.28,2.18,"Cervezas negra (0,0 % Vol.) ESTRELLA GALICIA pack 6 uds. x 25 cl.",No promotion, ESTRELLA GALICIA ,No specified,25 cl,6,https://www.alcampo.es/media/h1a/ha7/9898954686494.jpg,Alcampo
 1.89,5.72,Cerveza rubia DUVEL botella 33 cl.,No promotion, DUVEL ,botella,33 cl,1,https://www.alcampo.es/media/he1/h92/8959871811614.jpg,Alcampo
 0.99,3.0,"Cerveza doble lúpulo, MAHOU MAESTRA, botella de 33 centilitros.",No promotion,", MAHOU MAESTRA, ",botella,", ",1,https://www.alcampo.es/media/h8e/hef/8950344777758.jpg,Alcampo
 0.59,1.78,"Cerveza 0.0 %, sin alcohol, tostada FREE DAMM 33 cl",No promotion, FREE DAMM 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hc8/h36/9893464735774.jpg,Alcampo
@@ -251,13 +251,13 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 2.79,1.86,"Cerveza (0,0% alcohol) con sabor a manzan SAN MIGUEL pack 6 botellines de 25 centilitros",No promotion, SAN MIGUEL ,No specified,25 c,6,https://www.alcampo.es/media/h24/he6/10397042245662.jpg,Alcampo
 1.09,2.18,Cerveza alemana de trigo FRANZISKANER KRISTAL botella 50 cl.,No promotion, FRANZISKANER KRISTAL ,botella,50 cl,1,https://www.alcampo.es/media/h15/h19/8952407293982.jpg,Alcampo
 0.42,1.68,Cerveza con limón DAMM LEMON botella de 25 centilitros,No promotion, DAMM LEMON ,botella,25 c,1,https://www.alcampo.es/media/hcd/hed/8941325385758.jpg,Alcampo
-0.93,2.81,Cerveza rubia doble malta VOLL-DAMM botella 33 cl.,No promotion,DAMM ,botella,33 cl,1,https://www.alcampo.es/media/hd3/h89/9289010741278.jpg,Alcampo
+0.93,2.81,Cerveza rubia doble malta VOLL-DAMM botella 33 cl.,No promotion, VOLL-DAMM ,botella,33 cl,1,https://www.alcampo.es/media/hd3/h89/9289010741278.jpg,Alcampo
 0.8,1.6,Cerveza AMBAR Premium lata de 50 cl.,No promotion, AMBAR ,lata,50 cl,1,https://www.alcampo.es/media/h1e/hf2/9915928838174.jpg,Alcampo
 2.99,1.99,Cerveza sin alcohol 0.0% AMBAR PREMIUM pack 6 uds..x 25 cl. ,No promotion, AMBAR PREMIUM ,No specified,25 cl,6,https://www.alcampo.es/media/h6b/h28/9915996602398.jpg,Alcampo
 1.38,4.18,Cerveza rubia IPA Citra ALHAMBRA Reserva Esencia 33 cl.,No promotion, IPA ,No specified,33 cl,1,https://www.alcampo.es/media/h9d/hf2/10250178658334.jpg,Alcampo
 1.28,2.56,Cerveza Oktoberfest SPATEN 50 cl.,No promotion, SPATEN 50 ,No specified,50 cl,1,https://www.alcampo.es/media/h2c/h86/10422848356382.jpg,Alcampo
 1.67,3.34,Cerveza Alemana artesana de importación GREVENSTEINER botella 50 cl.,No promotion, GREVENSTEINER ,botella,50 cl,1,https://www.alcampo.es/media/hc0/hf0/8900164386846.jpg,Alcampo
-1.5,3.0,Cerveza rubia alemana BECK'S botella 50 cl.,No promotion, 50 ,botella,50 cl,1,https://www.alcampo.es/media/h36/haf/8902161727518.jpg,Alcampo
+1.5,3.0,Cerveza rubia alemana BECK'S botella 50 cl.,No promotion, BECK'S ,botella,50 cl,1,https://www.alcampo.es/media/h36/haf/8902161727518.jpg,Alcampo
 2.52,1.68,Cerveza SAN MIGUEL pack 6 uds. x 25 cl.,No promotion, SAN MIGUEL ,No specified,25 cl,6,https://www.alcampo.es/media/h8f/h0a/10397048700958.jpg,Alcampo
 1.99,1.32,"Cervezas sin alcohol AMSTEL pack de 6 uds de 28,5 cl.",oferta válida hasta el 14/10/2020, AMSTEL ,No specified,"28,5 cl",6,https://www.alcampo.es/media/h62/h9a/9546877370398.jpg,Alcampo
 1.55,4.69,Cerveza belga de trigo con sabor a frambuesa CHÉRIE botella 33 cl.,No promotion, CHÉRIE ,botella,33 cl,1,https://www.alcampo.es/media/hcc/h88/9222675922974.jpg,Alcampo
@@ -276,13 +276,13 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 0.74,2.24,Cerveza IPA CRUZCAMPO ANDALUSIAN 33 cl.,No promotion, IPA CRUZCAMPO ANDALUSIAN 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h00/ha4/10172184526878.jpg,Alcampo
 1.0,3.03,Cerveza India COBRA botella de 33 cl.,No promotion, COBRA ,botella,33 cl,1,https://www.alcampo.es/media/haf/hf6/8899412230174.jpg,Alcampo
 1.96,5.93,Cerveza rubia envejecida en barrica MAHOU botella 33 cl.  ,No promotion, MAHOU ,botella,33 cl,1,https://www.alcampo.es/media/ha4/h9c/9123292643358.jpg,Alcampo
-2.45,7.42,Cerveza trapense belga ROCHEFORT-8 botella 33 cl.,No promotion, 33 ,botella,33 cl,1,https://www.alcampo.es/media/hf2/he3/8898770960414.jpg,Alcampo
+2.45,7.42,Cerveza trapense belga ROCHEFORT-8 botella 33 cl.,No promotion, ROCHEFORT-8 ,botella,33 cl,1,https://www.alcampo.es/media/hf2/he3/8898770960414.jpg,Alcampo
 0.5,2.0,Cerveza rubia EL ÁGUILA 1900 25 cl.,No promotion, EL ÁGUILA 1900 25 ,No specified,25 cl,1,https://www.alcampo.es/media/h47/h14/9893331992606.jpg,Alcampo
 1.7,3.4,Cerveza Ipa Inglesa MARSTON´S OLD EMPIRE  50 cl.,No promotion,S OLD EMPIRE  50 ,No specified,50 cl,1,https://www.alcampo.es/media/h43/h9f/10397049749534.jpg,Alcampo
 1.59,4.81,Cerveza combinada SALITOS BLUE 33 cl,No promotion, SALITOS BLUE 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h7f/h76/10404273389598.jpg,Alcampo
 1.67,5.06,Cerveza rubia INDIE BREWDOG 33 cl.,No promotion, INDIE BREWDOG 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h30/h3f/10407769112606.jpg,Alcampo
 1.22,3.69,Cerveza rubia Premium LA VIRGEN 33 cl.,No promotion, LA VIRGEN 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hf0/hfd/9352948482078.jpg,Alcampo
-2.57,1.71,"Cerveza limón 0,0 SAN MIGUEL RADLER pack 6 uds. x 25 cl.",No promotion," 0,0 SAN MIGUEL RADLER ",No specified,25 cl,6,https://www.alcampo.es/media/hbd/h1a/10397053190174.jpg,Alcampo
+2.57,1.71,"Cerveza limón 0,0 SAN MIGUEL RADLER pack 6 uds. x 25 cl.",No promotion, SAN MIGUEL RADLER ,No specified,25 cl,6,https://www.alcampo.es/media/hbd/h1a/10397053190174.jpg,Alcampo
 0.67,2.03,Cerveza Francesa de Importación KRONENBOURG Lata 33 Centilitros,No promotion, KRONENBOURG ,No specified,33 ,1,https://www.alcampo.es/media/h3e/hdf/8994491170846.jpg,Alcampo
 0.97,2.93,Cerveza HEINEKEN botella de 33 centilitros (tercio),No promotion, HEINEKEN ,botella,33 c,1,https://www.alcampo.es/media/h1a/hcb/9546815832094.jpg,Alcampo
 3.49,2.32,Cerveza Portuguesa rubia SUPER BOCK 6 x 25 cl.,No promotion, SUPER BOCK 6 ,No specified,25 cl,1,https://www.alcampo.es/media/h79/h24/9223934836766.jpg,Alcampo
@@ -301,9 +301,9 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 1.92,3.84,Cerveza ZYWIEC 50 cl.,No promotion, ZYWIEC 50 ,No specified,50 cl,1,https://www.alcampo.es/media/hdf/h56/8896927694878.jpg,Alcampo
 0.93,2.81,Cerveza Ipa CRUZCAMPO ANDALUSIAN  33 cl.,No promotion, CRUZCAMPO ANDALUSIAN  33 ,No specified,33 cl,1,https://www.alcampo.es/media/hd5/h63/10172147269662.jpg,Alcampo
 12.56,2.51,Cerveza HEINEKEN barril 5 l.,No promotion, HEINEKEN ,barril,5 l,1,https://www.alcampo.es/media/h49/h87/9546878681118.jpg,Alcampo
-1.69,3.38,Cerveza tostada JOHN SMITH'S EXTRA SMOOTH lata 50 cl.,No promotion, JOHN ,lata,50 cl,1,https://www.alcampo.es/media/hb8/he3/9627385430046.jpg,Alcampo
+1.69,3.38,Cerveza tostada JOHN SMITH'S EXTRA SMOOTH lata 50 cl.,No promotion, JOHN SMITH'S EXTRA SMOOTH ,lata,50 cl,1,https://www.alcampo.es/media/hb8/he3/9627385430046.jpg,Alcampo
 1.3,3.93,Cerveza sin alcohol con limón ERDINGER botella 33 cl. ,No promotion, ERDINGER ,botella,33 cl,1,https://www.alcampo.es/media/h8a/he3/9246417387550.jpg,Alcampo
-7.5,3.78,Cerveza abadia belga GRIMBERGEN DOUBLE-AMBRÉE pack de 6 botellas de 33 centilitros,No promotion, GRIMBERGEN ,botella,33 c,6,https://www.alcampo.es/media/h64/h85/8952754995230.jpg,Alcampo
+7.5,3.78,Cerveza abadia belga GRIMBERGEN DOUBLE-AMBRÉE pack de 6 botellas de 33 centilitros,No promotion, GRIMBERGEN DOUBLE-AMBRÉE ,botella,33 c,6,https://www.alcampo.es/media/h64/h85/8952754995230.jpg,Alcampo
 1.26,4.2,Cerveza abadía Belga AFFLIGEM TRIPLE botella 30 cl.,No promotion, AFFLIGEM TRIPLE ,botella,30 cl,1,https://www.alcampo.es/media/hba/hb1/9546852204574.jpg,Alcampo
 1.69,3.38,Cerveza alemana premium de trigo KÖNING LUDWING WEISSBIER 50 cl.,No promotion, KÖNING LUDWING WEISSBIER 50 ,No specified,50 cl,1,https://www.alcampo.es/media/h15/h7b/8867394945054.jpg,Alcampo
 6.99,3.53,Cervezas negras extra 1906 BLACK COUPAGE pack 6 uds. x 33 cl.,No promotion, 1906 BLACK COUPAGE ,No specified,33 cl,6,https://www.alcampo.es/media/h18/hab/10073661177886.jpg,Alcampo
@@ -331,13 +331,13 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 0.97,2.93,Cerveza artesana Pilsner MADRÍ CHULAPO botella 33 cl. ,No promotion, MADRÍ CHULAPO ,botella,33 cl,1,https://www.alcampo.es/media/h6d/h2c/9222554091550.jpg,Alcampo
 1.69,3.38,Cerveza de trigo ERDINGER DUNKEL botella 50 cl.,No promotion, ERDINGER DUNKEL ,botella,50 cl,1,https://www.alcampo.es/media/hd4/h70/8952726355998.jpg,Alcampo
 0.97,2.93,Cerveza rubia BURRO DE SANCHO botella 33 cl.,No promotion, BURRO DE SANCHO ,botella,33 cl,1,https://www.alcampo.es/media/he2/h06/8899462103070.jpg,Alcampo
-1.4,4.24,Cerveza tostada de Abadía ABBAYE D'AULNE BRUNE botella de 33 cl.,No promotion, ABBAYE ,botella,33 cl,1,https://www.alcampo.es/media/h43/h1d/8959691358238.jpg,Alcampo
+1.4,4.24,Cerveza tostada de Abadía ABBAYE D'AULNE BRUNE botella de 33 cl.,No promotion, ABBAYE D'AULNE BRUNE ,botella,33 cl,1,https://www.alcampo.es/media/h43/h1d/8959691358238.jpg,Alcampo
 4.8,1.45,Cerveza Especial CRUZCAMPO pack 10 uds. x 33 cl.,No promotion, CRUZCAMPO ,No specified,33 cl,10,https://www.alcampo.es/media/h82/hf4/9804659687454.jpg,Alcampo
 1.27,3.84,Cerveza con zumo natural de limón ARRIACA RADLER 33 cl.,No promotion, ARRIACA RADLER 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h33/h0e/10428600057886.jpg,Alcampo
 3.99,2.01,Cerveza negra portuguesa SUPER BOCK pack de 6 botellas de 33 centilitros,No promotion, SUPER BOCK ,botella,33 c,6,https://www.alcampo.es/media/h17/hff/8890069745694.jpg,Alcampo
-1.73,5.24,Cerveza escocesa de tipo ale fuerte INNIS&GUNN ORIGINAL botella 33 cl.,No promotion,GUNN ORIGINAL ,botella,33 cl,1,https://www.alcampo.es/media/h68/h98/8960175439902.jpg,Alcampo
+1.73,5.24,Cerveza escocesa de tipo ale fuerte INNIS&GUNN ORIGINAL botella 33 cl.,No promotion, INNIS&GUNN ORIGINAL ,botella,33 cl,1,https://www.alcampo.es/media/h68/h98/8960175439902.jpg,Alcampo
 1.35,4.09,Cerveza ARRIACA RUBIA 33 cl.,No promotion, ARRIACA RUBIA 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hc1/hf3/10414725464094.jpg,Alcampo
-1.99,6.03,Cerveza Alemana de trigo con toque cítricos MAISEL & FRIENDS WEIZEN IPA botella 33 cl. ,No promotion, MAISEL ,botella,33 cl,1,https://www.alcampo.es/media/h17/hfd/9534528094238.jpg,Alcampo
+1.99,6.03,Cerveza Alemana de trigo con toque cítricos MAISEL & FRIENDS WEIZEN IPA botella 33 cl. ,No promotion, MAISEL & FRIENDS WEIZEN IPA ,botella,33 cl,1,https://www.alcampo.es/media/h17/hfd/9534528094238.jpg,Alcampo
 1.39,2.78,Cerveza VELTINS PILS botella 50 cl.,No promotion, VELTINS PILS ,botella,50 cl,1,https://www.alcampo.es/media/hbc/hd1/8892293513246.jpg,Alcampo
 1.1,3.33,Cerveza negra BUDEJOVICKY BUDVAR botella 33 cl.,No promotion, BUDEJOVICKY BUDVAR ,botella,33 cl,1,https://www.alcampo.es/media/h06/hb6/8896735215646.jpg,Alcampo
 0.81,1.62,Cerveza ESTRELLA DAMM 50 cl,No promotion, ESTRELLA DAMM 50 ,No specified,50 cl,1,https://www.alcampo.es/media/h4a/hb8/9460777844766.jpg,Alcampo
@@ -349,22 +349,22 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 2.99,1.99,Cervezas EL ÁGUILA 1900 pack 6 uds. x 25 cl,No promotion, EL ÁGUILA 1900 ,No specified,25 cl,6,https://www.alcampo.es/media/h78/hb3/10172172042270.jpg,Alcampo
 0.72,2.18,Cerveza rubia Lager LA SAGRA BOHEMIA 33 cl.,No promotion, LA SAGRA BOHEMIA 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hf5/h4a/9977478742046.jpg,Alcampo
 1.89,5.72,Cerveza LA TRAPPE DUBBEL botella 33 cl.,No promotion, LA TRAPPE DUBBEL ,botella,33 cl,1,https://www.alcampo.es/media/h04/hb2/8892111781918.jpg,Alcampo
-1.99,6.03,Cerveza belga ABBAYE D'AULNE Blonde botella  33 cl.,No promotion, ABBAYE ,botella,33 cl,1,https://www.alcampo.es/media/hec/ha9/8878533902366.jpg,Alcampo
+1.99,6.03,Cerveza belga ABBAYE D'AULNE Blonde botella  33 cl.,No promotion, ABBAYE D'AULNE ,botella,33 cl,1,https://www.alcampo.es/media/hec/ha9/8878533902366.jpg,Alcampo
 1.62,5.4,Cerveza blonde AFFLIGEM 30 cl.,No promotion, AFFLIGEM 30 ,No specified,30 cl,1,https://www.alcampo.es/media/hb1/h7e/9546863575070.jpg,Alcampo
 2.88,1.92,Cerveza tostada MALQUERIDA pack de 6 x 25 cl. ,No promotion, MALQUERIDA ,No specified,25 cl,6,https://www.alcampo.es/media/hea/hff/9222537707550.jpg,Alcampo
 1.0,2.0,Cerveza Alemana BITBURGER 50 cl,No promotion, BITBURGER 50 ,No specified,50 cl,1,https://www.alcampo.es/media/h66/hd9/9035727274014.jpg,Alcampo
 3.6,3.6,Cerveza sin filtrar EL ÁGUILA pack 4 uds. x33 cl.,No promotion, EL ÁGUILA ,No specified,33 cl,4,https://www.alcampo.es/media/ha4/haf/9633060257822.jpg,Alcampo
 1.75,7.0,Cerveza lambic belga LINDEMANS FARO 25 Centilitros,No promotion, LINDEMANS FARO 25 ,No specified,25 ,1,https://www.alcampo.es/media/h68/hbe/8894770053150.jpg,Alcampo
 1.79,5.42,Cerveza tostada La Pelirroja de Getafe THE ONE 33 cl.,No promotion, THE ONE 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hc3/hfc/9373521936414.jpg,Alcampo
-6.2,1.56,"Cervezas 0,0 % alcohol CRUZCAMPO pack 12 uds. x 33 cl.",No promotion," 0,0 ",No specified,33 cl,12,https://www.alcampo.es/media/h16/hda/10407363543070.jpg,Alcampo
-2.59,5.18,Cerveza negra Stout MARSTON'S PEARL JET 50 cl.,No promotion,S PEARL JET 50 ,No specified,50 cl,1,https://www.alcampo.es/media/hac/h8d/10400720388126.jpg,Alcampo
+6.2,1.56,"Cervezas 0,0 % alcohol CRUZCAMPO pack 12 uds. x 33 cl.",No promotion, CRUZCAMPO ,No specified,33 cl,12,https://www.alcampo.es/media/h16/hda/10407363543070.jpg,Alcampo
+2.59,5.18,Cerveza negra Stout MARSTON'S PEARL JET 50 cl.,No promotion, MARSTON'S PEARL JET 50 ,No specified,50 cl,1,https://www.alcampo.es/media/hac/h8d/10400720388126.jpg,Alcampo
 1.99,6.03,Cerveza tostada holandesa LA TRAPPE 33 cl.,No promotion, LA TRAPPE 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h25/h5f/8952554913822.jpg,Alcampo
 4.92,2.48,Cerveza rubia nacional SAN MIGUEL FRESCA pack 6 uds. x 33 cl.,No promotion, SAN MIGUEL FRESCA ,No specified,33 cl,6,https://www.alcampo.es/media/h72/h64/8959807094814.jpg,Alcampo
 1.25,3.78,Cerveza morena artesanal LA CIBELES botella 33 cl.,No promotion, LA CIBELES ,botella,33 cl,1,https://www.alcampo.es/media/h43/h58/9823032082462.jpg,Alcampo
 2.26,2.26,Cerveza Dinamarca premium 5% alc. FAXE lata 1 l.,No promotion, FAXE ,lata,1 l,1,https://www.alcampo.es/media/hb7/h0e/9220314988574.jpg,Alcampo
 3.11,2.07,Cervezas Golden Lager SAN MIGUEL pack 6 uds. x 25 cl ,No promotion, SAN MIGUEL ,No specified,25 cl,6,https://www.alcampo.es/media/hd2/haa/9547823939614.jpg,Alcampo
 1.79,5.42,Cerveza castaña LA CIBELES 33 cl.,No promotion, LA CIBELES 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h76/h19/9823037947934.jpg,Alcampo
-1.68,5.09,Cerveza escocesa al whisky TENNENT'S 33 cl.,No promotion,S 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h94/he4/8880832118814.jpg,Alcampo
+1.68,5.09,Cerveza escocesa al whisky TENNENT'S 33 cl.,No promotion, TENNENT'S 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h94/he4/8880832118814.jpg,Alcampo
 5.97,2.84,Cervezas CORONITAS 10 uds. x 21 cl,No promotion, CORONITAS 10 ,No specified,21 cl,1,https://www.alcampo.es/media/h3a/h34/9543871987742.jpg,Alcampo
 1.18,2.36,Cerveza Original Intense Blond  8.6 lata 50 cl.,No promotion, 50 ,lata,50 cl,1,https://www.alcampo.es/media/h01/h5c/10441326133278.jpg,Alcampo
 2.81,1.87,Cerveza ecológica SAN MIGUEL pack de 6 uds x 25 cl.,No promotion, SAN MIGUEL ,No specified,25 cl,6,https://www.alcampo.es/media/hf0/h42/9220039180318.jpg,Alcampo
@@ -374,20 +374,20 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 5.49,2.77,Cerveza Gran Reserva CRUZCAMPO pack 6 uds. x 33 cl.,No promotion, CRUZCAMPO ,No specified,33 cl,6,https://www.alcampo.es/media/h0d/h5d/9633084964894.jpg,Alcampo
 2.52,3.36,Cerveza abadía LEFFE botella 75 cl.,No promotion, LEFFE ,botella,75 cl,1,https://www.alcampo.es/media/h40/h23/8892784246814.jpg,Alcampo
 1.59,3.18,Cerveza de trigo de Alemana ERDINGER OKTOBERFEST botella 50 cl.,No promotion, ERDINGER OKTOBERFEST ,botella,50 cl,1,https://www.alcampo.es/media/hc0/h67/10422832037918.jpg,Alcampo
-1.76,5.33,Cerveza premium rubia MAISEL&FRIENDS IPA 33 cl. ,No promotion,FRIENDS IPA 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h69/h55/9215208980510.jpg,Alcampo
+1.76,5.33,Cerveza premium rubia MAISEL&FRIENDS IPA 33 cl. ,No promotion, MAISEL&FRIENDS IPA 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h69/h55/9215208980510.jpg,Alcampo
 1.0,3.03,Cerveza Scotish ale sport tostada THE ONE 33 cl.,No promotion, THE ONE 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hae/h75/9373544710174.jpg,Alcampo
 4.84,1.61,Cervezas Especial CRUZCAMPO pack 12 uds. x 25 cl.,No promotion, CRUZCAMPO ,No specified,25 cl,12,https://www.alcampo.es/media/hfa/h91/9580504842270.jpg,Alcampo
 1.59,4.81,Cerveza artesanal  ARRIACA RUBIA botella 33 cl. ,No promotion,  ARRIACA RUBIA ,botella,33 cl,1,https://www.alcampo.es/media/hc8/he3/10358781902878.jpg,Alcampo
 1.69,5.12,Cerveza artesanal de  ARRIACA TRIGO botella 33 cl. ,No promotion,  ARRIACA TRIGO ,botella,33 cl,1,https://www.alcampo.es/media/h05/h09/10358797434910.jpg,Alcampo
 1.99,3.98,Cerveza de trigo ERDINGER PICKANTUS botella 50 cl.,No promotion, ERDINGER PICKANTUS ,botella,50 cl,1,https://www.alcampo.es/media/had/hcf/8952646795294.jpg,Alcampo
-3.9,5.2,Cerveza chocolate MAISEL&FRIENDS botella de 75 cl.,No promotion,FRIENDS ,botella,75 cl,1,https://www.alcampo.es/media/h1b/hfe/8898636480542.jpg,Alcampo
+3.9,5.2,Cerveza chocolate MAISEL&FRIENDS botella de 75 cl.,No promotion, MAISEL&FRIENDS ,botella,75 cl,1,https://www.alcampo.es/media/h1b/hfe/8898636480542.jpg,Alcampo
 5.88,1.48,Cerveza con limón SAN MIGUEL RADLER pack 12 uds. x 33 cl.,No promotion, SAN MIGUEL RADLER ,No specified,33 cl,12,https://www.alcampo.es/media/h56/hcc/10407505494046.jpg,Alcampo
 1.27,3.84,Cerveza artesana blanca de trigo LA SAGRA FLANDERS botella 33 cl.,No promotion, LA SAGRA FLANDERS ,botella,33 cl,1,https://www.alcampo.es/media/h64/h26/10043939553310.jpg,Alcampo
 1.79,3.58,Cerveza de trigo Alemana LICHER botella 50 cl.,No promotion, LICHER ,botella,50 cl,1,https://www.alcampo.es/media/h73/h59/8899189669918.jpg,Alcampo
 4.14,2.09,Cervezas tostada AMSTEL ORO pack de 6 uds de 33 cl (tercio),No promotion, AMSTEL ORO ,No specified,33 cl,6,https://www.alcampo.es/media/hee/hc8/9546894475294.jpg,Alcampo
 5.15,2.6,Cerveza portuguesa tipo abadía SUPER BOCK pack de 6 botellas de 33 centilitros,No promotion, SUPER BOCK ,botella,33 c,6,https://www.alcampo.es/media/hfd/h43/8923122860062.jpg,Alcampo
-1.99,6.03,"Cerveza Belga, ABBAYE D'AULNE, botella de 33 centilitros.",No promotion,", ABBAYE ",botella,", ",1,https://www.alcampo.es/media/hcc/heb/8949448605726.jpg,Alcampo
-1.81,5.48,"Cerveza light rubia, fresca y con un sabor afrutado MAISEL&FRIENDS botella 33 cl. ",No promotion,FRIENDS ,botella,33 cl,1,https://www.alcampo.es/media/he5/h4e/9534544969758.jpg,Alcampo
+1.99,6.03,"Cerveza Belga, ABBAYE D'AULNE, botella de 33 centilitros.",No promotion,", ABBAYE D'AULNE, ",botella,", ",1,https://www.alcampo.es/media/hcc/heb/8949448605726.jpg,Alcampo
+1.81,5.48,"Cerveza light rubia, fresca y con un sabor afrutado MAISEL&FRIENDS botella 33 cl. ",No promotion, MAISEL&FRIENDS ,botella,33 cl,1,https://www.alcampo.es/media/he5/h4e/9534544969758.jpg,Alcampo
 1.98,3.96,Cerveza Ambar Ale Inglesa MARSTON’S PEDIGREE 50 cl.,No promotion,S PEDIGREE 50 ,No specified,50 cl,1,https://www.alcampo.es/media/ha3/hcd/10397004431390.jpg,Alcampo
 1.0,3.03,"Cerveza dunkel , trigo alemán THE ONE 33 cl.",No promotion, THE ONE 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hfd/hbb/9373505060894.jpg,Alcampo
 1.0,3.03,Cerveza Pale Ale rubia THE ONE 33 cl.,No promotion, THE ONE 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h77/h27/9373527244830.jpg,Alcampo
@@ -397,7 +397,7 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 6.2,1.56,Cervezas CRUZCAMPO RADLER pack 12 uds. x 33 cl.,No promotion, CRUZCAMPO RADLER ,No specified,33 cl,12,https://www.alcampo.es/media/h39/h9c/10407447920670.jpg,Alcampo
 2.06,6.24,Cerveza artesana Madrid triple malta ENIGMA COMPLUTUM 33 cl. ,No promotion, ENIGMA COMPLUTUM 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h79/h75/9187588767774.jpg,Alcampo
 2.06,6.24,Cerveza artesana doble malta ENIGMA COMPLUTUM botella 33 cl. ,No promotion, ENIGMA COMPLUTUM ,botella,33 cl,1,https://www.alcampo.es/media/h62/h5d/9187598663710.jpg,Alcampo
-1.99,6.03,Cerveza rubia de abadía ABBAYE D'AULNE PREMIER CRU botella 33 cl.,No promotion, ABBAYE ,botella,33 cl,1,https://www.alcampo.es/media/h95/heb/8959749980190.jpg,Alcampo
+1.99,6.03,Cerveza rubia de abadía ABBAYE D'AULNE PREMIER CRU botella 33 cl.,No promotion, ABBAYE D'AULNE PREMIER CRU ,botella,33 cl,1,https://www.alcampo.es/media/h95/heb/8959749980190.jpg,Alcampo
 1.89,5.72,Cerveza artesanal ARRIACA PORTER botella 33 cl. ,No promotion, ARRIACA PORTER ,botella,33 cl,1,https://www.alcampo.es/media/h5e/hdb/10358796156958.jpg,Alcampo
 2.26,6.84,Cerveza francesa Ipa LA GOUDALE 33 cl.,No promotion, LA GOUDALE 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h8c/h32/9021778264094.jpg,Alcampo
 1.51,3.02,Cerveza saborizada con ron CUBANISTO lata 50 cl. ,No promotion, CUBANISTO ,lata,50 cl,1,https://www.alcampo.es/media/hdf/hee/9172709244958.jpg,Alcampo
@@ -406,17 +406,17 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 1.0,3.03,Cerveza aromatizada con tequila BURRO DE SANCHO 33 cl.,No promotion, BURRO DE SANCHO 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h0d/h3f/10202874544158.jpg,Alcampo
 5.97,7.96,Cerveza trapense CHIMAY GRANDE RÉSERVE botella 75 cl.,No promotion, CHIMAY GRANDE RÉSERVE ,botella,75 cl,1,https://www.alcampo.es/media/hbe/hfb/8952599248926.jpg,Alcampo
 2.06,6.24,Cerveza tostada artesana roja ENIGMA COMPLUTUM 33 cl. ,No promotion, ENIGMA COMPLUTUM 33 ,No specified,33 cl,1,https://www.alcampo.es/media/ha3/hcc/9187530473502.jpg,Alcampo
-3.95,5.26,Cerveza importación Stefan's Indian MAISEL&FRIENDS Botella 75 cl.,No promotion,FRIENDS ,No specified,75 cl,1,https://www.alcampo.es/media/h44/h58/8898969075742.jpg,Alcampo
+3.95,5.26,Cerveza importación Stefan's Indian MAISEL&FRIENDS Botella 75 cl.,No promotion, MAISEL&FRIENDS ,No specified,75 cl,1,https://www.alcampo.es/media/h44/h58/8898969075742.jpg,Alcampo
 5.51,7.34,Cerveza rubia y francesa ABBAYE DU LYS TRIPLE botella 75 cl.,No promotion, ABBAYE DU LYS TRIPLE ,botella,75 cl,1,https://www.alcampo.es/media/hda/h0a/8894855512094.jpg,Alcampo
 1.65,5.0,Cerveza artesana ecológica MULHACÉN 33 centilitros,No promotion, MULHACÉN 33 ,No specified,33 c,1,https://www.alcampo.es/media/he8/h53/8938168778782.jpg,Alcampo
-1.99,6.03,Cerveza belga ABBAYE D'AULNE Cuveé Royale botella 33 cl.,No promotion, ABBAYE ,botella,33 cl,1,https://www.alcampo.es/media/h08/ha2/9037205536798.jpg,Alcampo
+1.99,6.03,Cerveza belga ABBAYE D'AULNE Cuveé Royale botella 33 cl.,No promotion, ABBAYE D'AULNE ,botella,33 cl,1,https://www.alcampo.es/media/h08/ha2/9037205536798.jpg,Alcampo
 4.99,5.04,Cervezas estuche degustación ARRIACA pack 3 uds. x 33 cl,No promotion, ARRIACA ,No specified,33 cl,3,https://www.alcampo.es/media/h53/h13/10358776496158.jpg,Alcampo
 1.79,5.42,Cerveza Blonde (rubia) Alemana THE ONE 33 cl.,No promotion, THE ONE 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hd9/h09/9373541203998.jpg,Alcampo
 1.79,5.42,Cerveza negra La Morena de Getafe THE ONE 33 cl.,No promotion, THE ONE 33 ,No specified,33 cl,1,https://www.alcampo.es/media/ha8/hbf/9373504208926.jpg,Alcampo
 2.13,2.13,Cerveza rubia HEINEKEN pack 4 uds. x 25 cl.,No promotion, HEINEKEN ,No specified,25 cl,4,https://www.alcampo.es/media/h24/h32/10167119609886.jpg,Alcampo
 2.04,6.18,Cerveza aroma cítricos ELVIS JUICE BREWDOG 33 cl.,No promotion, ELVIS JUICE BREWDOG 33 ,No specified,33 cl,1,https://www.alcampo.es/media/ha1/h00/10407833894942.jpg,Alcampo
-1.73,5.24,Cerveza escocesa INNIS&GUNN botella de 33 centilitros,No promotion,GUNN ,botella,33 c,1,https://www.alcampo.es/media/hc3/hd6/8960181338142.jpg,Alcampo
-3.95,5.26,Cerveza importación Jeff's Bavarian MAISEL&FRIENDS Botella 75 cl.,No promotion,FRIENDS ,No specified,75 cl,1,https://www.alcampo.es/media/hfa/h98/8898129821726.jpg,Alcampo
+1.73,5.24,Cerveza escocesa INNIS&GUNN botella de 33 centilitros,No promotion, INNIS&GUNN ,botella,33 c,1,https://www.alcampo.es/media/hc3/hd6/8960181338142.jpg,Alcampo
+3.95,5.26,Cerveza importación Jeff's Bavarian MAISEL&FRIENDS Botella 75 cl.,No promotion, MAISEL&FRIENDS ,No specified,75 cl,1,https://www.alcampo.es/media/hfa/h98/8898129821726.jpg,Alcampo
 1.0,3.03,Cerveza rubia ROSITA ORIGINAL botella 33 cl.,No promotion, ROSITA ORIGINAL ,botella,33 cl,1,https://www.alcampo.es/media/h08/h31/8890503397406.jpg,Alcampo
 0.99,1.98,Cerveza artesana Alemana GREVENTEINER 50 cl.,No promotion, GREVENTEINER 50 ,No specified,50 cl,1,https://www.alcampo.es/media/h81/h25/10422815326238.jpg,Alcampo
 1.99,3.98,Cerveza Alemana premium Hell GERVENSTEINER botella 50 cl. ,No promotion, GERVENSTEINER ,botella,50 cl,1,https://www.alcampo.es/media/h4c/he4/9246446845982.jpg,Alcampo
@@ -427,7 +427,7 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 1.0,3.03,Cerveza aromatizada con vodka más lima BURRO DE SANCHO 33 cl.,No promotion, BURRO DE SANCHO 33 ,No specified,33 cl,1,https://www.alcampo.es/media/h15/hb7/10202927661086.jpg,Alcampo
 2.99,2.99,Cerveza Danesa de trigo FAXE WITBIER 1 l.,No promotion, FAXE WITBIER 1 ,No specified,1 l,1,https://www.alcampo.es/media/hee/h2e/9893370626078.jpg,Alcampo
 1.75,7.0,Cerveza de frutas del bosque LIEFMANS botella de 25 centilitros,No promotion, LIEFMANS ,botella,25 c,1,https://www.alcampo.es/media/h3d/h37/8959828066334.jpg,Alcampo
-1.94,5.87,Cerveza rubia ROSITA D'IVORI botella 33 cl.,No promotion, ROSITA ,botella,33 cl,1,https://www.alcampo.es/media/h80/hf6/8894957682718.jpg,Alcampo
+1.94,5.87,Cerveza rubia ROSITA D'IVORI botella 33 cl.,No promotion, ROSITA D'IVORI ,botella,33 cl,1,https://www.alcampo.es/media/h80/hf6/8894957682718.jpg,Alcampo
 5.99,4.53,Cerveza rubia 4 uds. x 33 cl.,No promotion, 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hb9/h5b/9359656452126.jpg,Alcampo
-5.75,7.66,Cerveza tostada de abadía ABBAYE D'AULNE CUVÉE ROYALE botella 75 cl.,No promotion, ABBAYE ,botella,75 cl,1,https://www.alcampo.es/media/h8f/hb1/8959718686750.jpg,Alcampo
+5.75,7.66,Cerveza tostada de abadía ABBAYE D'AULNE CUVÉE ROYALE botella 75 cl.,No promotion, ABBAYE D'AULNE CUVÉE ROYALE ,botella,75 cl,1,https://www.alcampo.es/media/h8f/hb1/8959718686750.jpg,Alcampo
 1.2,3.63,Cerveza de trigo MAISEL ORIGINAL 33 cl.,No promotion, MAISEL ORIGINAL 33 ,No specified,33 cl,1,https://www.alcampo.es/media/hc7/h7b/10422815981598.jpg,Alcampo
