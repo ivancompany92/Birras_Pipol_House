@@ -1,251 +1,282 @@
 price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,image_url,supermarket
-12.59,1.58,"Cerveza SAN MIGUEL, pack lata 24x33 cl",No promotion,SAN MIGUEL,lata,33 cl,24,Not image,Eroski
-6.47,1.64,"Cerveza SAN MIGUEL, pack lata 12x33 cl",No promotion,SAN MIGUEL,lata,33 cl,12,Not image,Eroski
-6.72,1.7,"Cerveza MAHOU Clásica, pack 12x33 cl",No promotion,MAHOU Clásica,No specified,33 cl,12,Not image,Eroski
-7.75,0.97,"Cerveza MAHOU 5 Estrellas, pack 24x33 cl","13,59 € Antes",MAHOU 5 Estrellas,No specified,33 cl,24,Not image,Eroski
-5.31,1.76,"Cerveza SAN MIGUEL, pack botellín 12x25 cl",2ª unidad -50%,SAN MIGUEL,No specified,25 cl,12,Not image,Eroski
-0.66,2.0,"Cerveza 0,0 tostada MAHOU, lata 33 cl",No promotion,"0,0 tostada MAHOU",lata,33 cl,1,Not image,Eroski
-4.82,3.67,"Cerveza Reserva 1925 ALHAMBRA, pack 4x33 cl",No promotion,Reserva 1925 ALHAMBRA,No specified,33 cl,4,Not image,Eroski
-6.61,2.2,"Cerveza MAHOU 5 Estrellas, pack botellín 12x25 cl",No promotion,MAHOU 5 Estrellas,No specified,25 cl,12,Not image,Eroski
-10.32,1.72,"Cerveza SAN MIGUEL, pack botellín 24x25 cl",No promotion,SAN MIGUEL,No specified,25 cl,24,Not image,Eroski
-6.42,1.64,"Cerveza ALHAMBRA Tradición, pack lata 12x33 cl",No promotion,ALHAMBRA Tradición,lata,33 cl,12,Not image,Eroski
-0.68,2.06,"Cerveza MAHOU 5 Estrellas, lata 33 cl",No promotion,MAHOU 5 Estrellas,lata,33 cl,1,Not image,Eroski
-7.92,2.0,"Cerveza MAHOU 5 Estrellas, pack lata 12x33 cl",No promotion,MAHOU 5 Estrellas,lata,33 cl,12,Not image,Eroski
-0.56,1.7,"Cerveza SAN MIGUEL, lata 33 cl",No promotion,SAN MIGUEL,lata,33 cl,1,Not image,Eroski
-14.3,1.55,"Cerveza SAN MIGUEL, pack lata 28x33 cl",No promotion,SAN MIGUEL,lata,33 cl,28,Not image,Eroski
-4.99,3.95,"Cerveza CORONITA, pack botellín 6x21 cl",No promotion,CORONITA,No specified,21 cl,6,Not image,Eroski
-0.56,1.7,"Cerveza sin alcohol MAHOU, lata 33 cl",No promotion,sin alcohol MAHOU,lata,33 cl,1,Not image,Eroski
-0.79,2.39,"Cerveza americana BUDWEISER, lata 33 cl",2ª unidad -50%,americana BUDWEISER,lata,33 cl,1,Not image,Eroski
-1.32,3.72,"Cerveza mexicana CORONA, botellín 35.5 cl",No promotion,mexicana CORONA,No specified,35.5 cl,1,Not image,Eroski
-0.56,1.7,"Cerveza sin alcohol 0,0 SAN MIGUEL, lata 33 cl",No promotion,"sin alcohol 0,0 SAN MIGUEL",lata,33 cl,1,Not image,Eroski
-2.52,1.68,"Cerveza sin alcohol 0,0 SAN MIGUEL, pack botellín 6x25 cl",2ª unidad -50%,"sin alcohol 0,0 SAN MIGUEL",No specified,25 cl,6,Not image,Eroski
-7.71,1.94,"Cerveza Especial ALHAMBRA, pack lata 12x33 cl",No promotion,Especial ALHAMBRA,lata,33 cl,12,Not image,Eroski
-1.33,2.66,"Cerveza alemana FRANZISKANER, botellín 50 cl",No promotion,alemana FRANZISKANER,No specified,50 cl,1,Not image,Eroski
-2.79,1.88,"Cerveza SAN MIGUEL, pack botellín 6x25 cl",No promotion,SAN MIGUEL,No specified,25 cl,6,Not image,Eroski
-0.83,2.52,"Cerveza MAHOU Maestra, lata 33 cl",No promotion,MAHOU Maestra,lata,33 cl,1,Not image,Eroski
-14.3,1.55,"Cerveza MAHOU Clásica, pack 28x33 cl",No promotion,MAHOU Clásica,No specified,33 cl,28,Not image,Eroski
-0.8,1.6,"Cerveza SAN MIGUEL, lata 50 cl",No promotion,SAN MIGUEL,lata,50 cl,1,Not image,Eroski
-0.94,2.85,"Cerveza Ipa MAHOU 5 Estrellas, lata 33 cl",2ª unidad -50%,Ipa MAHOU 5 Estrellas,lata,33 cl,1,Not image,Eroski
-0.79,2.39,"Cerveza SAN MIGUEL Selecta, lata 33 cl",No promotion,SAN MIGUEL Selecta,lata,33 cl,1,Not image,Eroski
-1.59,4.82,"Cerveza belga rubia LEFFE, botellín 33 cl",No promotion,belga rubia LEFFE,No specified,33 cl,1,Not image,Eroski
-4.6,3.48,"Cerveza Reserva Roja ALHAMBRA, pack botellín 4x33 cl",No promotion,Reserva Roja ALHAMBRA,No specified,33 cl,4,Not image,Eroski
-7.13,1.79,"Cerveza 0,0 tostada MAHOU, pack 12x33 cl",No promotion,"0,0 tostada MAHOU",No specified,33 cl,12,Not image,Eroski
-0.55,1.67,"Cerveza ALHAMBRA Tradición, lata 33 cl",No promotion,ALHAMBRA Tradición,lata,33 cl,1,Not image,Eroski
-6.72,1.7,"Cerveza 0,0 SAN MIGUEL, pack lata 12x33 cl",No promotion,"0,0 SAN MIGUEL",lata,33 cl,12,Not image,Eroski
-0.6,1.82,"Cerveza Shandy sabor limón 0,0 SAN MIGUEL, lata 33 cl",No promotion,"Shandy sabor limón 0,0 SAN MIGUEL",lata,33 cl,1,Not image,Eroski
-3.37,2.24,"Cerveza MAHOU 5 Estrellas, pack botellín 6x25 cl",No promotion,MAHOU 5 Estrellas,No specified,25 cl,6,Not image,Eroski
-0.62,1.88,"Cerveza Lager Auténtica LA SALVE, lata 33 cl",No promotion,Lager Auténtica LA SALVE,lata,33 cl,1,Not image,Eroski
-3.05,2.04,"Cerveza ALHAMBRA Especial, pack botellín 6x25 cl",No promotion,ALHAMBRA Especial,No specified,25 cl,6,Not image,Eroski
-1.85,5.61,"Cerveza belga GRIMBERGEN DOUBLE, botellín 33 cl",No promotion,belga GRIMBERGEN DOUBLE,No specified,33 cl,1,Not image,Eroski
-0.69,2.09,"Cerveza sin gluten MAHOU, lata 33 cl",No promotion,sin gluten MAHOU,lata,33 cl,1,Not image,Eroski
-0.62,1.88,"Cerveza MAHOU Shandy Mixta, lata 33 cl",No promotion,MAHOU Shandy Mixta,lata,33 cl,1,Not image,Eroski
-0.61,1.85,"Cerveza Radler SAN MIGUEL, lata 33 cl",No promotion,Radler SAN MIGUEL,lata,33 cl,1,Not image,Eroski
-1.59,4.82,"Cerveza belga negra LEFFE, botellín 33 cl",No promotion,belga negra LEFFE,No specified,33 cl,1,Not image,Eroski
-1.09,3.3,"Cerveza MAHOU Maestra, botellín 33 cl",No promotion,MAHOU Maestra,No specified,33 cl,1,Not image,Eroski
-1.1,3.33,"Cerveza 0,0 tostada MAHOU, botellín 33 cl",No promotion,"0,0 tostada MAHOU",No specified,33 cl,1,Not image,Eroski
-1.4,1.4,"Cerveza SAN MIGUEL, botella 1 litro",No promotion,SAN MIGUEL,botella,", ",1,Not image,Eroski
-4.99,1.68,"Cerveza clásica MAHOU, pack botellín 12x25 cl",No promotion,clásica MAHOU,No specified,25 cl,12,Not image,Eroski
-10.8,3.04,"Cerveza mexicana CORONA, pack botellín 10x35,5 cl",No promotion,mexicana CORONA,No specified,"35,5 cl",10,Not image,Eroski
-3.75,2.52,"Cerveza americana BUDWEISER, pack botellín 6x25 cl",No promotion,americana BUDWEISER,No specified,25 cl,6,Not image,Eroski
-0.58,1.76,"Cerveza MAHOU Clásica, lata 33 cl",No promotion,MAHOU Clásica,lata,33 cl,1,Not image,Eroski
-1.32,2.64,"Cerveza alemana FRANZISKANER, lata 50 cl",No promotion,alemana FRANZISKANER,lata,50 cl,1,Not image,Eroski
-0.67,2.03,"Cerveza Especial ALHAMBRA, lata 33 cl",No promotion,Especial ALHAMBRA,lata,33 cl,1,Not image,Eroski
-1.4,1.4,"Cerveza clásica MAHOU, botella 1 litro",No promotion,clásica MAHOU,botella,", ",1,Not image,Eroski
-2.64,1.76,"Cerveza sin alcohol MAHOU, pack botellín 6x25 cl",No promotion,sin alcohol MAHOU,No specified,25 cl,6,Not image,Eroski
-3.35,2.24,"Cerveza Lager Auténtica LA SALVE Bilbao, pack botellín 6x25 cl",2ª unidad -50%,Lager Auténtica LA SALVE Bilbao,No specified,25 cl,6,Not image,Eroski
-0.73,2.21,"Cerveza KRONENBOURG, lata 33 cl",No promotion,KRONENBOURG,lata,33 cl,1,Not image,Eroski
-0.68,2.06,"Cerveza CARLSBERG, lata 33 cl",No promotion,CARLSBERG,lata,33 cl,1,Not image,Eroski
-0.89,2.7,"Cerveza SAN MIGUEL Selecta, botellín 33 cl",No promotion,SAN MIGUEL Selecta,No specified,33 cl,1,Not image,Eroski
-0.82,2.48,"Cerveza sin gluten SAN MIGUEL, botellín 33 cl",No promotion,sin gluten SAN MIGUEL,No specified,33 cl,1,Not image,Eroski
-0.62,1.88,"Cerveza sin alcohol sabor manzana 0,0 SAN MIGUEL, lata 33 cl",No promotion,"sin alcohol sabor manzana 0,0 SAN MIGUEL",lata,33 cl,1,Not image,Eroski
-1.82,5.52,"Cerveza belga GRIMBERGEN BLONDE, botellín 33 cl",No promotion,belga GRIMBERGEN BLONDE,No specified,33 cl,1,Not image,Eroski
-1.87,5.67,"Cerveza tostada LA SALVE Munich, botellín 33 cl",No promotion,tostada LA SALVE Munich,No specified,33 cl,1,Not image,Eroski
-2.61,1.76,"Cerveza 0,0 limón SAN MIGUEL, pack botellín 6x25 cl",No promotion,"0,0 limón SAN MIGUEL",No specified,25 cl,6,Not image,Eroski
-0.67,2.03,"Cerveza Magna SAN MIGUEL, lata 33 cl",No promotion,Magna SAN MIGUEL,lata,33 cl,1,Not image,Eroski
-1.35,2.7,"Cerveza sin FRANZISKANER, botellín 50 cl",No promotion,sin FRANZISKANER,No specified,50 cl,1,Not image,Eroski
-3.49,2.32,"Cerveza ALHAMBRA Tradición, pack botellín 6x25 cl",No promotion,ALHAMBRA Tradición,No specified,25 cl,6,Not image,Eroski
-2.75,1.84,"Cerveza MAHOU Clásica, pack botellín 6x25 cl",No promotion,MAHOU Clásica,No specified,25 cl,6,Not image,Eroski
-1.26,3.82,"Cerveza Fresca SAN MIGUEL, botellín 33 cl",No promotion,Fresca SAN MIGUEL,No specified,33 cl,1,Not image,Eroski
-4.0,5.71,Cerveza Reserva 1925 ALHAMBRA botella 70 cl,No promotion,"Reserva 1925 ALHAMBRA botella 70 cl
-1 LITRO A 5,71 €
-Ahora
+12.59,1.58,"Cerveza SAN MIGUEL, pack lata 24x33 cl",No promotion,san miguel,lata,33 cl,24,Not image,Eroski
+6.47,1.64,"Cerveza SAN MIGUEL, pack lata 12x33 cl",No promotion,san miguel,lata,33 cl,12,Not image,Eroski
+6.72,1.7,"Cerveza MAHOU Clásica, pack 12x33 cl",No promotion,mahou clásica,No specified,33 cl,12,Not image,Eroski
+7.75,0.97,"Cerveza MAHOU 5 Estrellas, pack 24x33 cl","13,59 € Antes",mahou 5 estrellas,No specified,33 cl,24,Not image,Eroski
+5.31,1.76,"Cerveza SAN MIGUEL, pack botellín 12x25 cl",2ª unidad -50%,san miguel,No specified,25 cl,12,Not image,Eroski
+0.66,2.0,"Cerveza 0,0 tostada MAHOU, lata 33 cl",No promotion,"0,0 tostada mahou",lata,33 cl,1,Not image,Eroski
+4.82,3.67,"Cerveza Reserva 1925 ALHAMBRA, pack 4x33 cl",No promotion,reserva 1925 alhambra,No specified,33 cl,4,Not image,Eroski
+6.61,2.2,"Cerveza MAHOU 5 Estrellas, pack botellín 12x25 cl",No promotion,mahou 5 estrellas,No specified,25 cl,12,Not image,Eroski
+10.32,1.72,"Cerveza SAN MIGUEL, pack botellín 24x25 cl",No promotion,san miguel,No specified,25 cl,24,Not image,Eroski
+6.42,1.64,"Cerveza ALHAMBRA Tradición, pack lata 12x33 cl",No promotion,alhambra tradición,lata,33 cl,12,Not image,Eroski
+0.68,2.06,"Cerveza MAHOU 5 Estrellas, lata 33 cl",No promotion,mahou 5 estrellas,lata,33 cl,1,Not image,Eroski
+7.92,2.0,"Cerveza MAHOU 5 Estrellas, pack lata 12x33 cl",No promotion,mahou 5 estrellas,lata,33 cl,12,Not image,Eroski
+0.56,1.7,"Cerveza SAN MIGUEL, lata 33 cl",No promotion,san miguel,lata,33 cl,1,Not image,Eroski
+14.3,1.55,"Cerveza SAN MIGUEL, pack lata 28x33 cl",No promotion,san miguel,lata,33 cl,28,Not image,Eroski
+4.99,3.95,"Cerveza CORONITA, pack botellín 6x21 cl",No promotion,coronita,No specified,21 cl,6,Not image,Eroski
+0.56,1.7,"Cerveza sin alcohol MAHOU, lata 33 cl",No promotion,sin alcohol mahou,lata,33 cl,1,Not image,Eroski
+0.79,2.39,"Cerveza americana BUDWEISER, lata 33 cl",2ª unidad -50%,americana budweiser,lata,33 cl,1,Not image,Eroski
+1.32,3.72,"Cerveza mexicana CORONA, botellín 35.5 cl",No promotion,mexicana corona,No specified,35.5 cl,1,Not image,Eroski
+0.56,1.7,"Cerveza sin alcohol 0,0 SAN MIGUEL, lata 33 cl",No promotion,"sin alcohol 0,0 san miguel",lata,33 cl,1,Not image,Eroski
+2.52,1.68,"Cerveza sin alcohol 0,0 SAN MIGUEL, pack botellín 6x25 cl",2ª unidad -50%,"sin alcohol 0,0 san miguel",No specified,25 cl,6,Not image,Eroski
+7.71,1.94,"Cerveza Especial ALHAMBRA, pack lata 12x33 cl",No promotion,especial alhambra,lata,33 cl,12,Not image,Eroski
+1.33,2.66,"Cerveza alemana FRANZISKANER, botellín 50 cl",No promotion,alemana franziskaner,No specified,50 cl,1,Not image,Eroski
+2.79,1.88,"Cerveza SAN MIGUEL, pack botellín 6x25 cl",No promotion,san miguel,No specified,25 cl,6,Not image,Eroski
+14.3,1.55,"Cerveza MAHOU Clásica, pack 28x33 cl",No promotion,mahou clásica,No specified,33 cl,28,Not image,Eroski
+0.83,2.52,"Cerveza MAHOU Maestra, lata 33 cl",No promotion,mahou maestra,lata,33 cl,1,Not image,Eroski
+0.94,2.85,"Cerveza Ipa MAHOU 5 Estrellas, lata 33 cl",2ª unidad -50%,ipa mahou 5 estrellas,lata,33 cl,1,Not image,Eroski
+0.8,1.6,"Cerveza SAN MIGUEL, lata 50 cl",No promotion,san miguel,lata,50 cl,1,Not image,Eroski
+0.79,2.39,"Cerveza SAN MIGUEL Selecta, lata 33 cl",No promotion,san miguel selecta,lata,33 cl,1,Not image,Eroski
+1.59,4.82,"Cerveza belga rubia LEFFE, botellín 33 cl",No promotion,belga rubia leffe,No specified,33 cl,1,Not image,Eroski
+4.6,3.48,"Cerveza Reserva Roja ALHAMBRA, pack botellín 4x33 cl",No promotion,reserva roja alhambra,No specified,33 cl,4,Not image,Eroski
+7.13,1.79,"Cerveza 0,0 tostada MAHOU, pack 12x33 cl",No promotion,"0,0 tostada mahou",No specified,33 cl,12,Not image,Eroski
+0.55,1.67,"Cerveza ALHAMBRA Tradición, lata 33 cl",No promotion,alhambra tradición,lata,33 cl,1,Not image,Eroski
+6.72,1.7,"Cerveza 0,0 SAN MIGUEL, pack lata 12x33 cl",No promotion,"0,0 san miguel",lata,33 cl,12,Not image,Eroski
+0.6,1.82,"Cerveza Shandy sabor limón 0,0 SAN MIGUEL, lata 33 cl",No promotion,"shandy sabor limón 0,0 san miguel",lata,33 cl,1,Not image,Eroski
+3.37,2.24,"Cerveza MAHOU 5 Estrellas, pack botellín 6x25 cl",No promotion,mahou 5 estrellas,No specified,25 cl,6,Not image,Eroski
+0.62,1.88,"Cerveza Lager Auténtica LA SALVE, lata 33 cl",No promotion,lager auténtica la salve,lata,33 cl,1,Not image,Eroski
+3.05,2.04,"Cerveza ALHAMBRA Especial, pack botellín 6x25 cl",No promotion,alhambra especial,No specified,25 cl,6,Not image,Eroski
+1.82,5.52,"Cerveza belga GRIMBERGEN DOUBLE, botellín 33 cl",No promotion,belga grimbergen double,No specified,33 cl,1,Not image,Eroski
+0.69,2.09,"Cerveza sin gluten MAHOU, lata 33 cl",No promotion,sin gluten mahou,lata,33 cl,1,Not image,Eroski
+0.61,1.85,"Cerveza Radler SAN MIGUEL, lata 33 cl",No promotion,radler san miguel,lata,33 cl,1,Not image,Eroski
+1.59,4.82,"Cerveza belga negra LEFFE, botellín 33 cl",No promotion,belga negra leffe,No specified,33 cl,1,Not image,Eroski
+1.09,3.3,"Cerveza MAHOU Maestra, botellín 33 cl",No promotion,mahou maestra,No specified,33 cl,1,Not image,Eroski
+1.1,3.33,"Cerveza 0,0 tostada MAHOU, botellín 33 cl",No promotion,"0,0 tostada mahou",No specified,33 cl,1,Not image,Eroski
+1.4,1.4,"Cerveza SAN MIGUEL, botella 1 litro",No promotion,san miguel,botella,", ",1,Not image,Eroski
+4.99,1.68,"Cerveza clásica MAHOU, pack botellín 12x25 cl",No promotion,clásica mahou,No specified,25 cl,12,Not image,Eroski
+10.8,3.04,"Cerveza mexicana CORONA, pack botellín 10x35,5 cl",No promotion,mexicana corona,No specified,"35,5 cl",10,Not image,Eroski
+0.58,1.76,"Cerveza MAHOU Clásica, lata 33 cl",No promotion,mahou clásica,lata,33 cl,1,Not image,Eroski
+3.75,2.52,"Cerveza americana BUDWEISER, pack botellín 6x25 cl",No promotion,americana budweiser,No specified,25 cl,6,Not image,Eroski
+0.67,2.03,"Cerveza Especial ALHAMBRA, lata 33 cl",No promotion,especial alhambra,lata,33 cl,1,Not image,Eroski
+1.32,2.64,"Cerveza alemana FRANZISKANER, lata 50 cl",No promotion,alemana franziskaner,lata,50 cl,1,Not image,Eroski
+1.4,1.4,"Cerveza clásica MAHOU, botella 1 litro",No promotion,clásica mahou,botella,", ",1,Not image,Eroski
+2.64,1.76,"Cerveza sin alcohol MAHOU, pack botellín 6x25 cl",No promotion,sin alcohol mahou,No specified,25 cl,6,Not image,Eroski
+3.35,2.24,"Cerveza Lager Auténtica LA SALVE Bilbao, pack botellín 6x25 cl",2ª unidad -50%,lager auténtica la salve bilbao,No specified,25 cl,6,Not image,Eroski
+0.73,2.21,"Cerveza KRONENBOURG, lata 33 cl",No promotion,kronenbourg,lata,33 cl,1,Not image,Eroski
+0.68,2.06,"Cerveza CARLSBERG, lata 33 cl",No promotion,carlsberg,lata,33 cl,1,Not image,Eroski
+0.89,2.7,"Cerveza SAN MIGUEL Selecta, botellín 33 cl",No promotion,san miguel selecta,No specified,33 cl,1,Not image,Eroski
+0.82,2.48,"Cerveza sin gluten SAN MIGUEL, botellín 33 cl",No promotion,sin gluten san miguel,No specified,33 cl,1,Not image,Eroski
+0.62,1.88,"Cerveza sin alcohol sabor manzana 0,0 SAN MIGUEL, lata 33 cl",No promotion,"sin alcohol sabor manzana 0,0 san miguel",lata,33 cl,1,Not image,Eroski
+1.82,5.52,"Cerveza belga GRIMBERGEN BLONDE, botellín 33 cl",No promotion,belga grimbergen blonde,No specified,33 cl,1,Not image,Eroski
+1.87,5.67,"Cerveza tostada LA SALVE Munich, botellín 33 cl",No promotion,tostada la salve munich,No specified,33 cl,1,Not image,Eroski
+2.61,1.76,"Cerveza 0,0 limón SAN MIGUEL, pack botellín 6x25 cl",No promotion,"0,0 limón san miguel",No specified,25 cl,6,Not image,Eroski
+0.67,2.03,"Cerveza Magna SAN MIGUEL, lata 33 cl",No promotion,magna san miguel,lata,33 cl,1,Not image,Eroski
+1.35,2.7,"Cerveza sin FRANZISKANER, botellín 50 cl",No promotion,sin franziskaner,No specified,50 cl,1,Not image,Eroski
+3.49,2.32,"Cerveza ALHAMBRA Tradición, pack botellín 6x25 cl",No promotion,alhambra tradición,No specified,25 cl,6,Not image,Eroski
+2.75,1.84,"Cerveza MAHOU Clásica, pack botellín 6x25 cl",No promotion,mahou clásica,No specified,25 cl,6,Not image,Eroski
+4.0,5.71,Cerveza Reserva 1925 ALHAMBRA botella 70 cl,No promotion,"reserva 1925 alhambra botella 70 cl
+1 litro a 5,71 €
+ahora
 4,00 €
-Añadir
-Añadir a la lista",botella,70 cl,1,Not image,Eroski
-0.8,1.6,"Cerveza MAHOU Clásica, lata 50 cl",No promotion,MAHOU Clásica,lata,50 cl,1,Not image,Eroski
-0.69,2.09,"Cerveza Radler ALHAMBRA, lata 33 cl",No promotion,Radler ALHAMBRA,lata,33 cl,1,Not image,Eroski
-1.49,2.98,"Cerveza alemana FRANZISKANER Dunkel, botellín 50 cl",No promotion,alemana FRANZISKANER Dunkel,No specified,50 cl,1,Not image,Eroski
-1.16,3.52,"Cerveza BUDWEISER, botellín 33 cl",No promotion,BUDWEISER,No specified,33 cl,1,Not image,Eroski
-0.69,2.09,"Cerveza Radler MAHOU 5 Estrellas, lata 33 cl",No promotion,Radler MAHOU 5 Estrellas,lata,33 cl,1,Not image,Eroski
-4.69,3.12,"Cerveza CARLSBERG, pack botellín 6x25 cl",No promotion,CARLSBERG,No specified,25 cl,6,Not image,Eroski
-0.86,2.61,"Cerveza Manila SAN MIGUEL, lata 33 cl",No promotion,Manila SAN MIGUEL,lata,33 cl,1,Not image,Eroski
-1.99,5.61,"Cerveza All Day Ipa FOUNDERS, lata 35,5 cl",2ª unidad -50%,All Day Ipa FOUNDERS,lata,"35,5 cl",1,Not image,Eroski
-1.08,3.27,"Cerveza Lager Auténtica LA SALVE, botellín 33 cl",No promotion,Lager Auténtica LA SALVE,No specified,33 cl,1,Not image,Eroski
-1.18,3.58,"Cerveza maestra Dunkel MAHOU, botellín 33 cl",No promotion,maestra Dunkel MAHOU,No specified,33 cl,1,Not image,Eroski
-0.81,2.45,"Cerveza SAN MIGUEL 1516, lata 33 cl",No promotion,SAN MIGUEL 1516,lata,33 cl,1,Not image,Eroski
-2.69,3.59,"Cerveza ABADÍA LEFFE Blonde, botella 75 cl",No promotion,ABADÍA LEFFE Blonde,botella,75 cl,1,Not image,Eroski
-3.36,2.24,"Cerveza Magna SAN MIGUEL, pack botellín 6x25 cl",No promotion,Magna SAN MIGUEL,No specified,25 cl,6,Not image,Eroski
-1.76,5.33,"Cerveza barrica MAHOU, botellín 33 cl",No promotion,barrica MAHOU,No specified,33 cl,1,Not image,Eroski
-1.56,4.73,"Cerveza WARSTEINER, botellín 33 cl",No promotion,WARSTEINER,No specified,33 cl,1,Not image,Eroski
-1.08,3.27,Cerveza Manila SAN MIGUEL botellín 33 cl,No promotion,"Manila SAN MIGUEL botellín 33 cl
-1 LITRO A 3,27 €
-Ahora
+añadir
+añadir a la lista",botella,70 cl,1,Not image,Eroski
+1.26,3.82,"Cerveza Fresca SAN MIGUEL, botellín 33 cl",No promotion,fresca san miguel,No specified,33 cl,1,Not image,Eroski
+0.8,1.6,"Cerveza MAHOU Clásica, lata 50 cl",No promotion,mahou clásica,lata,50 cl,1,Not image,Eroski
+0.69,2.09,"Cerveza Radler ALHAMBRA, lata 33 cl",No promotion,radler alhambra,lata,33 cl,1,Not image,Eroski
+1.49,2.98,"Cerveza alemana FRANZISKANER Dunkel, botellín 50 cl",No promotion,alemana franziskaner dunkel,No specified,50 cl,1,Not image,Eroski
+1.16,3.52,"Cerveza BUDWEISER, botellín 33 cl",No promotion,budweiser,No specified,33 cl,1,Not image,Eroski
+0.69,2.09,"Cerveza Radler MAHOU 5 Estrellas, lata 33 cl",No promotion,radler mahou 5 estrellas,lata,33 cl,1,Not image,Eroski
+1.2,3.64,"Cerveza Ipa Yakima SAN MIGUEL, lata 33 cl",2ª unidad -50%,ipa yakima san miguel,lata,33 cl,1,Not image,Eroski
+0.86,2.61,"Cerveza Manila SAN MIGUEL, lata 33 cl",No promotion,manila san miguel,lata,33 cl,1,Not image,Eroski
+4.69,3.12,"Cerveza CARLSBERG, pack botellín 6x25 cl",No promotion,carlsberg,No specified,25 cl,6,Not image,Eroski
+1.08,3.27,"Cerveza Lager Auténtica LA SALVE, botellín 33 cl",No promotion,lager auténtica la salve,No specified,33 cl,1,Not image,Eroski
+1.18,3.58,"Cerveza maestra Dunkel MAHOU, botellín 33 cl",No promotion,maestra dunkel mahou,No specified,33 cl,1,Not image,Eroski
+2.69,3.59,"Cerveza ABADÍA LEFFE Blonde, botella 75 cl",No promotion,abadía leffe blonde,botella,75 cl,1,Not image,Eroski
+0.81,2.45,"Cerveza SAN MIGUEL 1516, lata 33 cl",No promotion,san miguel 1516,lata,33 cl,1,Not image,Eroski
+3.36,2.24,"Cerveza Magna SAN MIGUEL, pack botellín 6x25 cl",No promotion,magna san miguel,No specified,25 cl,6,Not image,Eroski
+1.76,5.33,"Cerveza barrica MAHOU, botellín 33 cl",No promotion,barrica mahou,No specified,33 cl,1,Not image,Eroski
+1.56,4.73,"Cerveza WARSTEINER, botellín 33 cl",No promotion,warsteiner,No specified,33 cl,1,Not image,Eroski
+1.08,3.27,Cerveza Manila SAN MIGUEL botellín 33 cl,No promotion,"manila san miguel botellín 33 cl
+1 litro a 3,27 €
+ahora
 1,08 €
-Añadir
-Añadir a la lista",No specified,33 cl,1,Not image,Eroski
-1.82,5.52,"Cerveza belga Blanche GRIMBERGEN, botellín 33 cl",No promotion,belga Blanche GRIMBERGEN,No specified,33 cl,1,Not image,Eroski
-1.26,3.82,"Cerveza mexicana negra MODELO, botellín 33 cl",No promotion,mexicana negra MODELO,No specified,33 cl,1,Not image,Eroski
-1.22,3.44,"Cerveza PACÍFICO, botellín 35,5 cl",No promotion,PACÍFICO,No specified,"35,5 cl",1,Not image,Eroski
-1.8,5.45,"Cerveza APA Txirene LA SALVE, botellín 33 cl",No promotion,APA Txirene LA SALVE,No specified,33 cl,1,Not image,Eroski
-1.02,3.09,"Cerveza SAN MIGUEL 1516, botellín 33 cl",No promotion,SAN MIGUEL 1516,No specified,33 cl,1,Not image,Eroski
-2.99,8.42,"Cerveza Centennial Ipa FOUNDERS, botellín 35,5 cl",No promotion,Centennial Ipa FOUNDERS,No specified,"35,5 cl",1,Not image,Eroski
-2.99,8.42,"Cerveza All Day Ipa FOUNDERS, botellín 35,5 cl",No promotion,All Day Ipa FOUNDERS,No specified,"35,5 cl",1,Not image,Eroski
-1.33,2.66,"Cerveza alemana SPATEM MUNC, botellín 50 cl",No promotion,alemana SPATEM MUNC,No specified,50 cl,1,Not image,Eroski
-1.55,3.1,"Cerveza WARSTEINER, lata 50 cl",No promotion,WARSTEINER,lata,50 cl,1,Not image,Eroski
-0.66,2.0,"Cerveza Magna Roja 0,0 SAN MIGUEL, lata 33 cl",2ª unidad -50%,"Magna Roja 0,0 SAN MIGUEL",lata,33 cl,1,Not image,Eroski
-2.99,8.42,"Cerveza Porter FOUNDERS, botellín 35,5 cl",No promotion,Porter FOUNDERS,No specified,"35,5 cl",1,Not image,Eroski
-3.11,8.29,"Cerveza Casimiro Ale MAHOU, botellín 37,5 cl",No promotion,Casimiro Ale MAHOU,No specified,"37,5 cl",1,Not image,Eroski
-4.3,6.14,"Cerveza roja ALHAMBRA, botella 70 cl",No promotion,roja ALHAMBRA,botella,70 cl,1,Not image,Eroski
-1.19,2.38,"Cerveza alemana BECK`S, botellín 50 cl",No promotion,alemana BECK`S,No specified,50 cl,1,Not image,Eroski
-1.29,3.91,"Cerveza CUBANISTO, botellín 33 cl",No promotion,CUBANISTO,No specified,33 cl,1,Not image,Eroski
-3.11,8.29,"Cerveza Casimiro Extra MAHOU, botellín 37,5 cl",No promotion,Casimiro Extra MAHOU,No specified,"37,5 cl",1,Not image,Eroski
-3.11,8.29,"Cerveza Casimiro Lager MAHOU, botellín 37,5 cl",No promotion,Casimiro Lager MAHOU,No specified,"37,5 cl",1,Not image,Eroski
-6.74,2.03,"Cerveza especial ESTRELLA GALICIA, pack lata 10x33 cl",No promotion,especial ESTRELLA GALICIA,lata,33 cl,10,Not image,Eroski
-6.44,2.16,"Cerveza especial ESTRELLA GALICIA, pack botellín 12x25 cl",No promotion,especial ESTRELLA GALICIA,No specified,25 cl,12,Not image,Eroski
-2.95,0.76,"Cerveza AURUM, pack 12x33 cl",No promotion,AURUM,No specified,33 cl,12,Not image,Eroski
-9.25,2.33,"Cerveza VOLL-DAMM, pack lata 12x33 cl",No promotion,VOLL-DAMM,lata,33 cl,12,Not image,Eroski
-7.67,1.94,"Cerveza HEINEKEN, pack lata 12x33 cl",2ª unidad -50%,HEINEKEN,lata,33 cl,12,Not image,Eroski
-10.88,2.06,"Cerveza especial ESTRELLA GALICIA, pack 16x33 cl",No promotion,especial ESTRELLA GALICIA,No specified,33 cl,16,Not image,Eroski
-3.29,2.2,"Cerveza especial ESTRELLA GALICIA, pack botellín 6x25 cl",No promotion,especial ESTRELLA GALICIA,No specified,25 cl,6,Not image,Eroski
-7.32,1.85,"Cerveza AMSTEL Radler, pack lata 12x33 cl",No promotion,AMSTEL Radler,lata,33 cl,12,Not image,Eroski
+añadir
+añadir a la lista",No specified,33 cl,1,Not image,Eroski
+1.82,5.52,"Cerveza belga Blanche GRIMBERGEN, botellín 33 cl",No promotion,belga blanche grimbergen,No specified,33 cl,1,Not image,Eroski
+1.26,3.82,"Cerveza mexicana negra MODELO, botellín 33 cl",No promotion,mexicana negra modelo,No specified,33 cl,1,Not image,Eroski
+1.22,3.44,"Cerveza PACÍFICO, botellín 35,5 cl",No promotion,pacífico,No specified,"35,5 cl",1,Not image,Eroski
+1.8,5.45,"Cerveza APA Txirene LA SALVE, botellín 33 cl",No promotion,apa txirene la salve,No specified,33 cl,1,Not image,Eroski
+1.02,3.09,"Cerveza SAN MIGUEL 1516, botellín 33 cl",No promotion,san miguel 1516,No specified,33 cl,1,Not image,Eroski
+2.99,8.42,"Cerveza Centennial Ipa FOUNDERS, botellín 35,5 cl",No promotion,centennial ipa founders,No specified,"35,5 cl",1,Not image,Eroski
+2.99,8.42,"Cerveza All Day Ipa FOUNDERS, botellín 35,5 cl",No promotion,all day ipa founders,No specified,"35,5 cl",1,Not image,Eroski
+1.33,2.66,"Cerveza alemana SPATEM MUNC, botellín 50 cl",No promotion,alemana spatem munc,No specified,50 cl,1,Not image,Eroski
+1.55,3.1,"Cerveza WARSTEINER, lata 50 cl",No promotion,warsteiner,lata,50 cl,1,Not image,Eroski
+2.99,8.42,"Cerveza Porter FOUNDERS, botellín 35,5 cl",No promotion,porter founders,No specified,"35,5 cl",1,Not image,Eroski
+3.11,8.29,"Cerveza Casimiro Ale MAHOU, botellín 37,5 cl",No promotion,casimiro ale mahou,No specified,"37,5 cl",1,Not image,Eroski
+4.3,6.14,"Cerveza roja ALHAMBRA, botella 70 cl",No promotion,roja alhambra,botella,70 cl,1,Not image,Eroski
+1.19,2.38,"Cerveza alemana BECK`S, botellín 50 cl",No promotion,alemana beck`s,No specified,50 cl,1,Not image,Eroski
+1.29,3.91,"Cerveza CUBANISTO, botellín 33 cl",No promotion,cubanisto,No specified,33 cl,1,Not image,Eroski
+3.11,8.29,"Cerveza Casimiro Extra MAHOU, botellín 37,5 cl",No promotion,casimiro extra mahou,No specified,"37,5 cl",1,Not image,Eroski
+3.11,8.29,"Cerveza Casimiro Lager MAHOU, botellín 37,5 cl",No promotion,casimiro lager mahou,No specified,"37,5 cl",1,Not image,Eroski
+6.74,2.03,"Cerveza especial ESTRELLA GALICIA, pack lata 10x33 cl",No promotion,especial estrella galicia,lata,33 cl,10,Not image,Eroski
+6.44,2.16,"Cerveza especial ESTRELLA GALICIA, pack botellín 12x25 cl",No promotion,especial estrella galicia,No specified,25 cl,12,Not image,Eroski
+2.95,0.76,"Cerveza AURUM, pack 12x33 cl",No promotion,aurum,No specified,33 cl,12,Not image,Eroski
+9.25,2.33,"Cerveza VOLL-DAMM, pack lata 12x33 cl",No promotion,voll-damm,lata,33 cl,12,Not image,Eroski
+7.67,1.94,"Cerveza HEINEKEN, pack lata 12x33 cl",2ª unidad -50%,heineken,lata,33 cl,12,Not image,Eroski
+10.88,2.06,"Cerveza especial ESTRELLA GALICIA, pack 16x33 cl",No promotion,especial estrella galicia,No specified,33 cl,16,Not image,Eroski
+3.29,2.2,"Cerveza especial ESTRELLA GALICIA, pack botellín 6x25 cl",No promotion,especial estrella galicia,No specified,25 cl,6,Not image,Eroski
+7.32,1.85,"Cerveza AMSTEL Radler, pack lata 12x33 cl",No promotion,amstel radler,lata,33 cl,12,Not image,Eroski
 5.88,2.97,"Cerveza 1906, pack botellín 6x33 cl",No promotion,1906,No specified,33 cl,6,Not image,Eroski
-0.79,2.39,"Cerveza VOLL-DAMM, lata 33 cl",No promotion,VOLL-DAMM,lata,33 cl,1,Not image,Eroski
-6.48,1.64,"Cerveza AMSTEL, pack lata 12x33 cl",No promotion,AMSTEL,lata,33 cl,12,Not image,Eroski
-6.96,1.76,"Cerveza KELER, pack lata 12x33 cl",No promotion,KELER,lata,33 cl,12,Not image,Eroski
-0.68,2.06,"Cerveza especial ESTRELLA GALICIA, lata 33 cl",No promotion,especial ESTRELLA GALICIA,lata,33 cl,1,Not image,Eroski
-6.32,2.8,"Cerveza 1906 ESTRELLA GALICIA, pack 9x25 cl",No promotion,1906 ESTRELLA GALICIA,No specified,25 cl,9,Not image,Eroski
-0.62,1.88,"Cerveza con limón AMSTEL Radler, lata 33 cl",No promotion,con limón AMSTEL Radler,lata,33 cl,1,Not image,Eroski
-0.64,1.94,"Cerveza HEINEKEN, lata 33 cl",No promotion,HEINEKEN,lata,33 cl,1,Not image,Eroski
-3.1,2.08,"Cerveza 0,0 ESTRELLA GALICIA, pack botellín 6x25 cl",No promotion,"0,0 ESTRELLA GALICIA",No specified,25 cl,6,Not image,Eroski
-11.33,1.91,"Cerveza HEINEKEN, pack lata 18x33 cl",No promotion,HEINEKEN,lata,33 cl,18,Not image,Eroski
-3.75,2.52,"Cerveza holandesa HEINEKEN, pack botellín 6x25 cl",No promotion,holandesa HEINEKEN,No specified,25 cl,6,Not image,Eroski
-1.49,2.98,"Cerveza alemana PAULANER Heffe Weissbier, botellín 50 cl",No promotion,alemana PAULANER Heffe Weissbier,No specified,50 cl,1,Not image,Eroski
-0.7,2.12,"Cerveza AMSTEL Oro, lata 33 cl",No promotion,AMSTEL Oro,lata,33 cl,1,Not image,Eroski
-8.16,2.06,"Cerveza ESTRELLA DAMM, pack 12x33 cl",No promotion,ESTRELLA DAMM,No specified,33 cl,12,Not image,Eroski
-6.15,2.04,"Cerveza KELER, pack botellín 12x25 cl",2ª unidad -50%,KELER,No specified,25 cl,12,Not image,Eroski
+0.79,2.39,"Cerveza VOLL-DAMM, lata 33 cl",No promotion,voll-damm,lata,33 cl,1,Not image,Eroski
+6.48,1.64,"Cerveza AMSTEL, pack lata 12x33 cl",No promotion,amstel,lata,33 cl,12,Not image,Eroski
+6.96,1.76,"Cerveza KELER, pack lata 12x33 cl",No promotion,keler,lata,33 cl,12,Not image,Eroski
+0.68,2.06,"Cerveza especial ESTRELLA GALICIA, lata 33 cl",No promotion,especial estrella galicia,lata,33 cl,1,Not image,Eroski
+6.32,2.8,"Cerveza 1906 ESTRELLA GALICIA, pack 9x25 cl",No promotion,1906 estrella galicia,No specified,25 cl,9,Not image,Eroski
+0.62,1.88,"Cerveza con limón AMSTEL Radler, lata 33 cl",No promotion,con limón amstel radler,lata,33 cl,1,Not image,Eroski
+0.64,1.94,"Cerveza HEINEKEN, lata 33 cl",No promotion,heineken,lata,33 cl,1,Not image,Eroski
+3.1,2.08,"Cerveza 0,0 ESTRELLA GALICIA, pack botellín 6x25 cl",No promotion,"0,0 estrella galicia",No specified,25 cl,6,Not image,Eroski
+3.75,2.52,"Cerveza holandesa HEINEKEN, pack botellín 6x25 cl",No promotion,holandesa heineken,No specified,25 cl,6,Not image,Eroski
+1.49,2.98,"Cerveza alemana PAULANER Heffe Weissbier, botellín 50 cl",No promotion,alemana paulaner heffe weissbier,No specified,50 cl,1,Not image,Eroski
+0.7,2.12,"Cerveza AMSTEL Oro, lata 33 cl",No promotion,amstel oro,lata,33 cl,1,Not image,Eroski
 0.85,2.58,"Cerveza 1906, lata 33 cl",No promotion,1906,lata,33 cl,1,Not image,Eroski
-0.55,1.67,"Cerveza 0,0 ESTRELLA GALICIA, lata 33 cl",No promotion,"0,0 ESTRELLA GALICIA",lata,33 cl,1,Not image,Eroski
-6.8,2.06,"Cerveza AMSTEL Oro, pack lata 10x33 cl",No promotion,AMSTEL Oro,lata,33 cl,10,Not image,Eroski
-8.5,2.84,"Cerveza WOLL-DAMM, pack 12x25 cl",No promotion,WOLL-DAMM,No specified,25 cl,12,Not image,Eroski
-0.33,1.0,"Cerveza sin alcohol AURUM, lata 33 cl",No promotion,sin alcohol AURUM,lata,33 cl,1,Not image,Eroski
-6.1,2.06,"Cerveza AMBAR, pack 9x33 cl",2ª unidad -50%,AMBAR,No specified,33 cl,9,Not image,Eroski
-2.39,1.6,"Cerveza con limonada CRUZCAMPO Shandy, pack 6x25 cl",No promotion,con limonada CRUZCAMPO Shandy,No specified,25 cl,6,Not image,Eroski
-0.61,1.85,"Cerveza CRUZCAMPO Shandy, lata 33 cl",No promotion,CRUZCAMPO Shandy,lata,33 cl,1,Not image,Eroski
-7.32,1.85,"Cerveza 0,0 Radler AMSTEL, pack lata 12x33 cl",No promotion,"0,0 Radler AMSTEL",lata,33 cl,12,Not image,Eroski
-6.13,3.09,"Cerveza 1906 Red Vintage, pack 6x33 cl",No promotion,1906 Red Vintage,No specified,33 cl,6,Not image,Eroski
-0.64,1.94,"Cerveza 0,0% HEINEKEN, lata 33 cl",No promotion,"0,0% HEINEKEN",lata,33 cl,1,Not image,Eroski
-0.38,0.76,"Cerveza AURUM, lata 50 cl",No promotion,AURUM,lata,50 cl,1,Not image,Eroski
-1.37,4.15,"Cerveza con tequila DESPERADOS, botellín 33 cl",2ª unidad -50%,con tequila DESPERADOS,No specified,33 cl,1,Not image,Eroski
-0.64,1.94,"Cerveza 0,0 AMSTEL Oro, lata 33 cl",No promotion,"0,0 AMSTEL Oro",lata,33 cl,1,Not image,Eroski
-12.48,1.58,"Cerveza AMSTEL, pack lata 24x33 cl",No promotion,AMSTEL,lata,33 cl,24,Not image,Eroski
-0.59,1.79,"Cerveza 0,0% BUCKLER Radler, lata 33 cl",No promotion,"0,0% BUCKLER Radler",lata,33 cl,1,Not image,Eroski
-0.25,0.76,"Cerveza AURUM, lata 33 cl",No promotion,AURUM,lata,33 cl,1,Not image,Eroski
-0.7,0.7,"Cerveza AURUM, botella 1 litro",No promotion,AURUM,botella,", ",1,Not image,Eroski
-0.55,1.67,"Cerveza sin alcohol FREE DAMM, lata 33 cl",No promotion,sin alcohol FREE DAMM,lata,33 cl,1,Not image,Eroski
-7.39,2.48,"Cerveza HEINEKEN, pack botellín 12x25 cl",No promotion,HEINEKEN,No specified,25 cl,12,Not image,Eroski
-0.49,1.48,"Cerveza 0,0% AURUM Radler, lata 33 cl",2ª unidad -50%,"0,0% AURUM Radler",lata,33 cl,1,Not image,Eroski
-0.58,1.76,"Cerveza KELER, lata 33 cl",No promotion,KELER,lata,33 cl,1,Not image,Eroski
-3.15,2.12,"Cerveza AMSTEL Radler, pack botellín 6x25 cl",No promotion,AMSTEL Radler,No specified,25 cl,6,Not image,Eroski
-0.64,1.94,"Cerveza 0,0 AMSTEL Radler, lata 33 cl",No promotion,"0,0 AMSTEL Radler",lata,33 cl,1,Not image,Eroski
-2.0,4.55,"Cerveza irlandesa negra GUINNESS, lata 44 cl",No promotion,irlandesa negra GUINNESS,lata,44 cl,1,Not image,Eroski
-4.99,2.52,"Cerveza Pilsen ESTRELLA GALICIA, pack botellín 6x33 cl",No promotion,Pilsen ESTRELLA GALICIA,No specified,33 cl,6,Not image,Eroski
-3.75,2.52,"Cerveza 0,0% HEINEKEN, pack botellín 6x25 cl",No promotion,"0,0% HEINEKEN",No specified,25 cl,6,Not image,Eroski
-3.42,2.28,"Cerveza ESTRELLA DAMM, pack botellín 6x25 cl",No promotion,ESTRELLA DAMM,No specified,25 cl,6,Not image,Eroski
-7.55,1.91,"Cerveza 0.0% HEINEKEN, pack botellín 12x33 cl",2ª unidad -50%,0.0% HEINEKEN,No specified,33 cl,12,Not image,Eroski
-2.19,1.48,"Cerveza sin alcohol BUCKLER 0, pack botellín 6x25 cl",No promotion,sin alcohol BUCKLER 0,No specified,25 cl,6,Not image,Eroski
-0.99,3.96,"Cider LADRÓN DE MANZANAS, botellín 25 cl",2ª unidad -50%,LADRÓN DE MANZANAS,No specified,25 cl,1,Not image,Eroski
-0.55,1.67,"Cerveza sin alcohol BUCKLER 0, lata 33 cl",No promotion,sin alcohol BUCKLER 0,lata,33 cl,1,Not image,Eroski
-7.32,1.85,"Cerveza limón SHANDY, pack 12x33 cl",No promotion,limón SHANDY,No specified,33 cl,12,Not image,Eroski
-0.69,2.09,"Cerveza ESTRELLA DAMM, lata 33 cl",No promotion,ESTRELLA DAMM,lata,33 cl,1,Not image,Eroski
-1.29,3.91,"Cider LADRÓN DE MANZANAS, lata 33 cl",No promotion,LADRÓN DE MANZANAS,lata,33 cl,1,Not image,Eroski
-4.2,2.8,"Cerveza extra VOLL-DAMM, pack 6x25 cl",No promotion,extra VOLL-DAMM,No specified,25 cl,6,Not image,Eroski
-0.49,1.48,"Cerveza AURUM Radler, lata 33 cl",2ª unidad -50%,AURUM Radler,lata,33 cl,1,Not image,Eroski
-2.15,6.52,"Cerveza Punk Ipa BREWDOG, botellín 33 cl",No promotion,Punk Ipa BREWDOG,No specified,33 cl,1,Not image,Eroski
-0.38,1.15,"Cerveza clásica AMSTEL, lata 33 cl",No promotion,clásica AMSTEL,lata,33 cl,1,Not image,Eroski
-1.09,2.18,"Cerveza HEINEKEN, lata 50 cl",No promotion,HEINEKEN,lata,50 cl,1,Not image,Eroski
-2.49,1.68,"Cerveza AMSTEL, pack lata 6x25 cl",No promotion,AMSTEL,lata,25 cl,6,Not image,Eroski
-0.75,2.27,"Cerveza sin gluten ESTRELLA GALICIA, botellín 33 cl",No promotion,sin gluten ESTRELLA GALICIA,No specified,33 cl,1,Not image,Eroski
-0.53,1.61,"Cerveza tostada 6,6% vol. AURUM, lata 33 cl",No promotion,"tostada 6,6% vol. AURUM",lata,33 cl,1,Not image,Eroski
-0.56,1.7,"Cerveza sin alcohol AMSTEL, lata 33 cl",No promotion,sin alcohol AMSTEL,lata,33 cl,1,Not image,Eroski
-1.58,1.04,"Cerveza AURUM, pack botellín 6x25 cl",No promotion,AURUM,No specified,25 cl,6,Not image,Eroski
-1.49,4.52,"Cerveza IPA AMBAR, botellín 33 cl",2ª unidad -50%,IPA AMBAR,No specified,33 cl,1,Not image,Eroski
-1.12,3.39,"Cerveza HEINEKEN, botellín 33 cl",No promotion,HEINEKEN,No specified,33 cl,1,Not image,Eroski
-0.88,2.67,"Cerveza AMBAR Export, lata 33 cl",No promotion,AMBAR Export,lata,33 cl,1,Not image,Eroski
-2.3,6.48,"Cerveza Ipa LAGUNITAS, botellín 35,5 cl",No promotion,Ipa LAGUNITAS,No specified,"35,5 cl",1,Not image,Eroski
-1.37,4.15,"Cerveza INEDIT, botellín 33 cl",No promotion,INEDIT,No specified,33 cl,1,Not image,Eroski
-0.98,2.97,"Cerveza sin gluten DAURA, botellín 33 cl",No promotion,sin gluten DAURA,No specified,33 cl,1,Not image,Eroski
-0.57,1.73,"Cerveza CRUZCAMPO, lata 33 cl",No promotion,CRUZCAMPO,lata,33 cl,1,Not image,Eroski
-1.1,3.33,"Cerveza VOLL-DAMM, botellín 33 cl",No promotion,VOLL-DAMM,No specified,33 cl,1,Not image,Eroski
-1.37,4.15,"Cerveza Mojito DESPERADOS, botellín 33 cl",2ª unidad -50%,Mojito DESPERADOS,No specified,33 cl,1,Not image,Eroski
-0.84,1.68,"Cerveza Hefe-Weissbier AURUM, botellín 50 cl",No promotion,Hefe-Weissbier AURUM,No specified,50 cl,1,Not image,Eroski
-0.81,1.62,"Cerveza AMSTEL, lata 50 cl",No promotion,AMSTEL,lata,50 cl,1,Not image,Eroski
-4.9,1.64,"Cerveza AMSTEL, pack botellín 12x25 cl",2ª unidad -50%,AMSTEL,No specified,25 cl,12,Not image,Eroski
-0.39,1.18,"Cerveza especial AURUM, lata 33 cl",No promotion,especial AURUM,lata,33 cl,1,Not image,Eroski
-0.58,1.76,"Cerveza extra 7,5% vol. AURUM, lata 33 cl",No promotion,"extra 7,5% vol. AURUM",lata,33 cl,1,Not image,Eroski
-1.6,1.08,"Cerveza sin alcohol 0,0% AURUM, pack botellín 6x25 cl",No promotion,"sin alcohol 0,0% AURUM",No specified,25 cl,6,Not image,Eroski
-0.55,1.67,"Cerveza sin alcohol sabor limón FREE DAMM, lata 33 cl",No promotion,sin alcohol sabor limón FREE DAMM,lata,33 cl,1,Not image,Eroski
-1.61,3.22,"Cerveza con aroma de tequila DESPERADOS, lata 50 cl",No promotion,con aroma de tequila DESPERADOS,lata,50 cl,1,Not image,Eroski
-0.66,2.0,"Cerveza ORO, lata 33 cl",No promotion,ORO,lata,33 cl,1,Not image,Eroski
-1.02,2.04,"Cerveza ESTRELLA DAMM Estrella, lata 50 cl",No promotion,ESTRELLA DAMM Estrella,lata,50 cl,1,Not image,Eroski
-3.3,2.2,"Cerveza ORO, pack botellín 6x25 cl",No promotion,ORO,No specified,25 cl,6,Not image,Eroski
-1.07,3.24,"Cerveza DAMM Lager A.K. 1876, botellín 33 cl",No promotion,DAMM Lager A.K. 1876,No specified,33 cl,1,Not image,Eroski
-2.75,1.84,"Cerveza sin alcohol FREE DAMM, pack 6x25 cl",2ª unidad -50%,sin alcohol FREE DAMM,No specified,25 cl,6,Not image,Eroski
-1.38,1.38,"Cerveza KELER, botella 1 litro",No promotion,KELER,botella,", ",1,Not image,Eroski
-1.6,4.85,"Cerveza Ipa COMPLOT, botellín 33 cl","1,90 € Antes",Ipa COMPLOT,No specified,33 cl,1,Not image,Eroski
-0.62,1.88,"Cerveza Radler 0.0 tostada AMSTEL, lata 33 cl",2ª unidad -50%,Radler 0.0 tostada AMSTEL,lata,33 cl,1,Not image,Eroski
-0.96,2.91,"Cerveza 0,0 AMBAR Green, botellín 33 cl",No promotion,"0,0 AMBAR Green",No specified,33 cl,1,Not image,Eroski
-0.99,3.96,"Cider sabor frutos rojos LADRÓN DE MANZANAS, botellín 25 cl",2ª unidad -50%,sabor frutos rojos LADRÓN DE MANZANAS,No specified,25 cl,1,Not image,Eroski
-0.22,0.67,"Cerveza CORGON GARD, lata 33 cl",No promotion,CORGON GARD,lata,33 cl,1,Not image,Eroski
-0.68,2.06,"Cerveza extra AMSTEL, lata 33 cl",No promotion,extra AMSTEL,lata,33 cl,1,Not image,Eroski
-1.6,2.42,"Cerveza VOLL-DAMM, botellín 66 cl",No promotion,VOLL-DAMM,No specified,66 cl,1,Not image,Eroski
-1.6,4.85,"Cerveza original GUINNESS, botellín 33 cl",No promotion,original GUINNESS,No specified,33 cl,1,Not image,Eroski
-2.45,1.64,"Cerveza 0,0 AMSTEL, pack botellín 6x25 cl",No promotion,"0,0 AMSTEL",No specified,25 cl,6,Not image,Eroski
-1.78,5.39,"Cerveza belga especial JUDAS, botellín 33 cl",No promotion,belga especial JUDAS,No specified,33 cl,1,Not image,Eroski
-0.96,2.91,"Cerveza AMBAR, botellín 33 cl",No promotion,AMBAR,No specified,33 cl,1,Not image,Eroski
-0.99,3.96,"Cider de manzana verde LADRÓN DE MANZANAS, botellín 25 cl",2ª unidad -50%,de manzana verde LADRÓN DE MANZANAS,No specified,25 cl,1,Not image,Eroski
-0.99,3.0,"Cerveza AMSTEL Oro, botellín 33 cl",No promotion,AMSTEL Oro,No specified,33 cl,1,Not image,Eroski
-2.28,6.91,"Cerveza artesana Indian pale ale OLAÑETA, botellín 33 cl",No promotion,artesana Indian pale ale OLAÑETA,No specified,33 cl,1,Not image,Eroski
-1.85,3.7,"Cerveza artesana alemana GREVENSTEINER, botellín 50 cl",No promotion,artesana alemana GREVENSTEINER,No specified,50 cl,1,Not image,Eroski
-0.81,2.45,"Cerveza negra BOCK DAMM , lata 33 cl",No promotion,negra BOCK DAMM ,lata,33 cl,1,Not image,Eroski
-3.45,4.6,"Cerveza especial botella INEDIT, botella 75 cl",No promotion,especial botella INEDIT,botella,75 cl,1,Not image,Eroski
-0.89,2.7,"Cerveza sin filtrar EL AGUILA, botellín 33 cl",No promotion,sin filtrar EL AGUILA,No specified,33 cl,1,Not image,Eroski
-0.77,2.33,"Cerveza sin filtrar EL AGUILA, lata 33 cl",No promotion,sin filtrar EL AGUILA,lata,33 cl,1,Not image,Eroski
-1.37,4.15,"Cerveza con lima DESPERADO, botellín 33 cl",2ª unidad -50%,con lima DESPERADO,No specified,33 cl,1,Not image,Eroski
-0.85,2.58,"Cerveza Gran Reserva CRUZCAMPO, lata 33 cl",No promotion,Gran Reserva CRUZCAMPO,lata,33 cl,1,Not image,Eroski
-0.56,1.7,"Cerveza AMSTEL, lata 33 cl",No promotion,AMSTEL,lata,33 cl,1,Not image,Eroski
-2.8,8.48,"Cerveza belga azul CHIMAY, botellín 33 cl",No promotion,belga azul CHIMAY,No specified,33 cl,1,Not image,Eroski
-1.29,3.91,"Cider sabor frutos rojos LADRÓN DE MANZANAS, lata 33 cl",No promotion,sabor frutos rojos LADRÓN DE MANZANAS,lata,33 cl,1,Not image,Eroski
-2.74,8.3,"Cerveza irlandesa negra GUINESS Draught, botellín 33 cl",No promotion,irlandesa negra GUINESS Draught,No specified,33 cl,1,Not image,Eroski
-1.31,1.31,"Cerveza AMSTEL, botella 1 litro",No promotion,AMSTEL,botella,", ",1,Not image,Eroski
-2.25,6.82,"Cerveza artesana blonde OLAÑETA, botellín 33 cl",No promotion,artesana blonde OLAÑETA,No specified,33 cl,1,Not image,Eroski
-1.65,5.0,"Cerveza lager HOP HOUSE 13, botellín 33 cl",No promotion,lager HOP HOUSE 13,No specified,33 cl,1,Not image,Eroski
-2.39,7.24,"Cerveza Lorea Ipa BOGA, botellín 33 cl",No promotion,Lorea Ipa BOGA,No specified,33 cl,1,Not image,Eroski
-1.99,6.03,"Cerveza holandesa TRAPPE, botellín 33 cl",No promotion,holandesa TRAPPE,No specified,33 cl,1,Not image,Eroski
-0.63,1.91,"Cerveza normal EL AGUILA, lata 33 cl",No promotion,normal EL AGUILA,lata,33 cl,1,Not image,Eroski
-0.63,1.91,"Cerveza sabor limón DAMM, lata 33 cl",No promotion,sabor limón DAMM,lata,33 cl,1,Not image,Eroski
-1.75,5.3,"Cerveza Indie Pal BREWDOG, botellín 33 cl",No promotion,Indie Pal BREWDOG,No specified,33 cl,1,Not image,Eroski
-0.97,1.94,"Cerveza KELER, lata 50 cl",No promotion,KELER,lata,50 cl,1,Not image,Eroski
-1.8,7.2,"Cerveza de cereza MORT SUBITE Xtreme, botellín 25 cl",No promotion,de cereza MORT SUBITE Xtreme,No specified,25 cl,1,Not image,Eroski
-1.4,4.24,"Cerveza japonesa KIRIN, botellín 33 cl",No promotion,japonesa KIRIN,No specified,33 cl,1,Not image,Eroski
-1.28,3.88,"Cerveza URQUELL Pilsner, botellín 33 cl",No promotion,URQUELL Pilsner,No specified,33 cl,1,Not image,Eroski
-1.05,1.59,"Cerveza ESTRELLA DAMM, botellín 66 cl","1,35 € Antes",ESTRELLA DAMM,No specified,66 cl,1,Not image,Eroski
-1.11,3.36,"Cerveza Gran Reserva CRUZ CAMPO, botellín 33 cl",No promotion,Gran Reserva CRUZ CAMPO,No specified,33 cl,1,Not image,Eroski
-2.25,6.82,"Cerveza artesana brown OLAÑETA, botellín 33 cl",No promotion,artesana brown OLAÑETA,No specified,33 cl,1,Not image,Eroski
-2.6,7.88,"Cerveza belga roja CHIMAY, botellín 33 cl",No promotion,belga roja CHIMAY,No specified,33 cl,1,Not image,Eroski
-0.85,2.58,"Cerveza IPA Andalusian CRUZCAMPO, lata 33 cl",2ª unidad -50%,IPA Andalusian CRUZCAMPO,lata,33 cl,1,Not image,Eroski
-1.22,3.7,"Cerveza italiana MORETTI, botellín 33 cl",No promotion,italiana MORETTI,No specified,33 cl,1,Not image,Eroski
-0.64,2.56,"Cerveza roja fresca MALQUERIDA, botellín 25 cl",No promotion,roja fresca MALQUERIDA,No specified,25 cl,1,Not image,Eroski
-18.49,3.7,"Cerveza holandesa HEINEKEN, barril 5 litros",No promotion,holandesa HEINEKEN,barril,", ",1,Not image,Eroski
-2.57,3.43,"Cider LADRÓN DE MANZANAS, botella 75 cl",No promotion,LADRÓN DE MANZANAS,botella,75 cl,1,Not image,Eroski
-1.39,4.21,"Cerveza lemon CLAUSTHALER, botellín 33 cl",No promotion,lemon CLAUSTHALER,No specified,33 cl,1,Not image,Eroski
-2.9,8.79,"Cerveza artesana negra Milk Stout OLAÑETA, botellín 33 cl",No promotion,artesana negra Milk Stout OLAÑETA,No specified,33 cl,1,Not image,Eroski
+6.15,2.04,"Cerveza KELER, pack botellín 12x25 cl",2ª unidad -50%,keler,No specified,25 cl,12,Not image,Eroski
+0.55,1.67,"Cerveza 0,0 ESTRELLA GALICIA, lata 33 cl",No promotion,"0,0 estrella galicia",lata,33 cl,1,Not image,Eroski
+6.8,2.06,"Cerveza AMSTEL Oro, pack lata 10x33 cl",No promotion,amstel oro,lata,33 cl,10,Not image,Eroski
+8.5,2.84,"Cerveza WOLL-DAMM, pack 12x25 cl",No promotion,woll-damm,No specified,25 cl,12,Not image,Eroski
+0.33,1.0,"Cerveza sin alcohol AURUM, lata 33 cl",No promotion,sin alcohol aurum,lata,33 cl,1,Not image,Eroski
+6.1,2.06,"Cerveza AMBAR, pack 9x33 cl",2ª unidad -50%,ambar,No specified,33 cl,9,Not image,Eroski
+2.39,1.6,"Cerveza con limonada CRUZCAMPO Shandy, pack 6x25 cl",No promotion,con limonada cruzcampo shandy,No specified,25 cl,6,Not image,Eroski
+0.61,1.85,"Cerveza CRUZCAMPO Shandy, lata 33 cl",No promotion,cruzcampo shandy,lata,33 cl,1,Not image,Eroski
+7.32,1.85,"Cerveza 0,0 Radler AMSTEL, pack lata 12x33 cl",No promotion,"0,0 radler amstel",lata,33 cl,12,Not image,Eroski
+6.13,3.09,"Cerveza 1906 Red Vintage, pack 6x33 cl",No promotion,1906 red vintage,No specified,33 cl,6,Not image,Eroski
+0.64,1.94,"Cerveza 0,0% HEINEKEN, lata 33 cl",No promotion,"0,0% heineken",lata,33 cl,1,Not image,Eroski
+1.37,4.15,"Cerveza con tequila DESPERADOS, botellín 33 cl",2ª unidad -50%,con tequila desperados,No specified,33 cl,1,Not image,Eroski
+0.38,0.76,"Cerveza AURUM, lata 50 cl",No promotion,aurum,lata,50 cl,1,Not image,Eroski
+0.64,1.94,"Cerveza 0,0 AMSTEL Oro, lata 33 cl",No promotion,"0,0 amstel oro",lata,33 cl,1,Not image,Eroski
+12.48,1.58,"Cerveza AMSTEL, pack lata 24x33 cl",No promotion,amstel,lata,33 cl,24,Not image,Eroski
+0.25,0.76,"Cerveza AURUM, lata 33 cl",No promotion,aurum,lata,33 cl,1,Not image,Eroski
+0.59,1.79,"Cerveza 0,0% BUCKLER Radler, lata 33 cl",No promotion,"0,0% buckler radler",lata,33 cl,1,Not image,Eroski
+0.7,0.7,"Cerveza AURUM, botella 1 litro",No promotion,aurum,botella,", ",1,Not image,Eroski
+0.55,1.67,"Cerveza sin alcohol FREE DAMM, lata 33 cl",No promotion,sin alcohol free damm,lata,33 cl,1,Not image,Eroski
+7.39,2.48,"Cerveza HEINEKEN, pack botellín 12x25 cl",No promotion,heineken,No specified,25 cl,12,Not image,Eroski
+0.49,1.48,"Cerveza 0,0% AURUM Radler, lata 33 cl",2ª unidad -50%,"0,0% aurum radler",lata,33 cl,1,Not image,Eroski
+0.58,1.76,"Cerveza KELER, lata 33 cl",No promotion,keler,lata,33 cl,1,Not image,Eroski
+3.15,2.12,"Cerveza AMSTEL Radler, pack botellín 6x25 cl",No promotion,amstel radler,No specified,25 cl,6,Not image,Eroski
+0.64,1.94,"Cerveza 0,0 AMSTEL Radler, lata 33 cl",No promotion,"0,0 amstel radler",lata,33 cl,1,Not image,Eroski
+2.0,4.55,"Cerveza irlandesa negra GUINNESS, lata 44 cl",No promotion,irlandesa negra guinness,lata,44 cl,1,Not image,Eroski
+4.99,2.52,"Cerveza Pilsen ESTRELLA GALICIA, pack botellín 6x33 cl",No promotion,pilsen estrella galicia,No specified,33 cl,6,Not image,Eroski
+3.75,2.52,"Cerveza 0,0% HEINEKEN, pack botellín 6x25 cl",No promotion,"0,0% heineken",No specified,25 cl,6,Not image,Eroski
+7.55,1.91,"Cerveza 0.0% HEINEKEN, pack botellín 12x33 cl",2ª unidad -50%,0.0% heineken,No specified,33 cl,12,Not image,Eroski
+3.42,2.28,"Cerveza ESTRELLA DAMM, pack botellín 6x25 cl",No promotion,estrella damm,No specified,25 cl,6,Not image,Eroski
+2.19,1.48,"Cerveza sin alcohol BUCKLER 0, pack botellín 6x25 cl",No promotion,sin alcohol buckler 0,No specified,25 cl,6,Not image,Eroski
+0.99,3.96,"Cider LADRÓN DE MANZANAS, botellín 25 cl",2ª unidad -50%,ladrón de manzanas,No specified,25 cl,1,Not image,Eroski
+0.69,2.09,"Cerveza ESTRELLA DAMM, lata 33 cl",No promotion,estrella damm,lata,33 cl,1,Not image,Eroski
+0.55,1.67,"Cerveza sin alcohol BUCKLER 0, lata 33 cl",No promotion,sin alcohol buckler 0,lata,33 cl,1,Not image,Eroski
+1.29,3.91,"Cider LADRÓN DE MANZANAS, lata 33 cl",No promotion,ladrón de manzanas,lata,33 cl,1,Not image,Eroski
+4.2,2.8,"Cerveza extra VOLL-DAMM, pack 6x25 cl",No promotion,extra voll-damm,No specified,25 cl,6,Not image,Eroski
+0.49,1.48,"Cerveza AURUM Radler, lata 33 cl",2ª unidad -50%,aurum radler,lata,33 cl,1,Not image,Eroski
+2.15,6.52,"Cerveza Punk Ipa BREWDOG, botellín 33 cl",No promotion,punk ipa brewdog,No specified,33 cl,1,Not image,Eroski
+0.38,1.15,"Cerveza clásica AMSTEL, lata 33 cl",No promotion,clásica amstel,lata,33 cl,1,Not image,Eroski
+2.49,1.68,"Cerveza AMSTEL, pack lata 6x25 cl",No promotion,amstel,lata,25 cl,6,Not image,Eroski
+1.09,2.18,"Cerveza HEINEKEN, lata 50 cl",No promotion,heineken,lata,50 cl,1,Not image,Eroski
+0.75,2.27,"Cerveza sin gluten ESTRELLA GALICIA, botellín 33 cl",No promotion,sin gluten estrella galicia,No specified,33 cl,1,Not image,Eroski
+0.53,1.61,"Cerveza tostada 6,6% vol. AURUM, lata 33 cl",No promotion,"tostada 6,6% vol. aurum",lata,33 cl,1,Not image,Eroski
+0.56,1.7,"Cerveza sin alcohol AMSTEL, lata 33 cl",No promotion,sin alcohol amstel,lata,33 cl,1,Not image,Eroski
+1.58,1.04,"Cerveza AURUM, pack botellín 6x25 cl",No promotion,aurum,No specified,25 cl,6,Not image,Eroski
+1.49,4.52,"Cerveza IPA AMBAR, botellín 33 cl",2ª unidad -50%,ipa ambar,No specified,33 cl,1,Not image,Eroski
+1.12,3.39,"Cerveza HEINEKEN, botellín 33 cl",No promotion,heineken,No specified,33 cl,1,Not image,Eroski
+0.88,2.67,"Cerveza AMBAR Export, lata 33 cl",No promotion,ambar export,lata,33 cl,1,Not image,Eroski
+2.3,6.48,"Cerveza Ipa LAGUNITAS, botellín 35,5 cl",No promotion,ipa lagunitas,No specified,"35,5 cl",1,Not image,Eroski
+1.37,4.15,"Cerveza INEDIT, botellín 33 cl",No promotion,inedit,No specified,33 cl,1,Not image,Eroski
+0.98,2.97,"Cerveza sin gluten DAURA, botellín 33 cl",No promotion,sin gluten daura,No specified,33 cl,1,Not image,Eroski
+0.57,1.73,"Cerveza CRUZCAMPO, lata 33 cl",No promotion,cruzcampo,lata,33 cl,1,Not image,Eroski
+1.1,3.33,"Cerveza VOLL-DAMM, botellín 33 cl",No promotion,voll-damm,No specified,33 cl,1,Not image,Eroski
+1.37,4.15,"Cerveza Mojito DESPERADOS, botellín 33 cl",2ª unidad -50%,mojito desperados,No specified,33 cl,1,Not image,Eroski
+0.84,1.68,"Cerveza Hefe-Weissbier AURUM, botellín 50 cl",No promotion,hefe-weissbier aurum,No specified,50 cl,1,Not image,Eroski
+0.81,1.62,"Cerveza AMSTEL, lata 50 cl",No promotion,amstel,lata,50 cl,1,Not image,Eroski
+4.9,1.64,"Cerveza AMSTEL, pack botellín 12x25 cl",2ª unidad -50%,amstel,No specified,25 cl,12,Not image,Eroski
+0.39,1.18,"Cerveza especial AURUM, lata 33 cl",No promotion,especial aurum,lata,33 cl,1,Not image,Eroski
+0.58,1.76,"Cerveza extra 7,5% vol. AURUM, lata 33 cl",No promotion,"extra 7,5% vol. aurum",lata,33 cl,1,Not image,Eroski
+0.55,1.67,"Cerveza sin alcohol sabor limón FREE DAMM, lata 33 cl",No promotion,sin alcohol sabor limón free damm,lata,33 cl,1,Not image,Eroski
+1.6,1.08,"Cerveza sin alcohol 0,0% AURUM, pack botellín 6x25 cl",No promotion,"sin alcohol 0,0% aurum",No specified,25 cl,6,Not image,Eroski
+1.61,3.22,"Cerveza con aroma de tequila DESPERADOS, lata 50 cl",No promotion,con aroma de tequila desperados,lata,50 cl,1,Not image,Eroski
+0.66,2.0,"Cerveza ORO, lata 33 cl",No promotion,oro,lata,33 cl,1,Not image,Eroski
+1.02,2.04,"Cerveza ESTRELLA DAMM Estrella, lata 50 cl",No promotion,estrella damm estrella,lata,50 cl,1,Not image,Eroski
+3.3,2.2,"Cerveza ORO, pack botellín 6x25 cl",No promotion,oro,No specified,25 cl,6,Not image,Eroski
+1.07,3.24,"Cerveza DAMM Lager A.K. 1876, botellín 33 cl",No promotion,damm lager a.k. 1876,No specified,33 cl,1,Not image,Eroski
+2.75,1.84,"Cerveza sin alcohol FREE DAMM, pack 6x25 cl",2ª unidad -50%,sin alcohol free damm,No specified,25 cl,6,Not image,Eroski
+0.62,1.88,"Cerveza Radler 0.0 tostada AMSTEL, lata 33 cl",2ª unidad -50%,radler 0.0 tostada amstel,lata,33 cl,1,Not image,Eroski
+1.38,1.38,"Cerveza KELER, botella 1 litro",No promotion,keler,botella,", ",1,Not image,Eroski
+1.6,4.85,"Cerveza Ipa COMPLOT, botellín 33 cl","1,90 € Antes",ipa complot,No specified,33 cl,1,Not image,Eroski
+0.96,2.91,"Cerveza 0,0 AMBAR Green, botellín 33 cl",No promotion,"0,0 ambar green",No specified,33 cl,1,Not image,Eroski
+0.99,3.96,"Cider sabor frutos rojos LADRÓN DE MANZANAS, botellín 25 cl",2ª unidad -50%,sabor frutos rojos ladrón de manzanas,No specified,25 cl,1,Not image,Eroski
+0.22,0.67,"Cerveza CORGON GARD, lata 33 cl",No promotion,corgon gard,lata,33 cl,1,Not image,Eroski
+0.68,2.06,"Cerveza extra AMSTEL, lata 33 cl",No promotion,extra amstel,lata,33 cl,1,Not image,Eroski
+1.6,2.42,"Cerveza VOLL-DAMM, botellín 66 cl",No promotion,voll-damm,No specified,66 cl,1,Not image,Eroski
+1.6,4.85,"Cerveza original GUINNESS, botellín 33 cl",No promotion,original guinness,No specified,33 cl,1,Not image,Eroski
+2.45,1.64,"Cerveza 0,0 AMSTEL, pack botellín 6x25 cl",No promotion,"0,0 amstel",No specified,25 cl,6,Not image,Eroski
+1.78,5.39,"Cerveza belga especial JUDAS, botellín 33 cl",No promotion,belga especial judas,No specified,33 cl,1,Not image,Eroski
+0.96,2.91,"Cerveza AMBAR, botellín 33 cl",No promotion,ambar,No specified,33 cl,1,Not image,Eroski
+0.99,3.96,"Cider de manzana verde LADRÓN DE MANZANAS, botellín 25 cl",2ª unidad -50%,de manzana verde ladrón de manzanas,No specified,25 cl,1,Not image,Eroski
+0.99,3.0,"Cerveza AMSTEL Oro, botellín 33 cl",No promotion,amstel oro,No specified,33 cl,1,Not image,Eroski
+2.28,6.91,"Cerveza artesana Indian pale ale OLAÑETA, botellín 33 cl",No promotion,artesana indian pale ale olañeta,No specified,33 cl,1,Not image,Eroski
+1.85,3.7,"Cerveza artesana alemana GREVENSTEINER, botellín 50 cl",No promotion,artesana alemana grevensteiner,No specified,50 cl,1,Not image,Eroski
+0.81,2.45,"Cerveza negra BOCK DAMM , lata 33 cl",No promotion,negra bock damm ,lata,33 cl,1,Not image,Eroski
+0.89,2.7,"Cerveza sin filtrar EL AGUILA, botellín 33 cl",No promotion,sin filtrar el aguila,No specified,33 cl,1,Not image,Eroski
+3.45,4.6,"Cerveza especial botella INEDIT, botella 75 cl",No promotion,especial botella inedit,botella,75 cl,1,Not image,Eroski
+0.69,2.09,"Cerveza especial AMBAR, lata 33 cl",No promotion,especial ambar,lata,33 cl,1,Not image,Eroski
+0.77,2.33,"Cerveza sin filtrar EL AGUILA, lata 33 cl",No promotion,sin filtrar el aguila,lata,33 cl,1,Not image,Eroski
+1.37,4.15,"Cerveza con lima DESPERADO, botellín 33 cl",2ª unidad -50%,con lima desperado,No specified,33 cl,1,Not image,Eroski
+0.85,2.58,"Cerveza Gran Reserva CRUZCAMPO, lata 33 cl",No promotion,gran reserva cruzcampo,lata,33 cl,1,Not image,Eroski
+0.56,1.7,"Cerveza AMSTEL, lata 33 cl",No promotion,amstel,lata,33 cl,1,Not image,Eroski
+2.8,8.48,"Cerveza belga azul CHIMAY, botellín 33 cl",No promotion,belga azul chimay,No specified,33 cl,1,Not image,Eroski
+1.29,3.91,"Cider sabor frutos rojos LADRÓN DE MANZANAS, lata 33 cl",No promotion,sabor frutos rojos ladrón de manzanas,lata,33 cl,1,Not image,Eroski
+1.31,1.31,"Cerveza AMSTEL, botella 1 litro",No promotion,amstel,botella,", ",1,Not image,Eroski
+2.74,8.3,"Cerveza irlandesa negra GUINESS Draught, botellín 33 cl",No promotion,irlandesa negra guiness draught,No specified,33 cl,1,Not image,Eroski
+2.25,6.82,"Cerveza artesana blonde OLAÑETA, botellín 33 cl",No promotion,artesana blonde olañeta,No specified,33 cl,1,Not image,Eroski
+1.65,5.0,"Cerveza lager HOP HOUSE 13, botellín 33 cl",No promotion,lager hop house 13,No specified,33 cl,1,Not image,Eroski
+0.63,1.91,"Cerveza normal EL AGUILA, lata 33 cl",No promotion,normal el aguila,lata,33 cl,1,Not image,Eroski
+2.39,7.24,"Cerveza Lorea Ipa BOGA, botellín 33 cl",No promotion,lorea ipa boga,No specified,33 cl,1,Not image,Eroski
+0.63,1.91,"Cerveza sabor limón DAMM, lata 33 cl",No promotion,sabor limón damm,lata,33 cl,1,Not image,Eroski
+1.99,6.03,"Cerveza holandesa TRAPPE, botellín 33 cl",No promotion,holandesa trappe,No specified,33 cl,1,Not image,Eroski
+1.75,5.3,"Cerveza Indie Pal BREWDOG, botellín 33 cl",No promotion,indie pal brewdog,No specified,33 cl,1,Not image,Eroski
+0.97,1.94,"Cerveza KELER, lata 50 cl",No promotion,keler,lata,50 cl,1,Not image,Eroski
+1.8,7.2,"Cerveza de cereza MORT SUBITE Xtreme, botellín 25 cl",No promotion,de cereza mort subite xtreme,No specified,25 cl,1,Not image,Eroski
+1.4,4.24,"Cerveza japonesa KIRIN, botellín 33 cl",No promotion,japonesa kirin,No specified,33 cl,1,Not image,Eroski
+1.28,3.88,"Cerveza URQUELL Pilsner, botellín 33 cl",No promotion,urquell pilsner,No specified,33 cl,1,Not image,Eroski
+1.05,1.59,"Cerveza ESTRELLA DAMM, botellín 66 cl","1,35 € Antes",estrella damm,No specified,66 cl,1,Not image,Eroski
+1.11,3.36,"Cerveza Gran Reserva CRUZ CAMPO, botellín 33 cl",No promotion,gran reserva cruz campo,No specified,33 cl,1,Not image,Eroski
+2.25,6.82,"Cerveza artesana brown OLAÑETA, botellín 33 cl",No promotion,artesana brown olañeta,No specified,33 cl,1,Not image,Eroski
+2.6,7.88,"Cerveza belga roja CHIMAY, botellín 33 cl",No promotion,belga roja chimay,No specified,33 cl,1,Not image,Eroski
+0.85,2.58,"Cerveza IPA Andalusian CRUZCAMPO, lata 33 cl",2ª unidad -50%,ipa andalusian cruzcampo,lata,33 cl,1,Not image,Eroski
+0.64,2.56,"Cerveza roja fresca MALQUERIDA, botellín 25 cl",No promotion,roja fresca malquerida,No specified,25 cl,1,Not image,Eroski
+18.49,3.7,"Cerveza holandesa HEINEKEN, barril 5 litros",No promotion,holandesa heineken,barril,", ",1,Not image,Eroski
+1.22,3.7,"Cerveza italiana MORETTI, botellín 33 cl",No promotion,italiana moretti,No specified,33 cl,1,Not image,Eroski
+2.57,3.43,"Cider LADRÓN DE MANZANAS, botella 75 cl",No promotion,ladrón de manzanas,botella,75 cl,1,Not image,Eroski
+1.39,4.21,"Cerveza lemon CLAUSTHALER, botellín 33 cl",No promotion,lemon clausthaler,No specified,33 cl,1,Not image,Eroski
+2.9,8.79,"Cerveza artesana negra Milk Stout OLAÑETA, botellín 33 cl",No promotion,artesana negra milk stout olañeta,No specified,33 cl,1,Not image,Eroski
+0.62,2.48,"Cerveza BOCK DAMM, botellín 25 cl",No promotion,bock damm,No specified,25 cl,1,Not image,Eroski
+1.99,6.63,"Cerveza belga AFFLIGEM Blond, botellín 30 cl",No promotion,belga affligem blond,No specified,30 cl,1,Not image,Eroski
+1.0,3.03,"Cerveza de trigo CRUZCAMPO, botellín 33 cl",No promotion,de trigo cruzcampo,No specified,33 cl,1,Not image,Eroski
+1.35,4.09,"Cerveza belga STELLA ARTOI, botellín 33 cl",2ª unidad -50%,belga stella artoi,No specified,33 cl,1,Not image,Eroski
+1.32,4.0,"Cerveza mexicana SOL, botellín 33 cl",No promotion,mexicana sol,No specified,33 cl,1,Not image,Eroski
+5.95,2.0,"Cerveza especial CRUZCAMPO, pack botellín 12x25 cl",No promotion,especial cruzcampo,No specified,25 cl,12,Not image,Eroski
+1.25,3.68,"Cerveza argentina QUILMES, botellín 34 cl",No promotion,argentina quilmes,No specified,34 cl,1,Not image,Eroski
+0.89,33.0,"Cerveza PILSNER URQUELL, lata 33 cl",No promotion,pilsner urquell,lata,33 cl,1,Not image,Eroski
+0.48,1.92,"Cerveza de limón DAMM LEMON, botellín 25 cl",No promotion,de limón damm lemon,No specified,25 cl,1,Not image,Eroski
+1.05,3.18,"Cerveza DAURA MARZEN, botellín 33 cl",No promotion,daura marzen,No specified,33 cl,1,Not image,Eroski
+1.19,3.61,"Cerveza export AMBAR, botellín 33 cl",No promotion,export ambar,No specified,33 cl,1,Not image,Eroski
+0.62,2.48,"Cerveza TURIA, botellín 25 cl",No promotion,turia,No specified,25 cl,1,Not image,Eroski
+2.1,6.36,"Cerveza Ambiciosas AMBAR 10, botellín 33 cl",No promotion,ambiciosas ambar 10,No specified,33 cl,1,Not image,Eroski
+1.0,3.03,"Cerveza Andalusian IPA CRUZCAMPO, botellín 33 cl",No promotion,andalusian ipa cruzcampo,No specified,33 cl,1,Not image,Eroski
+0.95,2.88,"Cerveza especial sin gluten CRUZCAMPO, botellín 33 cl",No promotion,especial sin gluten cruzcampo,No specified,33 cl,1,Not image,Eroski
+2.65,1.76,"Cerveza limón FREE DAMM, pack 6x25 cl",No promotion,limón free damm,No specified,25 cl,6,Not image,Eroski
+0.63,1.91,"Cerveza especial CRUZCAMPO Cruzial, lata 33 cl",No promotion,especial cruzcampo cruzial,lata,33 cl,1,Not image,Eroski
+1.85,4.2,"Sidra STRONGBOW, lata 44 cl",No promotion,strongbow,lata,44 cl,1,Not image,Eroski
+2.09,6.33,"Cerveza Tossta Browmn BOGA, botellín 33 cl",No promotion,tossta browmn boga,No specified,33 cl,1,Not image,Eroski
+2.59,2.6,"Sidra extra sin alcohol JAI ALAI, pack 4x25 cl",No promotion,extra sin alcohol jai alai,No specified,25 cl,4,Not image,Eroski
+1.5,3.0,"Cerveza Dunkel SCHÖFFERHOFER, botellín 50 cl",No promotion,dunkel schöfferhofer,No specified,50 cl,1,Not image,Eroski
+2.09,6.33,"Cerveza Argia Pilsen BOGA, botellín 33 cl",No promotion,argia pilsen boga,No specified,33 cl,1,Not image,Eroski
+3.52,7.04,"Sidra BULMERS, botella 50 cl",No promotion,bulmers,botella,50 cl,1,Not image,Eroski
+0.52,2.08,"Cerveza EL AGUILA, botellín 25 cl",No promotion,el aguila,No specified,25 cl,1,Not image,Eroski
+1.83,4.07,"Cerveza Swin Top GROLSCH, botellín 45 cl",No promotion,swin top grolsch,No specified,45 cl,1,Not image,Eroski
+1.35,4.09,"Cerveza SCHÖFFERHOFER, botellín 33 cl",No promotion,schöfferhofer,No specified,33 cl,1,Not image,Eroski
+2.49,7.55,"Cerveza LA GOUDALE, botellín 33 cl",No promotion,la goudale,No specified,33 cl,1,Not image,Eroski
+1.62,3.24,"Cerveza Mojito DESPERADOS, lata 50 cl",No promotion,mojito desperados,lata,50 cl,1,Not image,Eroski
+2.3,4.6,"Cerveza negra alemana ATKIEN DUNKEL, botellín 50 cl",No promotion,negra alemana atkien dunkel,No specified,50 cl,1,Not image,Eroski
+2.5,7.58,"Cerveza de frambuesa CHÉRIE, botellín 33 cl",No promotion,de frambuesa chérie,No specified,33 cl,1,Not image,Eroski
+0.92,1.84,"Cerveza especial CRUZCAMPO, lata 50 cl",No promotion,especial cruzcampo,lata,50 cl,1,Not image,Eroski
+3.45,10.45,"Cerveza roja BELZEBUTH, botellín 33 cl",No promotion,roja belzebuth,No specified,33 cl,1,Not image,Eroski
+2.05,6.21,"Cerveza Lager LA VIRGEN, botellín 33 cl",No promotion,lager la virgen,No specified,33 cl,1,Not image,Eroski
+2.1,4.2,"Cerveza ambiciosa roja AMBAR, botellín 33 cl",No promotion,ambiciosa roja ambar,No specified,33 cl,1,Not image,Eroski
+1.23,3.73,"Cerveza alemana LOWENBRAU HELL, botellín 33 cl",No promotion,alemana lowenbrau hell,No specified,33 cl,1,Not image,Eroski
