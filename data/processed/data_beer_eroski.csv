@@ -11,11 +11,10 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 6.42,1.64,"Cerveza ALHAMBRA Tradición, pack lata 12x33 cl",2ª unidad -70%,alhambra tradición,lata,33 cl,12,https://supermercado.eroski.es/images/16944415.jpg,Eroski
 0.68,2.06,"Cerveza MAHOU 5 Estrellas, lata 33 cl",No promotion,mahou 5 estrellas,lata,33 cl,1,https://supermercado.eroski.es/images/465708.jpg,Eroski
 6.7,1.7,"Cerveza MAHOU 5 Estrellas, pack lata 12x33 cl","7,92 € Antes",mahou 5 estrellas,lata,33 cl,12,https://supermercado.eroski.es/images/8704215.jpg,Eroski
-0.56,1.7,"Cerveza SAN MIGUEL, lata 33 cl",No promotion,san miguel,lata,33 cl,1,https://supermercado.eroski.es/images/373498.jpg,Eroski
 14.3,1.55,"Cerveza SAN MIGUEL, pack lata 28x33 cl",No promotion,san miguel,lata,33 cl,28,https://supermercado.eroski.es/images/12834164.jpg,Eroski
-0.79,2.39,"Cerveza americana BUDWEISER, lata 33 cl",No promotion,americana budweiser,lata,33 cl,1,https://supermercado.eroski.es/images/465740.jpg,Eroski
-4.99,3.95,"Cerveza CORONITA, pack botellín 6x21 cl",No promotion,coronita,No specified,21 cl,6,https://supermercado.eroski.es/images/16640195.jpg,Eroski
 0.56,1.7,"Cerveza sin alcohol MAHOU, lata 33 cl",No promotion,sin alcohol mahou,lata,33 cl,1,https://supermercado.eroski.es/images/1793942.jpg,Eroski
+4.99,3.95,"Cerveza CORONITA, pack botellín 6x21 cl",No promotion,coronita,No specified,21 cl,6,https://supermercado.eroski.es/images/16640195.jpg,Eroski
+0.79,2.39,"Cerveza americana BUDWEISER, lata 33 cl",No promotion,americana budweiser,lata,33 cl,1,https://supermercado.eroski.es/images/465740.jpg,Eroski
 1.32,3.72,"Cerveza mexicana CORONA, botellín 35.5 cl",No promotion,mexicana corona,No specified,35.5 cl,1,https://supermercado.eroski.es/images/597773.jpg,Eroski
 0.56,1.7,"Cerveza sin alcohol 0,0 SAN MIGUEL, lata 33 cl",No promotion,"sin alcohol 0,0 san miguel",lata,33 cl,1,https://supermercado.eroski.es/images/3347358.jpg,Eroski
 2.52,1.68,"Cerveza sin alcohol 0,0 SAN MIGUEL, pack botellín 6x25 cl",No promotion,"sin alcohol 0,0 san miguel",No specified,25 cl,6,https://supermercado.eroski.es/images/1185743.jpg,Eroski
@@ -25,37 +24,35 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 14.3,1.55,"Cerveza MAHOU Clásica, pack 28x33 cl",No promotion,mahou clásica,No specified,33 cl,28,https://supermercado.eroski.es/images/13749205.jpg,Eroski
 0.83,2.52,"Cerveza MAHOU Maestra, lata 33 cl",No promotion,mahou maestra,lata,33 cl,1,https://supermercado.eroski.es/images/18623652.jpg,Eroski
 0.94,2.85,"Cerveza Ipa MAHOU 5 Estrellas, lata 33 cl",No promotion,ipa mahou 5 estrellas,lata,33 cl,1,https://supermercado.eroski.es/images/22226070.jpg,Eroski
+1.38,4.18,"Cerveza belga rubia LEFFE, botellín 33 cl","1,59 € Antes",belga rubia leffe,No specified,33 cl,1,https://supermercado.eroski.es/images/870055.jpg,Eroski
 0.8,1.6,"Cerveza SAN MIGUEL, lata 50 cl",No promotion,san miguel,lata,50 cl,1,https://supermercado.eroski.es/images/256461.jpg,Eroski
 0.79,2.39,"Cerveza SAN MIGUEL Selecta, lata 33 cl",No promotion,san miguel selecta,lata,33 cl,1,https://supermercado.eroski.es/images/10917284.jpg,Eroski
-1.38,4.18,"Cerveza belga rubia LEFFE, botellín 33 cl","1,59 € Antes",belga rubia leffe,No specified,33 cl,1,https://supermercado.eroski.es/images/870055.jpg,Eroski
 4.6,3.48,"Cerveza Reserva Roja ALHAMBRA, pack botellín 4x33 cl",No promotion,reserva roja alhambra,No specified,33 cl,4,https://supermercado.eroski.es/images/19191980.jpg,Eroski
 7.13,1.79,"Cerveza 0,0 tostada MAHOU, pack 12x33 cl",No promotion,"0,0 tostada mahou",No specified,33 cl,12,https://supermercado.eroski.es/images/22016737.jpg,Eroski
-0.55,1.67,"Cerveza ALHAMBRA Tradición, lata 33 cl",No promotion,alhambra tradición,lata,33 cl,1,https://supermercado.eroski.es/images/939038.jpg,Eroski
 6.72,1.7,"Cerveza 0,0 SAN MIGUEL, pack lata 12x33 cl",No promotion,"0,0 san miguel",lata,33 cl,12,https://supermercado.eroski.es/images/16551004.jpg,Eroski
 0.6,1.82,"Cerveza Shandy sabor limón 0,0 SAN MIGUEL, lata 33 cl",No promotion,"shandy sabor limón 0,0 san miguel",lata,33 cl,1,https://supermercado.eroski.es/images/13252192.jpg,Eroski
 3.37,2.24,"Cerveza MAHOU 5 Estrellas, pack botellín 6x25 cl",No promotion,mahou 5 estrellas,No specified,25 cl,6,https://supermercado.eroski.es/images/311720.jpg,Eroski
 0.62,1.88,"Cerveza Lager Auténtica LA SALVE, lata 33 cl",No promotion,lager auténtica la salve,lata,33 cl,1,https://supermercado.eroski.es/images/19500552.jpg,Eroski
 2.25,1.52,"Cerveza ALHAMBRA Especial, pack botellín 6x25 cl","3,05 € Antes",alhambra especial,No specified,25 cl,6,https://supermercado.eroski.es/images/18529347.jpg,Eroski
-1.82,5.52,"Cerveza belga GRIMBERGEN DOUBLE, botellín 33 cl",No promotion,belga grimbergen double,No specified,33 cl,1,https://supermercado.eroski.es/images/15957913.jpg,Eroski
 0.69,2.09,"Cerveza sin gluten MAHOU, lata 33 cl",No promotion,sin gluten mahou,lata,33 cl,1,https://supermercado.eroski.es/images/18532648.jpg,Eroski
+1.82,5.52,"Cerveza belga GRIMBERGEN DOUBLE, botellín 33 cl",No promotion,belga grimbergen double,No specified,33 cl,1,https://supermercado.eroski.es/images/15957913.jpg,Eroski
 0.62,1.88,"Cerveza MAHOU Shandy Mixta, lata 33 cl",No promotion,mahou shandy mixta,lata,33 cl,1,https://supermercado.eroski.es/images/7522303.jpg,Eroski
 0.61,1.85,"Cerveza Radler SAN MIGUEL, lata 33 cl",No promotion,radler san miguel,lata,33 cl,1,https://supermercado.eroski.es/images/20330965.jpg,Eroski
-1.38,4.18,"Cerveza belga negra LEFFE, botellín 33 cl","1,59 € Antes",belga negra leffe,No specified,33 cl,1,https://supermercado.eroski.es/images/870048.jpg,Eroski
 0.9,2.73,"Cerveza MAHOU Maestra, botellín 33 cl","1,09 € Antes",mahou maestra,No specified,33 cl,1,https://supermercado.eroski.es/images/18623314.jpg,Eroski
-1.4,1.4,"Cerveza SAN MIGUEL, botella 1 litro",No promotion,san miguel,botella,", ",1,https://supermercado.eroski.es/images/175588.jpg,Eroski
 0.9,2.73,"Cerveza 0,0 tostada MAHOU, botellín 33 cl",No promotion,"0,0 tostada mahou",No specified,33 cl,1,https://supermercado.eroski.es/images/22016711.jpg,Eroski
+1.4,1.4,"Cerveza SAN MIGUEL, botella 1 litro",No promotion,san miguel,botella,", ",1,https://supermercado.eroski.es/images/175588.jpg,Eroski
 4.99,1.68,"Cerveza clásica MAHOU, pack botellín 12x25 cl",No promotion,clásica mahou,No specified,25 cl,12,https://supermercado.eroski.es/images/4300588.jpg,Eroski
-10.8,3.04,"Cerveza mexicana CORONA, pack botellín 10x35,5 cl",No promotion,mexicana corona,No specified,"35,5 cl",10,https://supermercado.eroski.es/images/18706028.jpg,Eroski
 3.75,2.52,"Cerveza americana BUDWEISER, pack botellín 6x25 cl",2ª unidad -70%,americana budweiser,No specified,25 cl,6,https://supermercado.eroski.es/images/588525.jpg,Eroski
+10.8,3.04,"Cerveza mexicana CORONA, pack botellín 10x35,5 cl",No promotion,mexicana corona,No specified,"35,5 cl",10,https://supermercado.eroski.es/images/18706028.jpg,Eroski
 0.58,1.76,"Cerveza MAHOU Clásica, lata 33 cl",No promotion,mahou clásica,lata,33 cl,1,https://supermercado.eroski.es/images/311712.jpg,Eroski
 0.67,2.03,"Cerveza Especial ALHAMBRA, lata 33 cl",No promotion,especial alhambra,lata,33 cl,1,https://supermercado.eroski.es/images/10926327.jpg,Eroski
 1.32,2.64,"Cerveza alemana FRANZISKANER, lata 50 cl",No promotion,alemana franziskaner,lata,50 cl,1,https://supermercado.eroski.es/images/17506288.jpg,Eroski
 3.35,2.24,"Cerveza Lager Auténtica LA SALVE Bilbao, pack botellín 6x25 cl",No promotion,lager auténtica la salve bilbao,No specified,25 cl,6,https://supermercado.eroski.es/images/19112408.jpg,Eroski
-1.4,1.4,"Cerveza clásica MAHOU, botella 1 litro",No promotion,clásica mahou,botella,", ",1,https://supermercado.eroski.es/images/465716.jpg,Eroski
 2.64,1.76,"Cerveza sin alcohol MAHOU, pack botellín 6x25 cl",No promotion,sin alcohol mahou,No specified,25 cl,6,https://supermercado.eroski.es/images/465757.jpg,Eroski
+1.4,1.4,"Cerveza clásica MAHOU, botella 1 litro",No promotion,clásica mahou,botella,", ",1,https://supermercado.eroski.es/images/465716.jpg,Eroski
 0.73,2.21,"Cerveza KRONENBOURG, lata 33 cl",No promotion,kronenbourg,lata,33 cl,1,https://supermercado.eroski.es/images/319152.jpg,Eroski
-0.68,2.06,"Cerveza CARLSBERG, lata 33 cl",No promotion,carlsberg,lata,33 cl,1,https://supermercado.eroski.es/images/308619.jpg,Eroski
 0.89,2.7,"Cerveza SAN MIGUEL Selecta, botellín 33 cl",No promotion,san miguel selecta,No specified,33 cl,1,https://supermercado.eroski.es/images/10917219.jpg,Eroski
+0.68,2.06,"Cerveza CARLSBERG, lata 33 cl",No promotion,carlsberg,lata,33 cl,1,https://supermercado.eroski.es/images/308619.jpg,Eroski
 0.82,2.48,"Cerveza sin gluten SAN MIGUEL, botellín 33 cl",No promotion,sin gluten san miguel,No specified,33 cl,1,https://supermercado.eroski.es/images/17825571.jpg,Eroski
 0.62,1.88,"Cerveza sin alcohol sabor manzana 0,0 SAN MIGUEL, lata 33 cl",No promotion,"sin alcohol sabor manzana 0,0 san miguel",lata,33 cl,1,https://supermercado.eroski.es/images/7522493.jpg,Eroski
 1.82,5.52,"Cerveza belga GRIMBERGEN BLONDE, botellín 33 cl",No promotion,belga grimbergen blonde,No specified,33 cl,1,https://supermercado.eroski.es/images/15957939.jpg,Eroski
@@ -76,17 +73,17 @@ añadir a la lista",botella,70 cl,1,https://supermercado.eroski.es/images/212529
 0.69,2.09,"Cerveza Radler ALHAMBRA, lata 33 cl",No promotion,radler alhambra,lata,33 cl,1,https://supermercado.eroski.es/images/22226039.jpg,Eroski
 1.49,2.98,"Cerveza alemana FRANZISKANER Dunkel, botellín 50 cl",No promotion,alemana franziskaner dunkel,No specified,50 cl,1,https://supermercado.eroski.es/images/9102260.jpg,Eroski
 1.16,3.52,"Cerveza BUDWEISER, botellín 33 cl",No promotion,budweiser,No specified,33 cl,1,https://supermercado.eroski.es/images/570473.jpg,Eroski
-0.69,2.09,"Cerveza Radler MAHOU 5 Estrellas, lata 33 cl",No promotion,radler mahou 5 estrellas,lata,33 cl,1,https://supermercado.eroski.es/images/21025283.jpg,Eroski
 1.2,3.64,"Cerveza Ipa Yakima SAN MIGUEL, lata 33 cl",No promotion,ipa yakima san miguel,lata,33 cl,1,https://supermercado.eroski.es/images/23466253.jpg,Eroski
-4.69,3.12,"Cerveza CARLSBERG, pack botellín 6x25 cl",No promotion,carlsberg,No specified,25 cl,6,https://supermercado.eroski.es/images/323808.jpg,Eroski
+0.69,2.09,"Cerveza Radler MAHOU 5 Estrellas, lata 33 cl",No promotion,radler mahou 5 estrellas,lata,33 cl,1,https://supermercado.eroski.es/images/21025283.jpg,Eroski
 0.86,2.61,"Cerveza Manila SAN MIGUEL, lata 33 cl",No promotion,manila san miguel,lata,33 cl,1,https://supermercado.eroski.es/images/21025309.jpg,Eroski
+4.69,3.12,"Cerveza CARLSBERG, pack botellín 6x25 cl",No promotion,carlsberg,No specified,25 cl,6,https://supermercado.eroski.es/images/323808.jpg,Eroski
 1.99,5.61,"Cerveza All Day Ipa FOUNDERS, lata 35,5 cl",No promotion,all day ipa founders,lata,"35,5 cl",1,https://supermercado.eroski.es/images/23591811.jpg,Eroski
 1.08,3.27,"Cerveza Lager Auténtica LA SALVE, botellín 33 cl",No promotion,lager auténtica la salve,No specified,33 cl,1,https://supermercado.eroski.es/images/18248922.jpg,Eroski
-1.18,3.58,"Cerveza maestra Dunkel MAHOU, botellín 33 cl",No promotion,maestra dunkel mahou,No specified,33 cl,1,https://supermercado.eroski.es/images/21662788.jpg,Eroski
 2.69,3.59,"Cerveza ABADÍA LEFFE Blonde, botella 75 cl",No promotion,abadía leffe blonde,botella,75 cl,1,https://supermercado.eroski.es/images/13791421.jpg,Eroski
+1.76,5.33,"Cerveza barrica MAHOU, botellín 33 cl",No promotion,barrica mahou,No specified,33 cl,1,https://supermercado.eroski.es/images/19191956.jpg,Eroski
+1.18,3.58,"Cerveza maestra Dunkel MAHOU, botellín 33 cl",No promotion,maestra dunkel mahou,No specified,33 cl,1,https://supermercado.eroski.es/images/21662788.jpg,Eroski
 0.81,2.45,"Cerveza SAN MIGUEL 1516, lata 33 cl",No promotion,san miguel 1516,lata,33 cl,1,https://supermercado.eroski.es/images/6352488.jpg,Eroski
 3.36,2.24,"Cerveza Magna SAN MIGUEL, pack botellín 6x25 cl",No promotion,magna san miguel,No specified,25 cl,6,https://supermercado.eroski.es/images/22226062.jpg,Eroski
-1.76,5.33,"Cerveza barrica MAHOU, botellín 33 cl",No promotion,barrica mahou,No specified,33 cl,1,https://supermercado.eroski.es/images/19191956.jpg,Eroski
 1.56,4.73,"Cerveza WARSTEINER, botellín 33 cl",2ª unidad -70%,warsteiner,No specified,33 cl,1,https://supermercado.eroski.es/images/14061709.jpg,Eroski
 1.08,3.27,Cerveza Manila SAN MIGUEL botellín 33 cl,No promotion,"manila san miguel botellín 33 cl
 1 litro a 3,27 €
@@ -94,21 +91,21 @@ ahora
 1,08 €
 añadir
 añadir a la lista",No specified,33 cl,1,https://supermercado.eroski.es/images/21025416.jpg,Eroski
-1.26,3.82,"Cerveza mexicana negra MODELO, botellín 33 cl",No promotion,mexicana negra modelo,No specified,33 cl,1,https://supermercado.eroski.es/images/592782.jpg,Eroski
 1.82,5.52,"Cerveza belga Blanche GRIMBERGEN, botellín 33 cl",No promotion,belga blanche grimbergen,No specified,33 cl,1,https://supermercado.eroski.es/images/16451429.jpg,Eroski
+1.26,3.82,"Cerveza mexicana negra MODELO, botellín 33 cl",No promotion,mexicana negra modelo,No specified,33 cl,1,https://supermercado.eroski.es/images/592782.jpg,Eroski
 1.22,3.44,"Cerveza PACÍFICO, botellín 35,5 cl",No promotion,pacífico,No specified,"35,5 cl",1,https://supermercado.eroski.es/images/15046212.jpg,Eroski
 1.8,5.45,"Cerveza APA Txirene LA SALVE, botellín 33 cl",No promotion,apa txirene la salve,No specified,33 cl,1,https://supermercado.eroski.es/images/23057417.jpg,Eroski
 1.02,3.09,"Cerveza SAN MIGUEL 1516, botellín 33 cl",No promotion,san miguel 1516,No specified,33 cl,1,https://supermercado.eroski.es/images/15093529.jpg,Eroski
 2.99,8.42,"Cerveza Centennial Ipa FOUNDERS, botellín 35,5 cl",No promotion,centennial ipa founders,No specified,"35,5 cl",1,https://supermercado.eroski.es/images/19501303.jpg,Eroski
-2.99,8.42,"Cerveza All Day Ipa FOUNDERS, botellín 35,5 cl",No promotion,all day ipa founders,No specified,"35,5 cl",1,https://supermercado.eroski.es/images/19501170.jpg,Eroski
 1.33,2.66,"Cerveza alemana SPATEM MUNC, botellín 50 cl",No promotion,alemana spatem munc,No specified,50 cl,1,https://supermercado.eroski.es/images/234708.jpg,Eroski
+2.99,8.42,"Cerveza All Day Ipa FOUNDERS, botellín 35,5 cl",No promotion,all day ipa founders,No specified,"35,5 cl",1,https://supermercado.eroski.es/images/19501170.jpg,Eroski
 1.55,3.1,"Cerveza WARSTEINER, lata 50 cl",No promotion,warsteiner,lata,50 cl,1,https://supermercado.eroski.es/images/16898751.jpg,Eroski
-2.99,8.42,"Cerveza Porter FOUNDERS, botellín 35,5 cl",No promotion,porter founders,No specified,"35,5 cl",1,https://supermercado.eroski.es/images/19501337.jpg,Eroski
 0.66,2.0,"Cerveza Magna Roja 0,0 SAN MIGUEL, lata 33 cl",No promotion,"magna roja 0,0 san miguel",lata,33 cl,1,https://supermercado.eroski.es/images/23486905.jpg,Eroski
-3.11,8.29,"Cerveza Casimiro Ale MAHOU, botellín 37,5 cl",No promotion,casimiro ale mahou,No specified,"37,5 cl",1,https://supermercado.eroski.es/images/18529271.jpg,Eroski
+2.99,8.42,"Cerveza Porter FOUNDERS, botellín 35,5 cl",No promotion,porter founders,No specified,"35,5 cl",1,https://supermercado.eroski.es/images/19501337.jpg,Eroski
 2.99,8.42,"Cerveza Dirty Bastard FOUNDERS, botellín 35,5 cl",No promotion,dirty bastard founders,No specified,"35,5 cl",1,https://supermercado.eroski.es/images/19501287.jpg,Eroski
-1.19,2.38,"Cerveza alemana BECK`S, botellín 50 cl",No promotion,alemana beck`s,No specified,50 cl,1,https://supermercado.eroski.es/images/18552620.jpg,Eroski
+3.11,8.29,"Cerveza Casimiro Ale MAHOU, botellín 37,5 cl",No promotion,casimiro ale mahou,No specified,"37,5 cl",1,https://supermercado.eroski.es/images/18529271.jpg,Eroski
 4.3,6.14,"Cerveza roja ALHAMBRA, botella 70 cl",No promotion,roja alhambra,botella,70 cl,1,https://supermercado.eroski.es/images/21320403.jpg,Eroski
+1.19,2.38,"Cerveza alemana BECK`S, botellín 50 cl",No promotion,alemana beck`s,No specified,50 cl,1,https://supermercado.eroski.es/images/18552620.jpg,Eroski
 1.29,3.91,"Cerveza CUBANISTO, botellín 33 cl",No promotion,cubanisto,No specified,33 cl,1,https://supermercado.eroski.es/images/21034434.jpg,Eroski
 3.11,8.29,"Cerveza Casimiro Extra MAHOU, botellín 37,5 cl",No promotion,casimiro extra mahou,No specified,"37,5 cl",1,https://supermercado.eroski.es/images/18529305.jpg,Eroski
 3.11,8.29,"Cerveza Casimiro Lager MAHOU, botellín 37,5 cl",No promotion,casimiro lager mahou,No specified,"37,5 cl",1,https://supermercado.eroski.es/images/18529214.jpg,Eroski
@@ -122,58 +119,59 @@ añadir a la lista",No specified,33 cl,1,https://supermercado.eroski.es/images/2
 7.32,1.85,"Cerveza AMSTEL Radler, pack lata 12x33 cl",No promotion,amstel radler,lata,33 cl,12,https://supermercado.eroski.es/images/18594176.jpg,Eroski
 5.88,2.97,"Cerveza 1906, pack botellín 6x33 cl",No promotion,1906,No specified,33 cl,6,https://supermercado.eroski.es/images/1850189.jpg,Eroski
 0.79,2.39,"Cerveza VOLL-DAMM, lata 33 cl",No promotion,voll-damm,lata,33 cl,1,https://supermercado.eroski.es/images/336073.jpg,Eroski
-6.48,1.64,"Cerveza AMSTEL, pack lata 12x33 cl",No promotion,amstel,lata,33 cl,12,https://supermercado.eroski.es/images/12829008.jpg,Eroski
 6.96,1.76,"Cerveza KELER, pack lata 12x33 cl",No promotion,keler,lata,33 cl,12,https://supermercado.eroski.es/images/17820036.jpg,Eroski
+6.48,1.64,"Cerveza AMSTEL, pack lata 12x33 cl",No promotion,amstel,lata,33 cl,12,https://supermercado.eroski.es/images/12829008.jpg,Eroski
 0.68,2.06,"Cerveza especial ESTRELLA GALICIA, lata 33 cl",No promotion,especial estrella galicia,lata,33 cl,1,https://supermercado.eroski.es/images/1850197.jpg,Eroski
 6.32,2.8,"Cerveza 1906 ESTRELLA GALICIA, pack 9x25 cl",No promotion,1906 estrella galicia,No specified,25 cl,9,https://supermercado.eroski.es/images/10277796.jpg,Eroski
 0.62,1.88,"Cerveza con limón AMSTEL Radler, lata 33 cl",No promotion,con limón amstel radler,lata,33 cl,1,https://supermercado.eroski.es/images/17234691.jpg,Eroski
 0.65,1.97,"Cerveza HEINEKEN, lata 33 cl",No promotion,heineken,lata,33 cl,1,https://supermercado.eroski.es/images/319400.jpg,Eroski
 3.1,2.08,"Cerveza 0,0 ESTRELLA GALICIA, pack botellín 6x25 cl",No promotion,"0,0 estrella galicia",No specified,25 cl,6,https://supermercado.eroski.es/images/14226435.jpg,Eroski
+8.99,1.52,"Cerveza HEINEKEN, pack lata 18x33 cl","11,33 € Antes",heineken,lata,33 cl,18,https://supermercado.eroski.es/images/16050700.jpg,Eroski
 2.99,2.0,"Cerveza holandesa HEINEKEN, pack botellín 6x25 cl","3,75 € Antes",holandesa heineken,No specified,25 cl,6,https://supermercado.eroski.es/images/398321.jpg,Eroski
 1.49,2.98,"Cerveza alemana PAULANER Heffe Weissbier, botellín 50 cl",No promotion,alemana paulaner heffe weissbier,No specified,50 cl,1,https://supermercado.eroski.es/images/8370710.jpg,Eroski
 0.7,2.12,"Cerveza AMSTEL Oro, lata 33 cl",No promotion,amstel oro,lata,33 cl,1,https://supermercado.eroski.es/images/17818915.jpg,Eroski
+6.15,2.04,"Cerveza KELER, pack botellín 12x25 cl",No promotion,keler,No specified,25 cl,12,https://supermercado.eroski.es/images/9189531.jpg,Eroski
 0.85,2.58,"Cerveza 1906, lata 33 cl",No promotion,1906,lata,33 cl,1,https://supermercado.eroski.es/images/6822365.jpg,Eroski
 8.16,2.06,"Cerveza ESTRELLA DAMM, pack 12x33 cl",No promotion,estrella damm,No specified,33 cl,12,https://supermercado.eroski.es/images/10858314.jpg,Eroski
-6.15,2.04,"Cerveza KELER, pack botellín 12x25 cl",No promotion,keler,No specified,25 cl,12,https://supermercado.eroski.es/images/9189531.jpg,Eroski
-6.8,2.06,"Cerveza AMSTEL Oro, pack lata 10x33 cl",No promotion,amstel oro,lata,33 cl,10,https://supermercado.eroski.es/images/22212476.jpg,Eroski
 0.55,1.67,"Cerveza 0,0 ESTRELLA GALICIA, lata 33 cl",No promotion,"0,0 estrella galicia",lata,33 cl,1,https://supermercado.eroski.es/images/14226609.jpg,Eroski
+6.8,2.06,"Cerveza AMSTEL Oro, pack lata 10x33 cl",No promotion,amstel oro,lata,33 cl,10,https://supermercado.eroski.es/images/22212476.jpg,Eroski
 8.5,2.84,"Cerveza WOLL-DAMM, pack 12x25 cl",No promotion,woll-damm,No specified,25 cl,12,https://supermercado.eroski.es/images/17820432.jpg,Eroski
-0.33,1.0,"Cerveza sin alcohol AURUM, lata 33 cl",No promotion,sin alcohol aurum,lata,33 cl,1,https://supermercado.eroski.es/images/10830842.jpg,Eroski
 6.1,2.06,"Cerveza AMBAR, pack 9x33 cl",No promotion,ambar,No specified,33 cl,9,https://supermercado.eroski.es/images/5595384.jpg,Eroski
+0.33,1.0,"Cerveza sin alcohol AURUM, lata 33 cl",No promotion,sin alcohol aurum,lata,33 cl,1,https://supermercado.eroski.es/images/10830842.jpg,Eroski
 2.39,1.6,"Cerveza con limonada CRUZCAMPO Shandy, pack 6x25 cl",No promotion,con limonada cruzcampo shandy,No specified,25 cl,6,https://supermercado.eroski.es/images/45278.jpg,Eroski
 0.61,1.85,"Cerveza CRUZCAMPO Shandy, lata 33 cl",No promotion,cruzcampo shandy,lata,33 cl,1,https://supermercado.eroski.es/images/8351769.jpg,Eroski
 7.32,1.85,"Cerveza 0,0 Radler AMSTEL, pack lata 12x33 cl",No promotion,"0,0 radler amstel",lata,33 cl,12,https://supermercado.eroski.es/images/22212369.jpg,Eroski
 6.13,3.09,"Cerveza 1906 Red Vintage, pack 6x33 cl",No promotion,1906 red vintage,No specified,33 cl,6,https://supermercado.eroski.es/images/15748403.jpg,Eroski
 1.37,4.15,"Cerveza con tequila DESPERADOS, botellín 33 cl",No promotion,con tequila desperados,No specified,33 cl,1,https://supermercado.eroski.es/images/15872799.jpg,Eroski
 0.65,1.97,"Cerveza 0,0% HEINEKEN, lata 33 cl",No promotion,"0,0% heineken",lata,33 cl,1,https://supermercado.eroski.es/images/19465418.jpg,Eroski
-0.38,0.76,"Cerveza AURUM, lata 50 cl",No promotion,aurum,lata,50 cl,1,https://supermercado.eroski.es/images/5135546.jpg,Eroski
 0.64,1.94,"Cerveza 0,0 AMSTEL Oro, lata 33 cl",No promotion,"0,0 amstel oro",lata,33 cl,1,https://supermercado.eroski.es/images/22213078.jpg,Eroski
+0.38,0.76,"Cerveza AURUM, lata 50 cl",No promotion,aurum,lata,50 cl,1,https://supermercado.eroski.es/images/5135546.jpg,Eroski
 12.48,1.58,"Cerveza AMSTEL, pack lata 24x33 cl",No promotion,amstel,lata,33 cl,24,https://supermercado.eroski.es/images/12829362.jpg,Eroski
-0.25,0.76,"Cerveza AURUM, lata 33 cl",No promotion,aurum,lata,33 cl,1,https://supermercado.eroski.es/images/5135538.jpg,Eroski
 0.59,1.79,"Cerveza 0,0% BUCKLER Radler, lata 33 cl",2ª unidad -70%,"0,0% buckler radler",lata,33 cl,1,https://supermercado.eroski.es/images/16848509.jpg,Eroski
+0.25,0.76,"Cerveza AURUM, lata 33 cl",No promotion,aurum,lata,33 cl,1,https://supermercado.eroski.es/images/5135538.jpg,Eroski
 0.7,0.7,"Cerveza AURUM, botella 1 litro",No promotion,aurum,botella,", ",1,https://supermercado.eroski.es/images/954446.jpg,Eroski
 0.55,1.67,"Cerveza sin alcohol FREE DAMM, lata 33 cl",No promotion,sin alcohol free damm,lata,33 cl,1,https://supermercado.eroski.es/images/151340.jpg,Eroski
-7.39,2.48,"Cerveza HEINEKEN, pack botellín 12x25 cl",No promotion,heineken,No specified,25 cl,12,https://supermercado.eroski.es/images/18625467.jpg,Eroski
 0.49,1.48,"Cerveza 0,0% AURUM Radler, lata 33 cl",2ª unidad -70%,"0,0% aurum radler",lata,33 cl,1,https://supermercado.eroski.es/images/18662569.jpg,Eroski
-0.58,1.76,"Cerveza KELER, lata 33 cl",No promotion,keler,lata,33 cl,1,https://supermercado.eroski.es/images/1202506.jpg,Eroski
+7.39,2.48,"Cerveza HEINEKEN, pack botellín 12x25 cl",No promotion,heineken,No specified,25 cl,12,https://supermercado.eroski.es/images/18625467.jpg,Eroski
 3.15,2.12,"Cerveza AMSTEL Radler, pack botellín 6x25 cl",No promotion,amstel radler,No specified,25 cl,6,https://supermercado.eroski.es/images/19465434.jpg,Eroski
+0.58,1.76,"Cerveza KELER, lata 33 cl",No promotion,keler,lata,33 cl,1,https://supermercado.eroski.es/images/1202506.jpg,Eroski
 0.64,1.94,"Cerveza 0,0 AMSTEL Radler, lata 33 cl",No promotion,"0,0 amstel radler",lata,33 cl,1,https://supermercado.eroski.es/images/20359758.jpg,Eroski
 2.0,4.55,"Cerveza irlandesa negra GUINNESS, lata 44 cl",No promotion,irlandesa negra guinness,lata,44 cl,1,https://supermercado.eroski.es/images/4212726.jpg,Eroski
 4.99,2.52,"Cerveza Pilsen ESTRELLA GALICIA, pack botellín 6x33 cl",No promotion,pilsen estrella galicia,No specified,33 cl,6,https://supermercado.eroski.es/images/19869262.jpg,Eroski
 3.75,2.52,"Cerveza 0,0% HEINEKEN, pack botellín 6x25 cl",No promotion,"0,0% heineken",No specified,25 cl,6,https://supermercado.eroski.es/images/19465426.jpg,Eroski
-7.55,1.91,"Cerveza 0.0% HEINEKEN, pack botellín 12x33 cl",No promotion,0.0% heineken,No specified,33 cl,12,https://supermercado.eroski.es/images/21028865.jpg,Eroski
 3.42,2.28,"Cerveza ESTRELLA DAMM, pack botellín 6x25 cl",No promotion,estrella damm,No specified,25 cl,6,https://supermercado.eroski.es/images/461434.jpg,Eroski
 2.19,1.48,"Cerveza sin alcohol BUCKLER 0, pack botellín 6x25 cl",No promotion,sin alcohol buckler 0,No specified,25 cl,6,https://supermercado.eroski.es/images/5329966.jpg,Eroski
+7.55,1.91,"Cerveza 0.0% HEINEKEN, pack botellín 12x33 cl",No promotion,0.0% heineken,No specified,33 cl,12,https://supermercado.eroski.es/images/21028865.jpg,Eroski
 0.99,3.96,"Cider LADRÓN DE MANZANAS, botellín 25 cl",No promotion,ladrón de manzanas,No specified,25 cl,1,https://supermercado.eroski.es/images/20990529.jpg,Eroski
-0.69,2.09,"Cerveza ESTRELLA DAMM, lata 33 cl",No promotion,estrella damm,lata,33 cl,1,https://supermercado.eroski.es/images/156349.jpg,Eroski
-1.29,3.91,"Cider LADRÓN DE MANZANAS, lata 33 cl",No promotion,ladrón de manzanas,lata,33 cl,1,https://supermercado.eroski.es/images/20990503.jpg,Eroski
 0.55,1.67,"Cerveza sin alcohol BUCKLER 0, lata 33 cl",2ª unidad -70%,sin alcohol buckler 0,lata,33 cl,1,https://supermercado.eroski.es/images/5329958.jpg,Eroski
+5.85,1.48,"Cerveza limón SHANDY, pack 12x33 cl","7,32 € Antes",limón shandy,No specified,33 cl,12,https://supermercado.eroski.es/images/22212443.jpg,Eroski
+1.29,3.91,"Cider LADRÓN DE MANZANAS, lata 33 cl",No promotion,ladrón de manzanas,lata,33 cl,1,https://supermercado.eroski.es/images/20990503.jpg,Eroski
+0.69,2.09,"Cerveza ESTRELLA DAMM, lata 33 cl",No promotion,estrella damm,lata,33 cl,1,https://supermercado.eroski.es/images/156349.jpg,Eroski
 3.6,2.4,"Cerveza extra VOLL-DAMM, pack 6x25 cl","4,20 € Antes",extra voll-damm,No specified,25 cl,6,https://supermercado.eroski.es/images/351098.jpg,Eroski
-0.49,1.48,"Cerveza AURUM Radler, lata 33 cl",2ª unidad -70%,aurum radler,lata,33 cl,1,https://supermercado.eroski.es/images/18662551.jpg,Eroski
-2.15,6.52,"Cerveza Punk Ipa BREWDOG, botellín 33 cl",No promotion,punk ipa brewdog,No specified,33 cl,1,https://supermercado.eroski.es/images/22216915.jpg,Eroski
-0.38,1.15,"Cerveza clásica AMSTEL, lata 33 cl",No promotion,clásica amstel,lata,33 cl,1,https://supermercado.eroski.es/images/15978851.jpg,Eroski
-2.49,1.68,"Cerveza AMSTEL, pack lata 6x25 cl",No promotion,amstel,lata,25 cl,6,https://supermercado.eroski.es/images/14061956.jpg,Eroski
 1.09,2.18,"Cerveza HEINEKEN, lata 50 cl",2ª unidad -70%,heineken,lata,50 cl,1,https://supermercado.eroski.es/images/122630.jpg,Eroski
+0.38,1.15,"Cerveza clásica AMSTEL, lata 33 cl",No promotion,clásica amstel,lata,33 cl,1,https://supermercado.eroski.es/images/15978851.jpg,Eroski
+2.15,6.52,"Cerveza Punk Ipa BREWDOG, botellín 33 cl",No promotion,punk ipa brewdog,No specified,33 cl,1,https://supermercado.eroski.es/images/22216915.jpg,Eroski
+2.49,1.68,"Cerveza AMSTEL, pack lata 6x25 cl",No promotion,amstel,lata,25 cl,6,https://supermercado.eroski.es/images/14061956.jpg,Eroski
 0.75,2.27,"Cerveza sin gluten ESTRELLA GALICIA, botellín 33 cl",No promotion,sin gluten estrella galicia,No specified,33 cl,1,https://supermercado.eroski.es/images/22919971.jpg,Eroski
 1.25,3.79,"Cerveza sin alcohol CLAUSTHALER, botellín 33 cl",No promotion,sin alcohol clausthaler,No specified,33 cl,1,https://supermercado.eroski.es/images/15045875.jpg,Eroski
 0.53,1.61,"Cerveza tostada 6,6% vol. AURUM, lata 33 cl",No promotion,"tostada 6,6% vol. aurum",lata,33 cl,1,https://supermercado.eroski.es/images/17468208.jpg,Eroski
@@ -181,81 +179,81 @@ añadir a la lista",No specified,33 cl,1,https://supermercado.eroski.es/images/2
 0.56,1.7,"Cerveza sin alcohol AMSTEL, lata 33 cl",No promotion,sin alcohol amstel,lata,33 cl,1,https://supermercado.eroski.es/images/17956764.jpg,Eroski
 1.49,4.52,"Cerveza IPA AMBAR, botellín 33 cl",No promotion,ipa ambar,No specified,33 cl,1,https://supermercado.eroski.es/images/21065693.jpg,Eroski
 1.12,3.39,"Cerveza HEINEKEN, botellín 33 cl",No promotion,heineken,No specified,33 cl,1,https://supermercado.eroski.es/images/10481059.jpg,Eroski
-0.88,2.67,"Cerveza AMBAR Export, lata 33 cl",No promotion,ambar export,lata,33 cl,1,https://supermercado.eroski.es/images/14062525.jpg,Eroski
 2.3,6.48,"Cerveza Ipa LAGUNITAS, botellín 35,5 cl",No promotion,ipa lagunitas,No specified,"35,5 cl",1,https://supermercado.eroski.es/images/22197388.jpg,Eroski
+0.88,2.67,"Cerveza AMBAR Export, lata 33 cl",No promotion,ambar export,lata,33 cl,1,https://supermercado.eroski.es/images/14062525.jpg,Eroski
 1.37,4.15,"Cerveza INEDIT, botellín 33 cl",No promotion,inedit,No specified,33 cl,1,https://supermercado.eroski.es/images/17031964.jpg,Eroski
-0.98,2.97,"Cerveza sin gluten DAURA, botellín 33 cl",No promotion,sin gluten daura,No specified,33 cl,1,https://supermercado.eroski.es/images/13793823.jpg,Eroski
 1.1,3.33,"Cerveza VOLL-DAMM, botellín 33 cl",No promotion,voll-damm,No specified,33 cl,1,https://supermercado.eroski.es/images/17794710.jpg,Eroski
+0.98,2.97,"Cerveza sin gluten DAURA, botellín 33 cl",No promotion,sin gluten daura,No specified,33 cl,1,https://supermercado.eroski.es/images/13793823.jpg,Eroski
 0.57,1.73,"Cerveza CRUZCAMPO, lata 33 cl",No promotion,cruzcampo,lata,33 cl,1,https://supermercado.eroski.es/images/158253.jpg,Eroski
 1.37,4.15,"Cerveza Mojito DESPERADOS, botellín 33 cl",No promotion,mojito desperados,No specified,33 cl,1,https://supermercado.eroski.es/images/19624964.jpg,Eroski
 0.84,1.68,"Cerveza Hefe-Weissbier AURUM, botellín 50 cl",No promotion,hefe-weissbier aurum,No specified,50 cl,1,https://supermercado.eroski.es/images/15669815.jpg,Eroski
 0.81,1.62,"Cerveza AMSTEL, lata 50 cl",No promotion,amstel,lata,50 cl,1,https://supermercado.eroski.es/images/5502331.jpg,Eroski
-3.99,1.32,"Cerveza AMSTEL, pack botellín 12x25 cl","4,90 € Antes",amstel,No specified,25 cl,12,https://supermercado.eroski.es/images/14062392.jpg,Eroski
 0.39,1.18,"Cerveza especial AURUM, lata 33 cl",No promotion,especial aurum,lata,33 cl,1,https://supermercado.eroski.es/images/9128372.jpg,Eroski
+3.99,1.32,"Cerveza AMSTEL, pack botellín 12x25 cl","4,90 € Antes",amstel,No specified,25 cl,12,https://supermercado.eroski.es/images/14062392.jpg,Eroski
 0.58,1.76,"Cerveza extra 7,5% vol. AURUM, lata 33 cl",No promotion,"extra 7,5% vol. aurum",lata,33 cl,1,https://supermercado.eroski.es/images/17468216.jpg,Eroski
 0.55,1.67,"Cerveza sin alcohol sabor limón FREE DAMM, lata 33 cl",No promotion,sin alcohol sabor limón free damm,lata,33 cl,1,https://supermercado.eroski.es/images/10388528.jpg,Eroski
 1.6,1.08,"Cerveza sin alcohol 0,0% AURUM, pack botellín 6x25 cl",No promotion,"sin alcohol 0,0% aurum",No specified,25 cl,6,https://supermercado.eroski.es/images/10830834.jpg,Eroski
-0.66,2.0,"Cerveza ORO, lata 33 cl",No promotion,oro,lata,33 cl,1,https://supermercado.eroski.es/images/22214712.jpg,Eroski
 1.61,3.22,"Cerveza con aroma de tequila DESPERADOS, lata 50 cl",2ª unidad -70%,con aroma de tequila desperados,lata,50 cl,1,https://supermercado.eroski.es/images/16733610.jpg,Eroski
+0.66,2.0,"Cerveza ORO, lata 33 cl",No promotion,oro,lata,33 cl,1,https://supermercado.eroski.es/images/22214712.jpg,Eroski
 1.02,2.04,"Cerveza ESTRELLA DAMM Estrella, lata 50 cl",No promotion,estrella damm estrella,lata,50 cl,1,https://supermercado.eroski.es/images/10857886.jpg,Eroski
 0.62,1.88,"Cerveza Radler 0.0 tostada AMSTEL, lata 33 cl",No promotion,radler 0.0 tostada amstel,lata,33 cl,1,https://supermercado.eroski.es/images/23490667.jpg,Eroski
 2.05,1.36,"Cerveza ORO, pack botellín 6x25 cl","3,30 € Antes",oro,No specified,25 cl,6,https://supermercado.eroski.es/images/22900344.jpg,Eroski
 1.07,3.24,"Cerveza DAMM Lager A.K. 1876, botellín 33 cl",No promotion,damm lager a.k. 1876,No specified,33 cl,1,https://supermercado.eroski.es/images/3394483.jpg,Eroski
-2.75,1.84,"Cerveza sin alcohol FREE DAMM, pack 6x25 cl",No promotion,sin alcohol free damm,No specified,25 cl,6,https://supermercado.eroski.es/images/156331.jpg,Eroski
-1.9,5.76,"Cerveza Ipa COMPLOT, botellín 33 cl",No promotion,ipa complot,No specified,33 cl,1,https://supermercado.eroski.es/images/21348214.jpg,Eroski
 0.96,2.91,"Cerveza 0,0 AMBAR Green, botellín 33 cl",No promotion,"0,0 ambar green",No specified,33 cl,1,https://supermercado.eroski.es/images/14861967.jpg,Eroski
-1.38,1.38,"Cerveza KELER, botella 1 litro",No promotion,keler,botella,", ",1,https://supermercado.eroski.es/images/311506.jpg,Eroski
+2.75,1.84,"Cerveza sin alcohol FREE DAMM, pack 6x25 cl",No promotion,sin alcohol free damm,No specified,25 cl,6,https://supermercado.eroski.es/images/156331.jpg,Eroski
 0.99,3.96,"Cider sabor frutos rojos LADRÓN DE MANZANAS, botellín 25 cl",No promotion,sabor frutos rojos ladrón de manzanas,No specified,25 cl,1,https://supermercado.eroski.es/images/20990545.jpg,Eroski
+1.9,5.76,"Cerveza Ipa COMPLOT, botellín 33 cl",No promotion,ipa complot,No specified,33 cl,1,https://supermercado.eroski.es/images/21348214.jpg,Eroski
 0.22,0.67,"Cerveza CORGON GARD, lata 33 cl",No promotion,corgon gard,lata,33 cl,1,https://supermercado.eroski.es/images/16107195.jpg,Eroski
-1.6,2.42,"Cerveza VOLL-DAMM, botellín 66 cl",No promotion,voll-damm,No specified,66 cl,1,https://supermercado.eroski.es/images/16909558.jpg,Eroski
-1.6,4.85,"Cerveza original GUINNESS, botellín 33 cl",No promotion,original guinness,No specified,33 cl,1,https://supermercado.eroski.es/images/15046048.jpg,Eroski
+1.38,1.38,"Cerveza KELER, botella 1 litro",No promotion,keler,botella,", ",1,https://supermercado.eroski.es/images/311506.jpg,Eroski
 0.69,2.09,"Cerveza AMBAR Radler, lata 33 cl",No promotion,ambar radler,lata,33 cl,1,https://supermercado.eroski.es/images/19079490.jpg,Eroski
+1.6,4.85,"Cerveza original GUINNESS, botellín 33 cl",No promotion,original guinness,No specified,33 cl,1,https://supermercado.eroski.es/images/15046048.jpg,Eroski
 1.78,5.39,"Cerveza belga especial JUDAS, botellín 33 cl",No promotion,belga especial judas,No specified,33 cl,1,https://supermercado.eroski.es/images/6634141.jpg,Eroski
 2.45,1.64,"Cerveza 0,0 AMSTEL, pack botellín 6x25 cl",No promotion,"0,0 amstel",No specified,25 cl,6,https://supermercado.eroski.es/images/17956814.jpg,Eroski
+1.6,2.42,"Cerveza VOLL-DAMM, botellín 66 cl",No promotion,voll-damm,No specified,66 cl,1,https://supermercado.eroski.es/images/16909558.jpg,Eroski
 0.99,3.96,"Cider de manzana verde LADRÓN DE MANZANAS, botellín 25 cl",No promotion,de manzana verde ladrón de manzanas,No specified,25 cl,1,https://supermercado.eroski.es/images/22225189.jpg,Eroski
-0.96,2.91,"Cerveza AMBAR, botellín 33 cl",No promotion,ambar,No specified,33 cl,1,https://supermercado.eroski.es/images/11040524.jpg,Eroski
 0.99,3.0,"Cerveza AMSTEL Oro, botellín 33 cl",No promotion,amstel oro,No specified,33 cl,1,https://supermercado.eroski.es/images/17818907.jpg,Eroski
+0.96,2.91,"Cerveza AMBAR, botellín 33 cl",No promotion,ambar,No specified,33 cl,1,https://supermercado.eroski.es/images/11040524.jpg,Eroski
 2.28,6.91,"Cerveza artesana Indian pale ale OLAÑETA, botellín 33 cl",No promotion,artesana indian pale ale olañeta,No specified,33 cl,1,https://supermercado.eroski.es/images/18419770.jpg,Eroski
 0.81,2.45,"Cerveza negra BOCK DAMM , lata 33 cl",No promotion,negra bock damm ,lata,33 cl,1,https://supermercado.eroski.es/images/6786263.jpg,Eroski
 1.85,3.7,"Cerveza artesana alemana GREVENSTEINER, botellín 50 cl",No promotion,artesana alemana grevensteiner,No specified,50 cl,1,https://supermercado.eroski.es/images/17216425.jpg,Eroski
 0.89,2.7,"Cerveza sin filtrar EL AGUILA, botellín 33 cl",No promotion,sin filtrar el aguila,No specified,33 cl,1,https://supermercado.eroski.es/images/22225320.jpg,Eroski
 3.45,4.6,"Cerveza especial botella INEDIT, botella 75 cl",No promotion,especial botella inedit,botella,75 cl,1,https://supermercado.eroski.es/images/12449831.jpg,Eroski
 0.69,2.09,"Cerveza especial AMBAR, lata 33 cl",No promotion,especial ambar,lata,33 cl,1,https://supermercado.eroski.es/images/75630.jpg,Eroski
-0.77,2.33,"Cerveza sin filtrar EL AGUILA, lata 33 cl",No promotion,sin filtrar el aguila,lata,33 cl,1,https://supermercado.eroski.es/images/22296230.jpg,Eroski
 1.37,4.15,"Cerveza con lima DESPERADO, botellín 33 cl",No promotion,con lima desperado,No specified,33 cl,1,https://supermercado.eroski.es/images/23466055.jpg,Eroski
-0.85,2.58,"Cerveza Gran Reserva CRUZCAMPO, lata 33 cl",No promotion,gran reserva cruzcampo,lata,33 cl,1,https://supermercado.eroski.es/images/15650062.jpg,Eroski
+0.77,2.33,"Cerveza sin filtrar EL AGUILA, lata 33 cl",No promotion,sin filtrar el aguila,lata,33 cl,1,https://supermercado.eroski.es/images/22296230.jpg,Eroski
 0.56,1.7,"Cerveza AMSTEL, lata 33 cl",No promotion,amstel,lata,33 cl,1,https://supermercado.eroski.es/images/12828992.jpg,Eroski
+0.85,2.58,"Cerveza Gran Reserva CRUZCAMPO, lata 33 cl",No promotion,gran reserva cruzcampo,lata,33 cl,1,https://supermercado.eroski.es/images/15650062.jpg,Eroski
 2.8,8.48,"Cerveza belga azul CHIMAY, botellín 33 cl",No promotion,belga azul chimay,No specified,33 cl,1,https://supermercado.eroski.es/images/10918340.jpg,Eroski
 1.29,3.91,"Cider sabor frutos rojos LADRÓN DE MANZANAS, lata 33 cl",No promotion,sabor frutos rojos ladrón de manzanas,lata,33 cl,1,https://supermercado.eroski.es/images/22225163.jpg,Eroski
-1.31,1.31,"Cerveza AMSTEL, botella 1 litro",No promotion,amstel,botella,", ",1,https://supermercado.eroski.es/images/379461.jpg,Eroski
 2.74,8.3,"Cerveza irlandesa negra GUINESS Draught, botellín 33 cl",No promotion,irlandesa negra guiness draught,No specified,33 cl,1,https://supermercado.eroski.es/images/966069.jpg,Eroski
+1.31,1.31,"Cerveza AMSTEL, botella 1 litro",No promotion,amstel,botella,", ",1,https://supermercado.eroski.es/images/379461.jpg,Eroski
 2.25,6.82,"Cerveza artesana blonde OLAÑETA, botellín 33 cl",No promotion,artesana blonde olañeta,No specified,33 cl,1,https://supermercado.eroski.es/images/17632704.jpg,Eroski
 1.65,5.0,"Cerveza lager HOP HOUSE 13, botellín 33 cl",No promotion,lager hop house 13,No specified,33 cl,1,https://supermercado.eroski.es/images/22225338.jpg,Eroski
 1.99,6.03,"Cerveza holandesa TRAPPE, botellín 33 cl",No promotion,holandesa trappe,No specified,33 cl,1,https://supermercado.eroski.es/images/17210048.jpg,Eroski
-0.63,1.91,"Cerveza normal EL AGUILA, lata 33 cl",No promotion,normal el aguila,lata,33 cl,1,https://supermercado.eroski.es/images/22215875.jpg,Eroski
 2.39,7.24,"Cerveza Lorea Ipa BOGA, botellín 33 cl",No promotion,lorea ipa boga,No specified,33 cl,1,https://supermercado.eroski.es/images/18722124.jpg,Eroski
+0.63,1.91,"Cerveza normal EL AGUILA, lata 33 cl",No promotion,normal el aguila,lata,33 cl,1,https://supermercado.eroski.es/images/22215875.jpg,Eroski
 0.63,1.91,"Cerveza sabor limón DAMM, lata 33 cl",No promotion,sabor limón damm,lata,33 cl,1,https://supermercado.eroski.es/images/3394525.jpg,Eroski
 1.75,5.3,"Cerveza Indie Pal BREWDOG, botellín 33 cl",No promotion,indie pal brewdog,No specified,33 cl,1,https://supermercado.eroski.es/images/22216964.jpg,Eroski
 0.97,1.94,"Cerveza KELER, lata 50 cl",No promotion,keler,lata,50 cl,1,https://supermercado.eroski.es/images/17820085.jpg,Eroski
 1.8,7.2,"Cerveza de cereza MORT SUBITE Xtreme, botellín 25 cl",No promotion,de cereza mort subite xtreme,No specified,25 cl,1,https://supermercado.eroski.es/images/13292370.jpg,Eroski
-1.4,4.24,"Cerveza japonesa KIRIN, botellín 33 cl",No promotion,japonesa kirin,No specified,33 cl,1,https://supermercado.eroski.es/images/16062036.jpg,Eroski
 1.28,3.88,"Cerveza URQUELL Pilsner, botellín 33 cl",No promotion,urquell pilsner,No specified,33 cl,1,https://supermercado.eroski.es/images/15046022.jpg,Eroski
+1.4,4.24,"Cerveza japonesa KIRIN, botellín 33 cl",No promotion,japonesa kirin,No specified,33 cl,1,https://supermercado.eroski.es/images/16062036.jpg,Eroski
 1.35,2.05,"Cerveza ESTRELLA DAMM, botellín 66 cl",No promotion,estrella damm,No specified,66 cl,1,https://supermercado.eroski.es/images/16702128.jpg,Eroski
+0.68,2.06,"Cerveza IPA Andalusian CRUZCAMPO, lata 33 cl","0,85 € Antes",ipa andalusian cruzcampo,lata,33 cl,1,https://supermercado.eroski.es/images/23490717.jpg,Eroski
+2.6,7.88,"Cerveza belga roja CHIMAY, botellín 33 cl",No promotion,belga roja chimay,No specified,33 cl,1,https://supermercado.eroski.es/images/91157.jpg,Eroski
 2.25,6.82,"Cerveza artesana brown OLAÑETA, botellín 33 cl",No promotion,artesana brown olañeta,No specified,33 cl,1,https://supermercado.eroski.es/images/17632845.jpg,Eroski
 1.11,3.36,"Cerveza Gran Reserva CRUZ CAMPO, botellín 33 cl",No promotion,gran reserva cruz campo,No specified,33 cl,1,https://supermercado.eroski.es/images/12813119.jpg,Eroski
-2.6,7.88,"Cerveza belga roja CHIMAY, botellín 33 cl",No promotion,belga roja chimay,No specified,33 cl,1,https://supermercado.eroski.es/images/91157.jpg,Eroski
-0.68,2.06,"Cerveza IPA Andalusian CRUZCAMPO, lata 33 cl","0,85 € Antes",ipa andalusian cruzcampo,lata,33 cl,1,https://supermercado.eroski.es/images/23490717.jpg,Eroski
 1.22,3.7,"Cerveza italiana MORETTI, botellín 33 cl",No promotion,italiana moretti,No specified,33 cl,1,https://supermercado.eroski.es/images/15315823.jpg,Eroski
+2.18,2.91,"Cider LADRÓN DE MANZANAS, botella 75 cl","2,57 € Antes",ladrón de manzanas,botella,75 cl,1,https://supermercado.eroski.es/images/20990537.jpg,Eroski
 0.64,2.56,"Cerveza roja fresca MALQUERIDA, botellín 25 cl",No promotion,roja fresca malquerida,No specified,25 cl,1,https://supermercado.eroski.es/images/21128111.jpg,Eroski
 18.49,3.7,"Cerveza holandesa HEINEKEN, barril 5 litros",No promotion,holandesa heineken,barril,", ",1,https://supermercado.eroski.es/images/8937765.jpg,Eroski
-2.18,2.91,"Cider LADRÓN DE MANZANAS, botella 75 cl","2,57 € Antes",ladrón de manzanas,botella,75 cl,1,https://supermercado.eroski.es/images/20990537.jpg,Eroski
 1.39,4.21,"Cerveza lemon CLAUSTHALER, botellín 33 cl",No promotion,lemon clausthaler,No specified,33 cl,1,https://supermercado.eroski.es/images/18811216.jpg,Eroski
 1.35,4.09,"Cerveza belga STELLA ARTOI, botellín 33 cl",No promotion,belga stella artoi,No specified,33 cl,1,https://supermercado.eroski.es/images/91132.jpg,Eroski
-2.9,8.79,"Cerveza artesana negra Milk Stout OLAÑETA, botellín 33 cl",No promotion,artesana negra milk stout olañeta,No specified,33 cl,1,https://supermercado.eroski.es/images/19478981.jpg,Eroski
 0.62,2.48,"Cerveza BOCK DAMM, botellín 25 cl",No promotion,bock damm,No specified,25 cl,1,https://supermercado.eroski.es/images/19773761.jpg,Eroski
-1.99,6.63,"Cerveza belga AFFLIGEM Blond, botellín 30 cl",No promotion,belga affligem blond,No specified,30 cl,1,https://supermercado.eroski.es/images/16895757.jpg,Eroski
+2.9,8.79,"Cerveza artesana negra Milk Stout OLAÑETA, botellín 33 cl",No promotion,artesana negra milk stout olañeta,No specified,33 cl,1,https://supermercado.eroski.es/images/19478981.jpg,Eroski
 1.0,3.03,"Cerveza de trigo CRUZCAMPO, botellín 33 cl",No promotion,de trigo cruzcampo,No specified,33 cl,1,https://supermercado.eroski.es/images/22212393.jpg,Eroski
 1.32,4.0,"Cerveza mexicana SOL, botellín 33 cl",No promotion,mexicana sol,No specified,33 cl,1,https://supermercado.eroski.es/images/12306775.jpg,Eroski
+1.99,6.63,"Cerveza belga AFFLIGEM Blond, botellín 30 cl",No promotion,belga affligem blond,No specified,30 cl,1,https://supermercado.eroski.es/images/16895757.jpg,Eroski
 5.95,2.0,"Cerveza especial CRUZCAMPO, pack botellín 12x25 cl",No promotion,especial cruzcampo,No specified,25 cl,12,https://supermercado.eroski.es/images/22212484.jpg,Eroski
 1.25,3.68,"Cerveza argentina QUILMES, botellín 34 cl",No promotion,argentina quilmes,No specified,34 cl,1,https://supermercado.eroski.es/images/3340171.jpg,Eroski
 0.89,33.0,"Cerveza PILSNER URQUELL, lata 33 cl",No promotion,pilsner urquell,lata,33 cl,1,https://supermercado.eroski.es/images/21968300.jpg,Eroski
@@ -264,24 +262,25 @@ añadir a la lista",No specified,33 cl,1,https://supermercado.eroski.es/images/2
 1.19,3.61,"Cerveza export AMBAR, botellín 33 cl",No promotion,export ambar,No specified,33 cl,1,https://supermercado.eroski.es/images/20481925.jpg,Eroski
 2.1,6.36,"Cerveza Ambiciosas AMBAR 10, botellín 33 cl",No promotion,ambiciosas ambar 10,No specified,33 cl,1,https://supermercado.eroski.es/images/23091143.jpg,Eroski
 0.95,2.88,"Cerveza especial sin gluten CRUZCAMPO, botellín 33 cl",No promotion,especial sin gluten cruzcampo,No specified,33 cl,1,https://supermercado.eroski.es/images/22197420.jpg,Eroski
+1.85,4.2,"Sidra STRONGBOW, lata 44 cl",No promotion,strongbow,lata,44 cl,1,https://supermercado.eroski.es/images/17875857.jpg,Eroski
+0.63,1.91,"Cerveza especial CRUZCAMPO Cruzial, lata 33 cl",No promotion,especial cruzcampo cruzial,lata,33 cl,1,https://supermercado.eroski.es/images/21093125.jpg,Eroski
+2.65,1.76,"Cerveza limón FREE DAMM, pack 6x25 cl",No promotion,limón free damm,No specified,25 cl,6,https://supermercado.eroski.es/images/22214738.jpg,Eroski
 1.0,3.03,"Cerveza Andalusian IPA CRUZCAMPO, botellín 33 cl",No promotion,andalusian ipa cruzcampo,No specified,33 cl,1,https://supermercado.eroski.es/images/22212377.jpg,Eroski
 0.62,2.48,"Cerveza TURIA, botellín 25 cl",No promotion,turia,No specified,25 cl,1,https://supermercado.eroski.es/images/16899015.jpg,Eroski
-2.65,1.76,"Cerveza limón FREE DAMM, pack 6x25 cl",No promotion,limón free damm,No specified,25 cl,6,https://supermercado.eroski.es/images/22214738.jpg,Eroski
-0.63,1.91,"Cerveza especial CRUZCAMPO Cruzial, lata 33 cl",No promotion,especial cruzcampo cruzial,lata,33 cl,1,https://supermercado.eroski.es/images/21093125.jpg,Eroski
-1.85,4.2,"Sidra STRONGBOW, lata 44 cl",No promotion,strongbow,lata,44 cl,1,https://supermercado.eroski.es/images/17875857.jpg,Eroski
 2.09,6.33,"Cerveza Tossta Browmn BOGA, botellín 33 cl",No promotion,tossta browmn boga,No specified,33 cl,1,https://supermercado.eroski.es/images/18722116.jpg,Eroski
-1.5,3.0,"Cerveza Dunkel SCHÖFFERHOFER, botellín 50 cl",No promotion,dunkel schöfferhofer,No specified,50 cl,1,https://supermercado.eroski.es/images/22181424.jpg,Eroski
 2.59,2.6,"Sidra extra sin alcohol JAI ALAI, pack 4x25 cl",No promotion,extra sin alcohol jai alai,No specified,25 cl,4,https://supermercado.eroski.es/images/18644054.jpg,Eroski
+1.5,3.0,"Cerveza Dunkel SCHÖFFERHOFER, botellín 50 cl",No promotion,dunkel schöfferhofer,No specified,50 cl,1,https://supermercado.eroski.es/images/22181424.jpg,Eroski
 2.09,6.33,"Cerveza Argia Pilsen BOGA, botellín 33 cl",No promotion,argia pilsen boga,No specified,33 cl,1,https://supermercado.eroski.es/images/18722108.jpg,Eroski
 3.52,7.04,"Sidra BULMERS, botella 50 cl",No promotion,bulmers,botella,50 cl,1,https://supermercado.eroski.es/images/15045792.jpg,Eroski
+1.62,3.24,"Cerveza Mojito DESPERADOS, lata 50 cl",2ª unidad -70%,mojito desperados,lata,50 cl,1,https://supermercado.eroski.es/images/23490659.jpg,Eroski
 0.52,2.08,"Cerveza EL AGUILA, botellín 25 cl",No promotion,el aguila,No specified,25 cl,1,https://supermercado.eroski.es/images/23490691.jpg,Eroski
 1.83,4.07,"Cerveza Swin Top GROLSCH, botellín 45 cl",No promotion,swin top grolsch,No specified,45 cl,1,https://supermercado.eroski.es/images/10893907.jpg,Eroski
-1.62,3.24,"Cerveza Mojito DESPERADOS, lata 50 cl",2ª unidad -70%,mojito desperados,lata,50 cl,1,https://supermercado.eroski.es/images/23490659.jpg,Eroski
-2.49,7.55,"Cerveza LA GOUDALE, botellín 33 cl",No promotion,la goudale,No specified,33 cl,1,https://supermercado.eroski.es/images/19169580.jpg,Eroski
 1.35,4.09,"Cerveza SCHÖFFERHOFER, botellín 33 cl",No promotion,schöfferhofer,No specified,33 cl,1,https://supermercado.eroski.es/images/17820465.jpg,Eroski
+2.49,7.55,"Cerveza LA GOUDALE, botellín 33 cl",No promotion,la goudale,No specified,33 cl,1,https://supermercado.eroski.es/images/19169580.jpg,Eroski
 2.3,4.6,"Cerveza negra alemana ATKIEN DUNKEL, botellín 50 cl",No promotion,negra alemana atkien dunkel,No specified,50 cl,1,https://supermercado.eroski.es/images/17216417.jpg,Eroski
 2.5,7.58,"Cerveza de frambuesa CHÉRIE, botellín 33 cl",No promotion,de frambuesa chérie,No specified,33 cl,1,https://supermercado.eroski.es/images/22181879.jpg,Eroski
 0.92,1.84,"Cerveza especial CRUZCAMPO, lata 50 cl",No promotion,especial cruzcampo,lata,50 cl,1,https://supermercado.eroski.es/images/22212492.jpg,Eroski
+3.45,10.45,"Cerveza roja BELZEBUTH, botellín 33 cl",No promotion,roja belzebuth,No specified,33 cl,1,https://supermercado.eroski.es/images/22213359.jpg,Eroski
 2.05,6.21,"Cerveza Lager LA VIRGEN, botellín 33 cl",No promotion,lager la virgen,No specified,33 cl,1,https://supermercado.eroski.es/images/19694249.jpg,Eroski
 2.1,4.2,"Cerveza ambiciosa roja AMBAR, botellín 33 cl",No promotion,ambiciosa roja ambar,No specified,33 cl,1,https://supermercado.eroski.es/images/23591720.jpg,Eroski
 1.23,3.73,"Cerveza alemana LOWENBRAU HELL, botellín 33 cl",No promotion,alemana lowenbrau hell,No specified,33 cl,1,https://supermercado.eroski.es/images/17319609.jpg,Eroski

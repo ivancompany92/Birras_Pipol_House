@@ -13,14 +13,14 @@ def argument_parser():
 
 def main(some_args):
     data = mac.acquire()
-    filtered = mwr.wrangle(data, year)
-    results = man.analyze(filtered)
-    fig = mre.plotting_function(results, title, arguments)
-    mre.save_viz(fig, title)
-    print('========================= Pipeline is complete. You may find the results in the folder ./data/results =========================')
+    # filtered = mwr.wrangle(data, year)
+    # results = man.analyze(filtered)
+    # fig = mre.plotting_function(results, title, arguments)
+    # mre.save_viz(fig, title)
+    # print('========================= Pipeline is complete. You may find the results in the folder ./data/results =========================')
 
 if __name__ == '__main__':
-    year = int(input('Enter the year: '))
-    title = 'Top 10 Manufacturers by Fuel Efficiency ' + str(year)
+    # year = int(input('Enter the year: '))
+    # title = 'Top 10 Manufacturers by Fuel Efficiency ' + str(year)
     arguments = argument_parser()
     main(arguments)
