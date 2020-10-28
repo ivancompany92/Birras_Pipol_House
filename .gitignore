@@ -110,3 +110,4 @@ venv.bak/
 # folder beers
 beer_images/
 notebooks/
+saved_model/
