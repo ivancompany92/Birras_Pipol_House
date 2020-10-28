@@ -109,4 +109,4 @@ venv.bak/
 
 # folder beers
 beer_images/
-beer_images_validation/
+notebooks/

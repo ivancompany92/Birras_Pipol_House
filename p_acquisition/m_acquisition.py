@@ -85,11 +85,11 @@ def get_container(data_text):
 
 def get_volumen_unid_carrefour(data_text):
     volumen_raw = data_text.text
-    volumen = re.findall('[0-9]+ cl', volumen_raw)
+    volumen = re.findall('[0-9,.]+ cl', volumen_raw)
     if len(volumen) != 0:
         return volumen[0]
     else:
-        volumen_l = re.findall('[0-9]+[ mcl]+', volumen_raw)
+        volumen_l = re.findall('[0-9,.]+[ mcl]+', volumen_raw)
         return volumen_l[0]
 
 
@@ -187,7 +187,8 @@ def get_title_al_ce(data_text):
 # promotion Alcampo / Corte Ingles / Dia
 def get_promotion_al_ce_dia(data_text):
     promotion_raw = data_text.text
-    promotion = re.sub('\r\n\r\n\t\t\t\t\t\t\t\t\t\t', '', promotion_raw)
+    promotion_pre = re.sub('\r\n\r\n\t\t\t\t\t\t\t\t\t\t', '', promotion_raw)
+    promotion = re.sub('Ver promoción ¡pulsa aquí!', '', promotion_pre)
     return promotion
 
 
@@ -203,7 +204,7 @@ def get_brand_alcampo(data_text):
 # volumen Alcampo / Corte ingles / Dia
 def get_volumen_unid_al_ce_dia(data_text):
     volumen_raw = data_text.text
-    volumen = re.findall('[0-9.,]+ cl', volumen_raw)
+    volumen = re.findall('[0-9.,]+ cl|33 c|25 c|50 c|1 l| 2 l', volumen_raw)
     if len(volumen) != 0:
         return volumen[0]
     else:
@@ -265,6 +266,8 @@ def info_corteingles(table_pages_corteingles):
                                                                                  'product_tile-image _fade']})
             promotion_corteingles = table_pages_corteingles[i][j].find_all('div',
                                                                            {'class': 'product_tile-offer offer'})
+            if len(rows_corteingles) > 4:
+                rows_corteingles.pop(1)
             if len(rows_corteingles) > 3:
                 if len(promotion_corteingles) != 0:
                     data_raw_corteingles.append(rows_corteingles + promotion_corteingles)
@@ -311,8 +314,8 @@ def database_corteingles(data_raw_corteingles):
         if len(data_raw_corteingles[beer_number]) > 4:
             data_beer_corteingles.iloc[beer_number, 3] = get_promotion_al_ce_dia(data_raw_corteingles[beer_number][4])
             if len(data_raw_corteingles[beer_number]) > 5:
-                data_beer_corteingles.iloc[beer_number, 3] += '..SECOND OFFERT: ' + get_promotion_al_ce_dia(
-                    data_raw_corteingles[beer_number][5])
+                data_beer_corteingles.iloc[beer_number, 3] += '..SECOND OFFERT: ' + \
+                                                              get_promotion_al_ce_dia(data_raw_corteingles[beer_number][5])
         else:
             data_beer_corteingles.iloc[beer_number, 3] = 'No promotion'
     return data_beer_corteingles
@@ -336,8 +339,8 @@ def info_dia(table_pages_dia):
     data_raw_dia = []
     for i in range(len(table_pages_dia)):
         for j in range(len(table_pages_dia[i])):
-            rows_dia = table_pages_dia[i][j].find_all(['div', 'span'], {'class': ['price_container', 'details',
-                                                                                  'thumb']})
+            rows_dia = table_pages_dia[i][j].find_all(['div', 'span'],
+                                                      {'class': ['price_container', 'details', 'thumb']})
             if len(rows_dia) > 2:
                 data_raw_dia.append(rows_dia)
     print('Finished scraping Dia')
@@ -462,7 +465,7 @@ def get_container_eroski(data_text):
 
 # volume Eroski
 def get_volumen_unid_eroski(data_text):
-    volumen = re.findall('[0-9.,]+ cl', data_text)
+    volumen = re.findall('[0-9.,]+ cl|[125] l', data_text)
     if len(volumen) != 0:
         return volumen[0]
     else:
@@ -531,13 +534,13 @@ def alcampo_fun():
 
 def corteingles_fun():
     corteingles_data = info_corteingles(scraping_corteingles())
-    corte_ingles = database_alcampo(corteingles_data)
+    corte_ingles = database_corteingles(corteingles_data)
     return corte_ingles
 
 
 def dia_fun():
     dia_data = info_dia(scraping_dia())
-    dia = database_alcampo(dia_data)
+    dia = database_dia(dia_data)
     return dia
 
 def eroski_fun():
@@ -552,15 +555,19 @@ def save_df_products(data, name):
     data.to_csv(f'./data/processed/data_beer_{name}.csv', index=False)
 
 
-def acquire():
-    car = carrefour_fun()
-    alc = alcampo_fun()
-    coi = corteingles_fun()
-    dia = dia_fun()
-    ero = eroski_fun()
-    save_df_products(car, 'carrefour')
-    save_df_products(alc, 'alcampo')
-    save_df_products(coi, 'corteingles')
-    save_df_products(dia, 'dia')
-    save_df_products(ero, 'eroski')
-    print('finish saved DFs')
+def acquire(scrape):
+    if scrape == 'Y':
+        car = carrefour_fun()
+        alc = alcampo_fun()
+        coi = corteingles_fun()
+        dia = dia_fun()
+        ero = eroski_fun()
+        save_df_products(car, 'carrefour')
+        save_df_products(alc, 'alcampo')
+        save_df_products(coi, 'corteingles')
+        save_df_products(dia, 'dia')
+        save_df_products(ero, 'eroski')
+        print('finish saved DFs')
+    else:
+        pass
+

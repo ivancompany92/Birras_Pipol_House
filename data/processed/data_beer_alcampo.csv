@@ -2,18 +2,12 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 12.32,1.33,cerveza clásica mahou pack de 28 latas de 33 cl.,No promotion, clásica mahou pack de 28 latas de 33 cl.,lata,33 cl,28,https://www.alcampo.es/media/ha9/h39/10033535713310.jpg,Alcampo
 13.49,1.45,cervezas mahou 5 estrellas pack 28 latas x 33 cl.,No promotion, mahou 5 estrellas pack 28 latas x 33 cl.,lata,33 cl,28,https://www.alcampo.es/media/h11/h90/9021161406494.jpg,Alcampo
 6.36,1.6,cerveza  heineken pack de 12 latas de 33 centilitros,No promotion,  heineken pack de 12 latas de 33 centilitros,lata,33 c,12,https://www.alcampo.es/media/h67/h4f/9546841030686.jpg,Alcampo
-6.19,1.56,"cervezas amstel 100 % malta  pack 12 uds, de 33 cl.","
-
-										oferta válida hasta el 28/10/2020"," amstel 100 % malta  pack 12 uds, de 33 cl.",No specified,33 cl,12,https://www.alcampo.es/media/h2b/hef/10493021126686.jpg,Alcampo
-6.19,1.56,cervezas  clásica mahou pack de 12 latas de 33 centilitros,"
-
-										oferta válida hasta el 28/10/2020",  clásica mahou pack de 12 latas de 33 centilitros,lata,33 c,12,https://www.alcampo.es/media/ha4/h29/10493019160606.jpg,Alcampo
+6.19,1.56,"cervezas amstel 100 % malta  pack 12 uds, de 33 cl.",oferta válida hasta el 28/10/2020," amstel 100 % malta  pack 12 uds, de 33 cl.",No specified,33 cl,12,https://www.alcampo.es/media/h2b/hef/10493021126686.jpg,Alcampo
+6.19,1.56,cervezas  clásica mahou pack de 12 latas de 33 centilitros,oferta válida hasta el 28/10/2020,  clásica mahou pack de 12 latas de 33 centilitros,lata,33 c,12,https://www.alcampo.es/media/ha4/h29/10493019160606.jpg,Alcampo
 6.83,1.72,cervezas mahou 5 estrellas pack de 12 latas de 33 cl.,No promotion, mahou 5 estrellas pack de 12 latas de 33 cl.,lata,33 cl,12,https://www.alcampo.es/media/h77/hbd/9021167075358.jpg,Alcampo
 9.38,1.56,cervezas cruzcampo pack 24 uds de 25 cl.,No promotion, cruzcampo pack 24 uds de 25 cl.,No specified,25 cl,24,https://www.alcampo.es/media/h4a/h37/9546880090142.jpg,Alcampo
 4.44,1.12,cerveza con limón radler amstel pack 12 uds. x 33 cl.,No promotion, con limón radler amstel pack 12 uds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hae/h18/10407499956254.jpg,Alcampo
-6.19,1.56,cervezas cruzcampo pack 12 uds x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", cruzcampo pack 12 uds x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hcd/hf0/10492929998878.jpg,Alcampo
+6.19,1.56,cervezas cruzcampo pack 12 uds x 33 cl.,oferta válida hasta el 28/10/2020, cruzcampo pack 12 uds x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hcd/hf0/10492929998878.jpg,Alcampo
 0.54,1.08,cerveza alhambra premium lager lata de 50 centilitros,No promotion, alhambra premium lager lata de 50 centilitros,lata,50 c,1,https://www.alcampo.es/media/h3b/hd5/10444757499934.jpg,Alcampo
 0.77,1.54,cerveza clásica mahou lata 50 cl.,No promotion, clásica mahou lata 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h63/hff/10444857245726.jpg,Alcampo
 0.64,1.28,cerveza de color dorado brillante con ligero amargor san miguel especial 50 cl.,No promotion, de color dorado brillante con ligero amargor san miguel especial 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/he6/h17/10444697206814.jpg,Alcampo
@@ -21,642 +15,444 @@ price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,ima
 0.53,1.6,cerveza estrella damm lata de 33 centilitros,No promotion, estrella damm lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h2d/h1c/8952688476190.jpg,Alcampo
 2.88,0.72,cerveza heifer pack de 12 latas de 33 cl.,No promotion, heifer pack de 12 latas de 33 cl.,lata,33 cl,12,https://www.alcampo.es/media/h30/h91/8901497192478.jpg,Alcampo
 0.49,1.48,cerveza tostada 0.0 alcohol mahou lata 33 cl.,No promotion, tostada 0.0 alcohol mahou lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h38/h49/9006978924574.jpg,Alcampo
-0.49,1.48,cerveza sin alcohol free damm lata 33 centilitros,No promotion, sin alcohol free damm lata 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/hd3/hce/8952633360414.jpg,Alcampo
 0.24,0.72,cerveza heifer lata de 33 cl.,No promotion, heifer lata de 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hed/hc1/8898855698462.jpg,Alcampo
+0.49,1.48,cerveza sin alcohol free damm lata 33 centilitros,No promotion, sin alcohol free damm lata 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/hd3/hce/8952633360414.jpg,Alcampo
+0.64,1.93,cerveza doble malta voll damm lata 33 centilitros,No promotion, doble malta voll damm lata 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/h16/ha1/8952613961758.jpg,Alcampo
 0.34,1.03,cerveza amstel clásica lata de 33 centilitros,No promotion, amstel clásica lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/hf7/h2b/9546877861918.jpg,Alcampo
-0.68,2.06,cerveza doble malta voll damm lata 33 centilitros,No promotion, doble malta voll damm lata 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/h16/ha1/8952613961758.jpg,Alcampo
 0.48,1.45,"cerveza 0,0% heineken  lata 33 cl.",No promotion," 0,0% heineken  lata 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/hb5/h5f/9546883956766.jpg,Alcampo
-0.99,1.98,cerveza de trigo alemana paulaner naturtrüf botella 50 cl.,No promotion, de trigo alemana paulaner naturtrüf botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/hd5/he5/9888522797086.jpg,Alcampo
-0.54,1.63,"cerveza sin alcohol (0,0% vol.) san miguel 33 cl.",No promotion," sin alcohol (0,0% vol.) san miguel 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/h8b/h5f/10396992798750.jpg,Alcampo
-0.44,1.33,cerveza con limón radler amstel lata de 33 cl.,No promotion, con limón radler amstel lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/ha5/h8b/9546847551518.jpg,Alcampo
-0.49,1.48,"cerveza (0,0% alcohol) con sabor a limón free damm lata de 33 centilitros",No promotion," (0,0% alcohol) con sabor a limón free damm lata de 33 centilitros",lata,33 c,1,https://www.alcampo.es/media/h71/h3e/9069626753054.jpg,Alcampo
-0.27,0.81,cerveza rubia con malta y maíz de importación holandesa holbrand lata 33 cl.,No promotion, rubia con malta y maíz de importación holandesa holbrand lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hf9/h8a/9308416573470.jpg,Alcampo
-5.82,1.94,cervezas estrella galicia especial pack 12 uds. x 25 cl,No promotion, estrella galicia especial pack 12 uds. x 25 cl,No specified,25 cl,12,https://www.alcampo.es/media/hde/h0f/9460774731806.jpg,Alcampo
-0.46,1.39,cerveza con limón sin alcohol shandy cruzcampo lata de 33 cl.,No promotion, con limón sin alcohol shandy cruzcampo lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hae/h75/9546888806430.jpg,Alcampo
-0.38,1.15,"cerveza sin alcohol (0,0% vol.) buckler lata de 33 cl.",No promotion," sin alcohol (0,0% vol.) buckler lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/hf6/h16/10033635655710.jpg,Alcampo
+1.14,2.28,cerveza de trigo alemana paulaner naturtrüf botella 50 cl.,No promotion, de trigo alemana paulaner naturtrüf botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/hd5/he5/9888522797086.jpg,Alcampo
 0.45,1.36,cerveza sin alcohol lata mahou 33 cl.,No promotion, sin alcohol lata mahou 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h94/h70/9492150386718.jpg,Alcampo
-0.75,2.27,cerveza ipa mahou 5 estrellas 33 cl,"
-
-										oferta válida hasta el 28/10/2020", ipa mahou 5 estrellas 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/hb2/h52/9543218331678.jpg,Alcampo
+0.44,1.33,cerveza con limón radler amstel lata de 33 cl.,No promotion, con limón radler amstel lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/ha5/h8b/9546847551518.jpg,Alcampo
+5.82,1.94,cervezas estrella galicia especial pack 12 uds. x 25 cl,No promotion, estrella galicia especial pack 12 uds. x 25 cl,No specified,25 cl,12,https://www.alcampo.es/media/hde/h0f/9460774731806.jpg,Alcampo
+0.27,0.81,cerveza rubia con malta y maíz de importación holandesa holbrand lata 33 cl.,No promotion, rubia con malta y maíz de importación holandesa holbrand lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hf9/h8a/9308416573470.jpg,Alcampo
 0.57,1.72,"cerveza sin gluten mahou, lata de 33 cl.",No promotion," sin gluten mahou, lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/hc5/h93/8902491275294.jpg,Alcampo
-6.57,3.31,cervezas alhambra reserva 1925 pack  6 uds. x 33 cl.,No promotion, alhambra reserva 1925 pack  6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h43/ha2/9492132626462.jpg,Alcampo
-0.62,1.87,cerveza sin alcohol alhambra lata de 33 centilitros,No promotion, sin alcohol alhambra lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/hf4/h95/9157802524702.jpg,Alcampo
-1.33,1.33,cerveza clásica mahou botella 1 litro,No promotion, clásica mahou botella 1 litro,No specified,1 L,1,https://www.alcampo.es/media/hef/h16/9021165010974.jpg,Alcampo
-0.55,1.66,"cerveza (0,0% alcohol) con sabor a limón radler buckler lata de 33 cl.",No promotion," (0,0% alcohol) con sabor a limón radler buckler lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/ha6/hb8/9546809868318.jpg,Alcampo
-1.0,2.0,cerveza alemana de trigo franziskaner naturtrub botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", alemana de trigo franziskaner naturtrub botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h87/hd8/10448403922974.jpg,Alcampo
-0.63,1.9,cerveza  mahou 5 estrellas lata 33 centilitros,No promotion,  mahou 5 estrellas lata 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/h98/hd5/9021147840542.jpg,Alcampo
-5.76,1.45,"cerveza tostada  0,0 % alcohol mahou pack 12 latas x 33 cl.",No promotion," tostada  0,0 % alcohol mahou pack 12 latas x 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/h90/h8d/9475631546398.jpg,Alcampo
+0.49,1.48,"cerveza (0,0% alcohol) con sabor a limón free damm lata de 33 centilitros",No promotion," (0,0% alcohol) con sabor a limón free damm lata de 33 centilitros",lata,33 c,1,https://www.alcampo.es/media/h71/h3e/9069626753054.jpg,Alcampo
+0.38,1.15,"cerveza sin alcohol (0,0% vol.) buckler lata de 33 cl.",No promotion," sin alcohol (0,0% vol.) buckler lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/hf6/h16/10033635655710.jpg,Alcampo
+0.46,1.39,cerveza con limón sin alcohol shandy cruzcampo lata de 33 cl.,No promotion, con limón sin alcohol shandy cruzcampo lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hae/h75/9546888806430.jpg,Alcampo
+0.75,2.27,cerveza ipa mahou 5 estrellas 33 cl,oferta válida hasta el 28/10/2020, ipa mahou 5 estrellas 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/hb2/h52/9543218331678.jpg,Alcampo
 0.58,1.75,cerveza alhambra premium lager lata de 33 cl.,No promotion, alhambra premium lager lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h2a/h97/8900932010014.jpg,Alcampo
-0.54,1.63,"cerveza (0,0% alcohol) con sabor a limón san miguel radler  lata de 33 cl.",No promotion," (0,0% alcohol) con sabor a limón san miguel radler  lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/h11/hda/10396996960286.jpg,Alcampo
-0.75,0.75,cerveza heifer 1 litro,No promotion, heifer 1 litro,No specified,1 L,1,https://www.alcampo.es/media/h95/h60/8891090993182.jpg,Alcampo
+0.54,1.63,"cerveza sin alcohol (0,0% vol.) san miguel 33 cl.",No promotion," sin alcohol (0,0% vol.) san miguel 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/h8b/h5f/10396992798750.jpg,Alcampo
+0.55,1.66,cerveza sin filtrar el águila 33 cl.,No promotion, sin filtrar el águila 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h9c/hcc/10508953059358.jpg,Alcampo
+0.62,1.87,cerveza sin alcohol alhambra lata de 33 centilitros,No promotion, sin alcohol alhambra lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/hf4/h95/9157802524702.jpg,Alcampo
+6.57,3.31,cervezas alhambra reserva 1925 pack  6 uds. x 33 cl.,No promotion, alhambra reserva 1925 pack  6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h43/ha2/9492132626462.jpg,Alcampo
+0.99,1.98,cerveza alemana de trigo franziskaner naturtrub botella 50 cl.,oferta válida hasta el 28/10/2020, alemana de trigo franziskaner naturtrub botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h87/hd8/10448403922974.jpg,Alcampo
+0.63,1.9,cerveza  mahou 5 estrellas lata 33 centilitros,No promotion,  mahou 5 estrellas lata 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/h98/hd5/9021147840542.jpg,Alcampo
+0.49,1.48,cerveza tostada amstel oro lata de 33 cl.,oferta válida hasta el 28/10/2020, tostada amstel oro lata de 33 cl.,lata,33 c,1,https://www.alcampo.es/media/h7c/ha9/9546810982430.jpg,Alcampo
+5.76,1.45,"cerveza tostada  0,0 % alcohol mahou pack 12 latas x 33 cl.",No promotion," tostada  0,0 % alcohol mahou pack 12 latas x 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/h90/h8d/9475631546398.jpg,Alcampo
 0.64,1.93,cerveza tostada doble lúpulo mahou maestra lata de 33 cl.,No promotion, tostada doble lúpulo mahou maestra lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h69/hb5/9492144259102.jpg,Alcampo
-0.54,1.63,cerveza clásica mahou clásica lata 33 centilitros,No promotion, clásica mahou clásica lata 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/hda/h0c/9021147119646.jpg,Alcampo
-0.55,1.66,cerveza sin filtrar el águila 33 cl.,No promotion, sin filtrar el águila 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/had/h5a/9548538806302.jpg,Alcampo
-0.49,1.48,cerveza tostada amstel oro lata de 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", tostada amstel oro lata de 33 cl.,lata,33 cL,1,https://www.alcampo.es/media/h7c/ha9/9546810982430.jpg,Alcampo
-10.63,2.68,cervezas 1906 reserva especial pack de 12 botellines de 33 cl.,No promotion, 1906 reserva especial pack de 12 botellines de 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/he1/h94/9965385744414.jpg,Alcampo
-1.08,1.08,cerveza alhambra premium lager botella de 1 litro,No promotion, alhambra premium lager botella de 1 litro,botella,1 l,1,https://www.alcampo.es/media/h11/h3c/8952710791198.jpg,Alcampo
+0.54,1.63,"cerveza (0,0% alcohol) con sabor a limón san miguel radler  lata de 33 cl.",No promotion," (0,0% alcohol) con sabor a limón san miguel radler  lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/h11/hda/10396996960286.jpg,Alcampo
+0.55,1.66,"cerveza (0,0% alcohol) con sabor a limón radler buckler lata de 33 cl.",No promotion," (0,0% alcohol) con sabor a limón radler buckler lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/ha6/hb8/9546809868318.jpg,Alcampo
 0.77,1.54,cerveza rubia estrella de galicia lata de 50 cl.,No promotion, rubia estrella de galicia lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/he4/hf7/9522755239966.jpg,Alcampo
-0.49,1.48,"cerveza 0,0 % tostada amstel oro 33 cl.","
-
-										oferta válida hasta el 28/10/2020"," 0,0 % tostada amstel oro 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/had/h49/9548561186846.jpg,Alcampo
+0.54,1.63,cerveza clásica mahou clásica lata 33 centilitros,No promotion, clásica mahou clásica lata 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/hda/h0c/9021147119646.jpg,Alcampo
+10.63,2.68,cervezas 1906 reserva especial pack de 12 botellines de 33 cl.,No promotion, 1906 reserva especial pack de 12 botellines de 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/he1/h94/9965385744414.jpg,Alcampo
 0.62,1.87,cerveza tostada de valencia turia lata 33 cl. ,No promotion, tostada de valencia turia lata 33 cl. ,lata,33 cl,1,https://www.alcampo.es/media/hd7/h54/9212228632606.jpg,Alcampo
-0.62,1.87,cerveza alhambra especial lata de 33 centilitros,No promotion, alhambra especial lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h78/hc1/8952381210654.jpg,Alcampo
-1.29,1.29,cerveza cruzcampo 1 l.,No promotion, cruzcampo 1 l.,No specified,1 l,1,https://www.alcampo.es/media/h4c/hbb/10172156543006.jpg,Alcampo
+1.08,1.08,cerveza alhambra premium lager botella de 1 litro,No promotion, alhambra premium lager botella de 1 litro,botella,1 l,1,https://www.alcampo.es/media/h11/h3c/8952710791198.jpg,Alcampo
+0.75,0.75,cerveza heifer 1 litro,No promotion, heifer 1 litro,No specified,1 L,1,https://www.alcampo.es/media/h95/h60/8891090993182.jpg,Alcampo
+0.49,1.48,"cerveza 0,0 % tostada amstel oro 33 cl.",oferta válida hasta el 28/10/2020," 0,0 % tostada amstel oro 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/had/h49/9548561186846.jpg,Alcampo
+1.33,1.33,cerveza clásica mahou botella 1 litro,No promotion, clásica mahou botella 1 litro,No specified,1 L,1,https://www.alcampo.es/media/hef/h16/9021165010974.jpg,Alcampo
 3.72,1.87,cervezas estrella de galicia especial pack 6 uds. x 33 cl.,No promotion, estrella de galicia especial pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h28/h47/8952668848158.jpg,Alcampo
 0.68,2.06,cerveza 1906 reserva especial 33 cl.,No promotion, 1906 reserva especial 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h7f/hbe/10034035523614.jpg,Alcampo
 5.85,1.95,"cerveza de color dorado, espuma cremosa y sabor consistente mahou pack 12 botellas. 25 cl.",No promotion," de color dorado, espuma cremosa y sabor consistente mahou pack 12 botellas. 25 cl.",botella,25 cl,12,https://www.alcampo.es/media/h5d/h1d/9021149806622.jpg,Alcampo
-2.96,2.46,cervezas mini estrella galicia pack 6 botellas x 20 cl. ,No promotion, mini estrella galicia pack 6 botellas x 20 cl. ,botella,20 cl,6,https://www.alcampo.es/media/h1c/h35/9522694717470.jpg,Alcampo
-1.12,3.15,"cerveza corona botella de 33,5 cl.",No promotion," corona botella de 33,5 cl.",botella,"33,5 cl",1,https://www.alcampo.es/media/hb3/h52/9188484186142.jpg,Alcampo
-0.53,1.6,cerveza heineken lata de 33 centilitros,No promotion, heineken lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h26/h7c/9546813341726.jpg,Alcampo
+1.29,1.29,cerveza cruzcampo 1 l.,No promotion, cruzcampo 1 l.,No specified,1 l,1,https://www.alcampo.es/media/h4c/hbb/10172156543006.jpg,Alcampo
+0.62,1.87,cerveza alhambra especial lata de 33 centilitros,No promotion, alhambra especial lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h78/hc1/8952381210654.jpg,Alcampo
+0.27,0.81,cerveza con limón sin alcohol holbrand lata de 33 cl.,oferta válida hasta el 28/10/2020, con limón sin alcohol holbrand lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hdd/h75/8890967785502.jpg,Alcampo
+4.95,1.66,cerveza rubia ambar especial pack de 9 latas de 33 centilítros,oferta válida hasta el 28/10/2020, rubia ambar especial pack de 9 latas de 33 centilítros,lata,33 c,9,https://www.alcampo.es/media/h48/h6c/9556680671262.jpg,Alcampo
 0.52,1.57,cerveza radler 0.0% alcohol con limón amstel 33 cl. ,No promotion, radler 0.0% alcohol con limón amstel 33 cl. ,No specified,33 cl,1,https://www.alcampo.es/media/h85/h91/9546875731998.jpg,Alcampo
-0.49,1.48,"cerveza tostada con limón 0,0 % alcohol  amstel radler 33 cl.","
-
-										oferta válida hasta el 28/10/2020"," tostada con limón 0,0 % alcohol  amstel radler 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/h0b/h70/10172148678686.jpg,Alcampo
-0.27,0.81,cerveza con limón sin alcohol holbrand lata de 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", con limón sin alcohol holbrand lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hdd/h75/8890967785502.jpg,Alcampo
-1.05,2.1,cerveza heineken lata de 50 centilitros,No promotion, heineken lata de 50 centilitros,lata,50 c,1,https://www.alcampo.es/media/h36/h10/9546905976862.jpg,Alcampo
 0.74,1.48,cerveza 5 estrellas mahou lata 50 cl.,No promotion, 5 estrellas mahou lata 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h9e/h61/9021159047198.jpg,Alcampo
-3.11,2.07,"cervezas sin alcohol (0,0% vol.) estrella galicia pack de 6 botellas de 25 c",No promotion," sin alcohol (0,0% vol.) estrella galicia pack de 6 botellas de 25 c",botella,25 c,6,https://www.alcampo.es/media/h7b/h76/9522724732958.jpg,Alcampo
-3.5,2.33,cervezas estrella galicia especial pack de 6 botellines de 25 cl.,No promotion, estrella galicia especial pack de 6 botellines de 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h27/h7d/9522783092766.jpg,Alcampo
-4.95,1.66,cerveza rubia ambar especial pack de 9 latas de 33 centilítros,"
-
-										oferta válida hasta el 28/10/2020", rubia ambar especial pack de 9 latas de 33 centilítros,lata,33 c,9,https://www.alcampo.es/media/h48/h6c/9556680671262.jpg,Alcampo
-0.69,2.09,cerveza tostada ambar export lata de 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", tostada ambar export lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h5f/hca/10428598747166.jpg,Alcampo
-6.48,0.81,"cervezas  holbrand, pack de 24 latas de 33 centilitros.",No promotion,"  holbrand, pack de 24 latas de 33 centilitros.",lata,", ",24,https://www.alcampo.es/media/hab/hf5/8947297288222.jpg,Alcampo
+2.96,2.46,cervezas mini estrella galicia pack 6 botellas x 20 cl. ,No promotion, mini estrella galicia pack 6 botellas x 20 cl. ,botella,20 cl,6,https://www.alcampo.es/media/h1c/h35/9522694717470.jpg,Alcampo
 0.53,1.6,cerveza rubia de sabor fresco y de ligero amargor san miguel lata 33 cl.,No promotion, rubia de sabor fresco y de ligero amargor san miguel lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/he5/h75/10396990341150.jpg,Alcampo
+0.53,1.6,cerveza heineken lata de 33 centilitros,No promotion, heineken lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h26/h7c/9546813341726.jpg,Alcampo
+3.5,2.33,cervezas estrella galicia especial pack de 6 botellines de 25 cl.,No promotion, estrella galicia especial pack de 6 botellines de 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h27/h7d/9522783092766.jpg,Alcampo
+0.49,1.48,"cerveza tostada con limón 0,0 % alcohol  amstel radler 33 cl.",oferta válida hasta el 28/10/2020," tostada con limón 0,0 % alcohol  amstel radler 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/h0b/h70/10172148678686.jpg,Alcampo
+6.19,1.56,cervezas san miguel pack de 12 latas de 33 cl.,oferta válida hasta el 28/10/2020, san miguel pack de 12 latas de 33 cl.,lata,33 cl,12,https://www.alcampo.es/media/hc5/h69/10492944449566.jpg,Alcampo
+6.48,0.81,"cervezas  holbrand, pack de 24 latas de 33 centilitros.",No promotion,"  holbrand, pack de 24 latas de 33 centilitros.",lata,33 c,24,https://www.alcampo.es/media/hab/hf5/8947297288222.jpg,Alcampo
+3.11,2.07,"cervezas sin alcohol (0,0% vol.) estrella galicia pack de 6 botellas de 25 c",No promotion," sin alcohol (0,0% vol.) estrella galicia pack de 6 botellas de 25 c",botella,25 c,6,https://www.alcampo.es/media/h7b/h76/9522724732958.jpg,Alcampo
 1.98,1.32,"cerveza sin alcohol mahou, pack 6 uds. x 25 cl.",No promotion," sin alcohol mahou, pack 6 uds. x 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/hac/h87/9492156416030.jpg,Alcampo
-0.64,0.19,"cerveza con limón  ambar radler, lata de 33 centilitros.",No promotion," con limón  ambar radler, lata de 33 centilitros.",lata,33 c,1,https://www.alcampo.es/media/hc4/h02/8959069388830.jpg,Alcampo
-0.73,2.21,cerveza budweiser lata de 33 centilitros,No promotion, budweiser lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/ha8/h44/9605337219102.jpg,Alcampo
-6.19,1.56,cervezas san miguel pack de 12 latas de 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", san miguel pack de 12 latas de 33 cl.,lata,33 cl,12,https://www.alcampo.es/media/hc5/h69/10492944449566.jpg,Alcampo
-0.89,0.89,cerveza amstel clásica botella de 1 litro,No promotion, amstel clásica botella de 1 litro,No specified,1 L,1,https://www.alcampo.es/media/h08/h15/9546822123550.jpg,Alcampo
-1.19,3.6,cerveza tipo abadía belga leffe blonde botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", tipo abadía belga leffe blonde botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h01/h68/8952581324830.jpg,Alcampo
-0.55,1.66,cerveza con limón sin alcohol mixta mahou lata de 33 centilitros,No promotion, con limón sin alcohol mixta mahou lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h6a/hbb/8928519684126.jpg,Alcampo
-0.6,1.81,cerveza ambar especial lata de 33 centilitros,No promotion, ambar especial lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h1d/hba/9915987722270.jpg,Alcampo
-3.99,1.33,cerveza rubia y aroma ligeramente afrutado mahou pack12 botellas de 25 cl.,"
-
-										oferta válida hasta el 28/10/2020", rubia y aroma ligeramente afrutado mahou pack12 botellas de 25 cl.,botella,25 cl,12,https://www.alcampo.es/media/hd5/h2c/9021154852894.jpg,Alcampo
-4.02,2.03,cervezas reserva extra especial 1906 pack 6 uds. x 33 cl,No promotion, reserva extra especial 1906 pack 6 uds. x 33 cl,No specified,33 cl,6,https://www.alcampo.es/media/h96/h2e/10033585061918.jpg,Alcampo
-0.99,3.0,cerveza negra guinness original botella 33 cl.,No promotion, negra guinness original botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h75/h33/9546889461790.jpg,Alcampo
-0.59,1.78,cerveza amstel extra lata de 33 cl.,No promotion, amstel extra lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h1d/hbc/9630042652702.jpg,Alcampo
-0.52,1.57,"cerveza sin alcohol (0,0% vol.) estrella galicia lata de 33 centilitros",No promotion," sin alcohol (0,0% vol.) estrella galicia lata de 33 centilitros",lata,33 c,1,https://www.alcampo.es/media/h21/hce/8952670158878.jpg,Alcampo
-8.15,2.05,cerveza  doble malta voll damm pack 12 luds de 33 cl.,"
-
-										oferta válida hasta el 28/10/2020",  doble malta voll damm pack 12 luds de 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hcb/h59/10411459182622.jpg,Alcampo
+1.05,2.1,cerveza heineken lata de 50 centilitros,No promotion, heineken lata de 50 centilitros,lata,50 c,1,https://www.alcampo.es/media/h36/h10/9546905976862.jpg,Alcampo
+7.68,1.93,cerveza  doble malta voll damm pack 12 luds de 33 cl.,oferta válida hasta el 28/10/2020,  doble malta voll damm pack 12 luds de 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hcb/h59/10411459182622.jpg,Alcampo
 2.24,1.49,cervezas con limón sin alcohol shandy cruzcampo pack 6 uds de 25 cl.,No promotion, con limón sin alcohol shandy cruzcampo pack 6 uds de 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h8c/he8/9546818158622.jpg,Alcampo
-0.99,0.99,cerveza cruz del sur 1 litro,No promotion, cruz del sur 1 litro,No specified,1 L,1,https://www.alcampo.es/media/hb0/he9/9626884472862.jpg,Alcampo
-7.14,1.8,cervezas alhambra especial pack de 12 uds. x 33 cl.,No promotion, alhambra especial pack de 12 uds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hab/h2d/9659369127966.jpg,Alcampo
-0.24,0.72,cerveza sin alcohol de origen español heifer lata de 33 cl.,No promotion, sin alcohol de origen español heifer lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hc2/h4c/8898051178526.jpg,Alcampo
-6.19,1.56,cervezas sin alcohol mahou pack de 12 latas de 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", sin alcohol mahou pack de 12 latas de 33 cl.,lata,33 cl,12,https://www.alcampo.es/media/h07/hd8/10493032726558.jpg,Alcampo
-3.24,2.16,"cerveza 0,0 tostada mahou pack 6 uds. x 25 cl",No promotion," 0,0 tostada mahou pack 6 uds. x 25 cl",No specified,25 cl,6,https://www.alcampo.es/media/h1e/he1/9543193690142.jpg,Alcampo
+0.99,2.78,"cerveza corona botella de 33,5 cl.",No promotion," corona botella de 33,5 cl.",botella,"33,5 cl",1,https://www.alcampo.es/media/hb3/h52/9188484186142.jpg,Alcampo
+0.55,1.66,cerveza con limón sin alcohol mixta mahou lata de 33 centilitros,No promotion, con limón sin alcohol mixta mahou lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h6a/hbb/8928519684126.jpg,Alcampo
+4.14,1.38,cerveza rubia y aroma ligeramente afrutado mahou pack12 botellas de 25 cl.,oferta válida hasta el 28/10/2020, rubia y aroma ligeramente afrutado mahou pack12 botellas de 25 cl.,botella,25 cl,12,https://www.alcampo.es/media/hd5/h2c/9021154852894.jpg,Alcampo
+0.64,0.19,"cerveza con limón  ambar radler, lata de 33 centilitros.",No promotion," con limón  ambar radler, lata de 33 centilitros.",lata,33 c,1,https://www.alcampo.es/media/hc4/h02/8959069388830.jpg,Alcampo
+0.89,0.89,cerveza amstel clásica botella de 1 litro,No promotion, amstel clásica botella de 1 litro,No specified,1 L,1,https://www.alcampo.es/media/h08/h15/9546822123550.jpg,Alcampo
+0.69,2.09,cerveza tostada ambar export lata de 33 cl.,oferta válida hasta el 28/10/2020, tostada ambar export lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h5f/hca/10428598747166.jpg,Alcampo
+0.59,1.78,cerveza amstel extra lata de 33 cl.,No promotion, amstel extra lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h1d/hbc/9630042652702.jpg,Alcampo
+0.67,2.03,cerveza rubia de sabor neutral y con lúpulo acentuado estrella galicia lata 33 cl.,No promotion, rubia de sabor neutral y con lúpulo acentuado estrella galicia lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h07/h97/8952650235934.jpg,Alcampo
+0.73,2.21,cerveza budweiser lata de 33 centilitros,No promotion, budweiser lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/ha8/h44/9605337219102.jpg,Alcampo
+0.99,3.0,cerveza negra guinness original botella 33 cl.,No promotion, negra guinness original botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h75/h33/9546889461790.jpg,Alcampo
 0.57,1.72,cerveza con limón damm lemon 33cl.,No promotion, con limón damm lemon 33cl.,No specified,33cl,1,https://www.alcampo.es/media/h91/ha2/9460756021278.jpg,Alcampo
-1.1,2.5,"cerveza premium extra lúpulo, ipa ambar lata 44 cl. ","
-
-										oferta válida hasta el 28/10/2020"," premium extra lúpulo, ipa ambar lata 44 cl. ",lata,44 cl,1,https://www.alcampo.es/media/h70/he9/9770112942110.jpg,Alcampo
-1.39,1.39,cerveza ambar botella de 1 l.,No promotion, ambar botella de 1 l.,botella,1 l,1,https://www.alcampo.es/media/h94/h7b/9915958657054.jpg,Alcampo
+1.19,3.6,cerveza tipo abadía belga leffe blonde botella 33 cl.,oferta válida hasta el 28/10/2020, tipo abadía belga leffe blonde botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h01/h68/8952581324830.jpg,Alcampo
+3.24,2.16,"cerveza 0,0 tostada mahou pack 6 uds. x 25 cl",No promotion," 0,0 tostada mahou pack 6 uds. x 25 cl",No specified,25 cl,6,https://www.alcampo.es/media/h1e/he1/9543193690142.jpg,Alcampo
+6.19,1.56,cervezas sin alcohol mahou pack de 12 latas de 33 cl.,oferta válida hasta el 28/10/2020, sin alcohol mahou pack de 12 latas de 33 cl.,lata,33 cl,12,https://www.alcampo.es/media/h07/hd8/10493032726558.jpg,Alcampo
+4.02,2.03,cervezas reserva extra especial 1906 pack 6 uds. x 33 cl,No promotion, reserva extra especial 1906 pack 6 uds. x 33 cl,No specified,33 cl,6,https://www.alcampo.es/media/h96/h2e/10033585061918.jpg,Alcampo
+7.14,1.8,cervezas alhambra especial pack de 12 uds. x 33 cl.,No promotion, alhambra especial pack de 12 uds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hab/h2d/9659369127966.jpg,Alcampo
+1.19,1.19,cerveza cruz del sur 1 litro,No promotion, cruz del sur 1 litro,No specified,1 L,1,https://www.alcampo.es/media/hb0/he9/9626884472862.jpg,Alcampo
+0.24,0.72,cerveza sin alcohol de origen español heifer lata de 33 cl.,No promotion, sin alcohol de origen español heifer lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hc2/h4c/8898051178526.jpg,Alcampo
 3.12,1.57,"cerveza sin alcohol (0,0% vol.) estrella galicia pack de 6 latas de 33 centilitros",No promotion," sin alcohol (0,0% vol.) estrella galicia pack de 6 latas de 33 centilitros",lata,33 c,6,https://www.alcampo.es/media/he8/h74/8952645484574.jpg,Alcampo
-0.57,1.72,cerveza carlsberg lata de 33 centilitros,No promotion, carlsberg lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h6a/hd2/10486221340702.jpg,Alcampo
-0.99,3.0,cerveza inedit damm botella de 33 cl.,No promotion, inedit damm botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h36/h75/8898359328798.jpg,Alcampo
 3.84,0.96,cervezas amstel clásica pack de 12 latas de 33 cl.,No promotion, amstel clásica pack de 12 latas de 33 cl.,lata,33 cl,12,https://www.alcampo.es/media/h72/h91/9546902077470.jpg,Alcampo
-0.27,0.81,cerveza holandesa de importación sin alcohol holbrand lata 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", holandesa de importación sin alcohol holbrand lata 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h6f/h29/9294112981022.jpg,Alcampo
+1.49,3.38,cerveza negra guinness draught lata 44 cl.,oferta válida hasta el 28/10/2020, negra guinness draught lata 44 cl.,lata,44 cl,1,https://www.alcampo.es/media/h3e/hf9/9629956800542.jpg,Alcampo
 0.57,1.72,cerveza cruzcampo gran reserva lata de 33 cl.,No promotion, cruzcampo gran reserva lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h72/h07/9546811473950.jpg,Alcampo
-2.91,1.94,cerveza especial mini estrella galicia pack 6 uds. x 25 cl. ,No promotion, especial mini estrella galicia pack 6 uds. x 25 cl. ,No specified,25 cl,6,https://www.alcampo.es/media/h08/h4d/9130795958302.jpg,Alcampo
-2.99,2.26,"cerveza sin gluten estrella galicia especial, 4 uds x de 33 cl.",No promotion," sin gluten estrella galicia especial, 4 uds x de 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/hdd/h5b/8871029375006.jpg,Alcampo
-1.0,3.03,cerveza sin alcohol clausthaler classic botella de 33 centilitros,No promotion, sin alcohol clausthaler classic botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/hd3/hd9/8952562122782.jpg,Alcampo
-1.49,3.38,cerveza negra guinness draught lata 44 cl.,"
-
-										oferta válida hasta el 28/10/2020", negra guinness draught lata 44 cl.,lata,44 cl,1,https://www.alcampo.es/media/h3e/hf9/9629956800542.jpg,Alcampo
-1.79,5.42,cerveza de importación belga la chouffe 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", de importación belga la chouffe 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/ha9/h71/10493021782046.jpg,Alcampo
-5.94,2.78,"cerveza mexicana corona cesta 6 botellas x 35,5 cl. ",No promotion," mexicana corona cesta 6 botellas x 35,5 cl. ",botella,"35,5 cl",1,https://www.alcampo.es/media/hce/he8/9186550906910.jpg,Alcampo
 0.67,2.03,cerveza sin gluten daura damm lata de 33 centilitros,No promotion, sin gluten daura damm lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h5d/hd5/8890175389726.jpg,Alcampo
-2.21,1.47,cervezas sin alcohol 0% san miguel pack 6 uds. x  25 cl.,No promotion, sin alcohol 0% san miguel pack 6 uds. x  25 cl.,No specified,25 cl,1,https://www.alcampo.es/media/h17/hdb/10397054009374.jpg,Alcampo
-0.6,1.81,"cerveza sin gluten ambar, lata de 33 cl.",No promotion," sin gluten ambar, lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/h03/h4a/8927266603038.jpg,Alcampo
-1.35,4.09,cerveza rubia  arriaca ipa 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", rubia  arriaca ipa 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h1d/hec/10358787407902.jpg,Alcampo
-2.24,1.49,cervezas sin alcohol alhambra pack de 6 uds x 25 cl.,No promotion, sin alcohol alhambra pack de 6 uds x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/hfc/hd9/9492130365470.jpg,Alcampo
+1.35,4.09,cerveza rubia  arriaca ipa 33 cl.,oferta válida hasta el 28/10/2020, rubia  arriaca ipa 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h1d/hec/10358787407902.jpg,Alcampo
+0.72,2.18,cerveza tostada san miguelselecta 33 cl.,No promotion, tostada san miguelselecta 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h51/hfc/10396986900510.jpg,Alcampo
+0.27,0.81,cerveza holandesa de importación sin alcohol holbrand lata 33 cl.,oferta válida hasta el 28/10/2020, holandesa de importación sin alcohol holbrand lata 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h6f/h29/9294112981022.jpg,Alcampo
+0.6,1.81,cerveza ambar especial lata de 33 centilitros,No promotion, ambar especial lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h1d/hba/9915987722270.jpg,Alcampo
+1.79,5.42,cerveza de importación belga la chouffe 33 cl.,oferta válida hasta el 28/10/2020, de importación belga la chouffe 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/ha9/h71/10493021782046.jpg,Alcampo
 1.29,1.29,cerveza san miguel 1 l.,No promotion, san miguel 1 l.,No specified,1 l,1,https://www.alcampo.es/media/hef/hd8/10397050044446.jpg,Alcampo
-0.83,2.51,cerveza sin filtrar el águila 33 cl.,No promotion, sin filtrar el águila 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hb9/hf3/9548548964382.jpg,Alcampo
 1.21,1.21,cerveza sin alcohol alhambra botella de 1 litro,No promotion, sin alcohol alhambra botella de 1 litro,botella,1 l,1,https://www.alcampo.es/media/h80/hed/8952538234910.jpg,Alcampo
+1.39,1.39,cerveza ambar botella de 1 l.,No promotion, ambar botella de 1 l.,botella,1 l,1,https://www.alcampo.es/media/h94/h7b/9915958657054.jpg,Alcampo
+1.0,2.0,cerveza aaemana de trigo franziskaner dunkel botella 50 cl.,oferta válida hasta el 28/10/2020, aaemana de trigo franziskaner dunkel botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h4c/h7b/8952474599454.jpg,Alcampo
+1.1,2.5,"cerveza premium extra lúpulo, ipa ambar lata 44 cl. ",oferta válida hasta el 28/10/2020," premium extra lúpulo, ipa ambar lata 44 cl. ",lata,44 cl,1,https://www.alcampo.es/media/h70/he9/9770112942110.jpg,Alcampo
+0.57,1.72,cerveza carlsberg lata de 33 centilitros,No promotion, carlsberg lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/h6a/hd2/10486221340702.jpg,Alcampo
+2.91,1.94,cerveza especial mini estrella galicia pack 6 uds. x 25 cl. ,No promotion, especial mini estrella galicia pack 6 uds. x 25 cl. ,No specified,25 cl,6,https://www.alcampo.es/media/h08/h4d/9130795958302.jpg,Alcampo
+0.99,3.0,cerveza inedit damm botella de 33 cl.,No promotion, inedit damm botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h36/h75/8898359328798.jpg,Alcampo
+0.59,1.78,cerveza con sabor a limón radler cruzcampo  lata de 33 cl.,No promotion, con sabor a limón radler cruzcampo  lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h19/h71/9546825105438.jpg,Alcampo
+1.0,2.0,cerveza alemana de importación franziskaner lata de 50 cl.,oferta válida hasta el 28/10/2020, alemana de importación franziskaner lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/hde/h8b/10448412213278.jpg,Alcampo
+2.99,2.26,"cerveza sin gluten estrella galicia especial, 4 uds x de 33 cl.",No promotion," sin gluten estrella galicia especial, 4 uds x de 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/hdd/h5b/8871029375006.jpg,Alcampo
+1.35,4.09,cerveza artesana  arriaca session ipa lata 33 cl.,oferta válida hasta el 28/10/2020, artesana  arriaca session ipa lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hf4/h5f/10358793601054.jpg,Alcampo
+2.24,1.49,cervezas sin alcohol alhambra pack de 6 uds x 25 cl.,No promotion, sin alcohol alhambra pack de 6 uds x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/hfc/hd9/9492130365470.jpg,Alcampo
+1.0,2.0,cerveza sin alcohol franziskaner botella de 50 centilitros,oferta válida hasta el 28/10/2020, sin alcohol franziskaner botella de 50 centilitros,No specified,50 ,1,https://www.alcampo.es/media/h5e/hf0/8893740285982.jpg,Alcampo
 0.87,2.63,"cervezas sin alcohol (0,0% vol.), sin gluten ambar green, botella de 33 cl.",No promotion," sin alcohol (0,0% vol.), sin gluten ambar green, botella de 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/h9d/h65/8898048360478.jpg,Alcampo
 3.34,2.22,"cerveza0,0% heineken pack 6 x 25 cl",No promotion, heineken pack 6 x 25 cl,No specified,25 cl,1,https://www.alcampo.es/media/h79/h3d/10034012258334.jpg,Alcampo
-0.53,1.6,cerveza estilo pilsen rubia cruzcampo lata 33 cl.,No promotion, estilo pilsen rubia cruzcampo lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hcd/h70/9546844405790.jpg,Alcampo
-1.0,3.03,cerveza mojito tequila desperados 33 cl.,No promotion, mojito tequila desperados 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf3/h6b/9546841358366.jpg,Alcampo
-0.72,2.18,cerveza tostada san miguelselecta 33 cl.,No promotion, tostada san miguelselecta 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h51/hfc/10396986900510.jpg,Alcampo
-0.59,1.78,cerveza con sabor a limón radler cruzcampo  lata de 33 cl.,No promotion, con sabor a limón radler cruzcampo  lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h19/h71/9546825105438.jpg,Alcampo
-0.67,2.03,cerveza rubia de sabor neutral y con lúpulo acentuado estrella galicia lata 33 cl.,No promotion, rubia de sabor neutral y con lúpulo acentuado estrella galicia lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h07/h97/8952650235934.jpg,Alcampo
-11.69,1.94,cerveza mahou 5 estrellas pack de 24 botellines de 25 cl ,No promotion, mahou 5 estrellas pack de 24 botellines de 25 cl ,No specified,25 cl,24,https://www.alcampo.es/media/h63/h09/9511081279518.jpg,Alcampo
 2.88,0.72,cerveza sin alcohol heifer pack de 12 latas de 33 cl.,No promotion, sin alcohol heifer pack de 12 latas de 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf4/h1e/8890423377950.jpg,Alcampo
+2.21,1.47,cervezas sin alcohol 0% san miguel pack 6 uds. x  25 cl.,No promotion, sin alcohol 0% san miguel pack 6 uds. x  25 cl.,No specified,25 cl,1,https://www.alcampo.es/media/h17/hdb/10397054009374.jpg,Alcampo
+0.52,1.57,"cerveza sin alcohol (0,0% vol.) estrella galicia lata de 33 centilitros",No promotion," sin alcohol (0,0% vol.) estrella galicia lata de 33 centilitros",lata,33 c,1,https://www.alcampo.es/media/h21/hce/8952670158878.jpg,Alcampo
+11.69,1.94,cerveza mahou 5 estrellas pack de 24 botellines de 25 cl ,No promotion, mahou 5 estrellas pack de 24 botellines de 25 cl ,No specified,25 cl,24,https://www.alcampo.es/media/h63/h09/9511081279518.jpg,Alcampo
+5.88,2.76,"cerveza mexicana corona cesta 6 botellas x 35,5 cl. ",No promotion," mexicana corona cesta 6 botellas x 35,5 cl. ",botella,"35,5 cl",1,https://www.alcampo.es/media/hce/he8/9186550906910.jpg,Alcampo
+1.07,3.24,"cerveza doble lúpulo, mahou maestra, botella de 33 centilitros.",No promotion," doble lúpulo, mahou maestra, botella de 33 centilitros.",botella,33 c,1,https://www.alcampo.es/media/h8e/hef/8950344777758.jpg,Alcampo
 0.94,2.84,"cerveza sin gluten mahou, botella de 33 cl.",No promotion," sin gluten mahou, botella de 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/hd9/h46/8902326091806.jpg,Alcampo
-0.61,1.84,cerveza alhambra radler 33 cl.,No promotion, alhambra radler 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hfc/he3/9543192543262.jpg,Alcampo
-1.35,4.09,cerveza artesana  arriaca session ipa lata 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", artesana  arriaca session ipa lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hf4/h5f/10358793601054.jpg,Alcampo
-1.19,3.6,cerveza italiana peroni 33 cl.,No promotion, italiana peroni 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h2b/hb1/8941305757726.jpg,Alcampo
-1.0,2.0,cerveza aaemana de trigo franziskaner dunkel botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", aaemana de trigo franziskaner dunkel botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h4c/h7b/8952474599454.jpg,Alcampo
-1.95,5.9,cerveza rubia punk ipa brewdog 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", rubia punk ipa brewdog 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h5f/hd9/10492936880158.jpg,Alcampo
-0.64,1.93,cerveza tostada san miguel selecta 33 cl.,No promotion, tostada san miguel selecta 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/ha3/hbb/10396994437150.jpg,Alcampo
-1.0,3.03,"cerveza sin alcohol, clausthaler unfiltered, botella 33 centilitros.",No promotion," sin alcohol, clausthaler unfiltered, botella 33 centilitros.",botella,", ",1,https://www.alcampo.es/media/hc6/h8b/8949348827166.jpg,Alcampo
-0.84,2.54,cerveza cruzcampo gran reserva botella de 33 centilitros (tercio),No promotion, cruzcampo gran reserva botella de 33 centilitros (tercio),botella,33 c,1,https://www.alcampo.es/media/h41/h31/9546854105118.jpg,Alcampo
-1.0,2.0,cerveza sin alcohol franziskaner botella de 50 centilitros,"
-
-										oferta válida hasta el 28/10/2020", sin alcohol franziskaner botella de 50 centilitros,No specified,50 ,1,https://www.alcampo.es/media/h5e/hf0/8893740285982.jpg,Alcampo
-0.53,1.6,cerveza con zumo natural de limón mahou radler lata 33 cl.,No promotion, con zumo natural de limón mahou radler lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h5d/h42/9242797342750.jpg,Alcampo
-6.7,2.23,cerveza  heineken botella pack de 12 uds de 25 cl.,No promotion,  heineken botella pack de 12 uds de 25 cl.,botella,25 cl,12,https://www.alcampo.es/media/hd6/h39/9546828578846.jpg,Alcampo
-1.07,3.24,cerveza belga stella artois botella 33 cl.,No promotion, belga stella artois botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h2f/hf6/8897047625758.jpg,Alcampo
+0.89,2.69,cerveza rubia ambar 1900 botella de 33 centilitros,oferta válida hasta el 28/10/2020, rubia ambar 1900 botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/h36/h96/9915940831262.jpg,Alcampo
 5.69,2.87,cervezas 1906 red vintage pack 6 uds. x 33 cl.,No promotion, 1906 red vintage pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h92/h64/9893418172446.jpg,Alcampo
+0.53,1.6,cerveza con zumo natural de limón mahou radler lata 33 cl.,No promotion, con zumo natural de limón mahou radler lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h5d/h42/9242797342750.jpg,Alcampo
+0.6,1.81,"cerveza sin gluten ambar, lata de 33 cl.",No promotion," sin gluten ambar, lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/h03/h4a/8927266603038.jpg,Alcampo
+0.53,1.6,cerveza estilo pilsen rubia cruzcampo lata 33 cl.,No promotion, estilo pilsen rubia cruzcampo lata 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hcd/h70/9546844405790.jpg,Alcampo
+1.95,5.9,cerveza rubia punk ipa brewdog 33 cl.,oferta válida hasta el 28/10/2020, rubia punk ipa brewdog 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h5f/hd9/10492936880158.jpg,Alcampo
+1.0,3.03,cerveza mojito tequila desperados 33 cl.,No promotion, mojito tequila desperados 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf3/h6b/9546841358366.jpg,Alcampo
+0.83,2.51,cerveza sin filtrar el águila 33 cl.,No promotion, sin filtrar el águila 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hb9/hf3/9548548964382.jpg,Alcampo
+0.64,1.93,cerveza tostada san miguel selecta 33 cl.,No promotion, tostada san miguel selecta 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/ha3/hbb/10396994437150.jpg,Alcampo
+1.05,3.18,"cerveza sin alcohol, clausthaler unfiltered, botella 33 centilitros.",No promotion," sin alcohol, clausthaler unfiltered, botella 33 centilitros.",botella,33 c,1,https://www.alcampo.es/media/hc6/h8b/8949348827166.jpg,Alcampo
 9.44,1.57,cerveza  clásica mahou pack 24 botellas. 25 cl.,No promotion,  clásica mahou pack 24 botellas. 25 cl.,botella,25 cl,24,https://www.alcampo.es/media/h40/h89/9021154361374.jpg,Alcampo
-1.0,2.0,cerveza alemana de importación franziskaner lata de 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", alemana de importación franziskaner lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/hde/h8b/10448412213278.jpg,Alcampo
-5.69,1.43,cerveza tradicional alhambra pack 12 uds. x 33 cl.,No promotion, tradicional alhambra pack 12 uds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hcc/hf5/10407527317534.jpg,Alcampo
+0.92,2.78,"cerveza sin gluten estrella damm daura, botella de 33 cl.",No promotion," sin gluten estrella damm daura, botella de 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/h36/h5c/9167116337182.jpg,Alcampo
+0.49,1.48,"cerveza 0,0 % san miguel magna 33 cl.",oferta válida hasta el 28/10/2020," 0,0 % san miguel magna 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/h29/hab/10250097819678.jpg,Alcampo
+1.19,3.6,cerveza italiana peroni 33 cl.,No promotion, italiana peroni 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h2b/hb1/8941305757726.jpg,Alcampo
 0.74,1.48,cerveza amstel 100 % malta lata de 50 cl.,No promotion, amstel 100 % malta lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/hed/h7a/10464074924062.jpg,Alcampo
-9.07,1.51,cerveza san miguel especial pack 24 uds. x 25 cl.,No promotion, san miguel especial pack 24 uds. x 25 cl.,No specified,25 cl,24,https://www.alcampo.es/media/hed/hf0/10397041852446.jpg,Alcampo
+6.69,6.69,cervezas reserva (5 uds. reserva 1925 + 1 ud. reserva roja) alhambra  6 uds. x 33 cl + copa de regalo,oferta válida hasta el 28/10/2020, reserva (5 uds. reserva 1925 + 1 ud. reserva roja) alhambra  6 uds. x 33 cl + copa de regalo,No specified,33 cl,1,https://www.alcampo.es/media/ha4/h21/10448428138526.jpg,Alcampo
+3.49,2.32,"cerveza sin alcohol 0,0 % tostada estrella galicia pack 6 uds. x 25 cl.",oferta válida hasta el 28/10/2020," sin alcohol 0,0 % tostada estrella galicia pack 6 uds. x 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/h83/hff/10250099785758.jpg,Alcampo
+6.7,2.23,cerveza  heineken botella pack de 12 uds de 25 cl.,No promotion,  heineken botella pack de 12 uds de 25 cl.,botella,25 cl,12,https://www.alcampo.es/media/hd6/h39/9546828578846.jpg,Alcampo
+1.0,2.0,cerveza checa rubia de importación praga 60 cl.,oferta válida hasta el 28/10/2020, checa rubia de importación praga 60 cl.,No specified,60 cl,1,https://www.alcampo.es/media/h95/h72/8877202407454.jpg,Alcampo
 0.59,1.78,"cerveza (0,0% alcohol) con sabor a limón ambar lemon lata de 33 cl.",No promotion," (0,0% alcohol) con sabor a limón ambar lemon lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/hff/h6d/9915975467038.jpg,Alcampo
 2.98,1.98,cerveza rubia mahou 5 estrellas pack de 6 botellas. 25 cl.,No promotion, rubia mahou 5 estrellas pack de 6 botellas. 25 cl.,botella,25 cl,6,https://www.alcampo.es/media/hb6/h35/9021150396446.jpg,Alcampo
-1.43,2.86,cerveza combinada con tequila desperados lata de 50 cl.,No promotion, combinada con tequila desperados lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h45/h07/10414724284446.jpg,Alcampo
+0.61,1.84,cerveza alhambra radler 33 cl.,No promotion, alhambra radler 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hfc/he3/9543192543262.jpg,Alcampo
+0.84,2.54,cerveza cruzcampo gran reserva botella de 33 centilitros (tercio),No promotion, cruzcampo gran reserva botella de 33 centilitros (tercio),botella,33 c,1,https://www.alcampo.es/media/h41/h31/9546854105118.jpg,Alcampo
+1.07,3.24,cerveza belga stella artois botella 33 cl.,No promotion, belga stella artois botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h2f/hf6/8897047625758.jpg,Alcampo
 4.39,3.32,"cerveza roja alhambra reserva, pack de 4 uds. x 33 cl.",No promotion," roja alhambra reserva, pack de 4 uds. x 33 cl.",No specified,33 cl,4,https://www.alcampo.es/media/h21/h16/10407829700638.jpg,Alcampo
-1.19,3.6,cerveza tipo abadía belga leffe brune botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", tipo abadía belga leffe brune botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h16/hce/10448425189406.jpg,Alcampo
-0.51,1.54,cerveza sin alcohol amstel lata de 33 centilitros,No promotion, sin alcohol amstel lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/hc3/hbd/9546860331038.jpg,Alcampo
+9.07,1.51,cerveza san miguel especial pack 24 uds. x 25 cl.,No promotion, san miguel especial pack 24 uds. x 25 cl.,No specified,25 cl,24,https://www.alcampo.es/media/hed/hf0/10397041852446.jpg,Alcampo
+1.19,3.6,cerveza tipo abadía belga leffe brune botella 33 cl.,oferta válida hasta el 28/10/2020, tipo abadía belga leffe brune botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h16/hce/10448425189406.jpg,Alcampo
 0.55,1.66,"cerveza (0,0% alcohol) con sabor a manzana san miguel lata de 33 cl.",No promotion," (0,0% alcohol) con sabor a manzana san miguel lata de 33 cl.",lata,33 cl,1,https://www.alcampo.es/media/h94/hce/10397052698654.jpg,Alcampo
 2.59,1.72,cerveza sin alcohol free damm pack de 6 botellas de 25 centilitros,No promotion, sin alcohol free damm pack de 6 botellas de 25 centilitros,botella,25 c,6,https://www.alcampo.es/media/h09/h84/9068998328350.jpg,Alcampo
-0.89,2.69,cerveza rubia ambar 1900 botella de 33 centilitros,"
-
-										oferta válida hasta el 28/10/2020", rubia ambar 1900 botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/h36/h96/9915940831262.jpg,Alcampo
-2.86,1.9,cerveza con zumo de limón radler amstel 6 x 250 ml,No promotion, con zumo de limón radler amstel 6 x 250 ml,No specified,250 ml,1,https://www.alcampo.es/media/hf1/h2a/9546902896670.jpg,Alcampo
-1.0,2.0,cerveza checa pilsner urquell lata 50 cl.,No promotion, checa pilsner urquell lata 50 cl.,No specified,50 ,1,https://www.alcampo.es/media/hec/h1b/8952667045918.jpg,Alcampo
-6.3,1.05,cerveza clásica san miguel pack 6 botella de 1 l. ,No promotion, clásica san miguel pack 6 botella de 1 l. ,botella,6 ,6,https://www.alcampo.es/media/h1d/h84/9206257713182.jpg,Alcampo
-0.92,2.78,"cerveza sin gluten estrella damm daura, botella de 33 cl.",No promotion," sin gluten estrella damm daura, botella de 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/h36/h5c/9167116337182.jpg,Alcampo
-0.99,3.0,cerveza rubia judas botella de 33 cl.,No promotion, rubia judas botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h5c/h85/9546819928094.jpg,Alcampo
-4.94,1.64,cervezas ambar especial pack 12 uds. x 25 cl.,No promotion, ambar especial pack 12 uds. x 25 cl.,No specified,25 cl,12,https://www.alcampo.es/media/h61/h8b/9916008202270.jpg,Alcampo
-2.09,1.39,"cerveza sin alcohol buckler, pack de 6 uds. x 25 cl.",No promotion," sin alcohol buckler, pack de 6 uds. x 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/h17/h19/9546858561566.jpg,Alcampo
-0.59,1.78,cerveza manila san miguel 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", manila san miguel 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h37/h41/9157802000414.jpg,Alcampo
-3.49,2.32,"cerveza sin alcohol 0,0 % tostada estrella galicia pack 6 uds. x 25 cl.","
-
-										oferta válida hasta el 28/10/2020"," sin alcohol 0,0 % tostada estrella galicia pack 6 uds. x 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/h83/hff/10250099785758.jpg,Alcampo
-0.49,1.48,"cerveza 0,0 % san miguel magna 33 cl.","
-
-										oferta válida hasta el 28/10/2020"," 0,0 % san miguel magna 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/h29/hab/10250097819678.jpg,Alcampo
-6.19,3.12,cervezas 1906 reserva especial pack de 6 botellines de 33 cl.,No promotion, 1906 reserva especial pack de 6 botellines de 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/hea/hc4/9965496107038.jpg,Alcampo
-1.07,3.24,"cerveza doble lúpulo, mahou maestra, botella de 33 centilitros.",No promotion," doble lúpulo, mahou maestra, botella de 33 centilitros.",botella,", ",1,https://www.alcampo.es/media/h8e/hef/8950344777758.jpg,Alcampo
-0.5,1.51,cerveza el águila 1900 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", el águila 1900 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h8a/hd9/9548571213854.jpg,Alcampo
 7.44,2.48,cerveza doble malta voll damm pack de 12 botellines de 25 cl.,No promotion, doble malta voll damm pack de 12 botellines de 25 cl.,No specified,25 cl,12,https://www.alcampo.es/media/hfa/hb8/8874110091294.jpg,Alcampo
-6.69,6.69,cervezas reserva (5 uds. reserva 1925 + 1 ud. reserva roja) alhambra  6 uds. x 33 cl + copa de regalo,"
-
-										oferta válida hasta el 28/10/2020", reserva (5 uds. reserva 1925 + 1 ud. reserva roja) alhambra  6 uds. x 33 cl + copa de regalo,No specified,33 cl,1,https://www.alcampo.es/media/ha4/h21/10448428138526.jpg,Alcampo
-7.86,1.31,cerveza clásica mahou pack 6 botella x 1 l.,No promotion, clásica mahou pack 6 botella x 1 l.,botella,1 l,6,https://www.alcampo.es/media/h68/heb/9214358421534.jpg,Alcampo
-0.97,2.93,cerveza rubia nacional san miguel fresca botella de 33 centilitros,No promotion, rubia nacional san miguel fresca botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/h1c/h02/8959768264734.jpg,Alcampo
-1.59,4.81,cerveza premium 8 lúpulos mediterránea complot ipa 33 cl. ,"
-
-										oferta válida hasta el 28/10/2020", premium 8 lúpulos mediterránea complot ipa 33 cl. ,No specified,33 cl,1,https://www.alcampo.es/media/h1e/h3c/9251647848478.jpg,Alcampo
-1.69,4.76,"cerveza ipa lagunitas 35,5 cl","
-
-										oferta válida hasta el 28/10/2020"," ipa lagunitas 35,5 cl",No specified,"35,5 cl",1,https://www.alcampo.es/media/he7/h7e/9580492652574.jpg,Alcampo
-0.99,3.0,cerveza abadía belga grimbergen double botella 33 cl.,No promotion, abadía belga grimbergen double botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hae/h8f/8897255047198.jpg,Alcampo
-0.8,1.6,cerveza ambar premium lata de 50 cl.,No promotion, ambar premium lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h1e/hf2/9915928838174.jpg,Alcampo
-0.5,2.0,cerveza tostada malquerida botella 25 cl. ,"
-
-										oferta válida hasta el 28/10/2020", tostada malquerida botella 25 cl. ,botella,25 cl,1,https://www.alcampo.es/media/h25/hc0/9222475186206.jpg,Alcampo
-0.86,2.6,"cerveza sin gluten ambar, botella de 33 cl.",No promotion," sin gluten ambar, botella de 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/he8/h85/8898005762078.jpg,Alcampo
-9.54,1.6,cervezas heineken pack de 18  uds. x  33 cl.,No promotion, heineken pack de 18  uds. x  33 cl.,No specified,33 cl,18,https://www.alcampo.es/media/hc1/hc1/9546899587102.jpg,Alcampo
+0.59,1.78,cerveza manila san miguel 33 cl.,oferta válida hasta el 28/10/2020, manila san miguel 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h37/h41/9157802000414.jpg,Alcampo
+1.05,3.18,cerveza sin alcohol clausthaler classic botella de 33 centilitros,No promotion, sin alcohol clausthaler classic botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/hd3/hd9/8952562122782.jpg,Alcampo
+0.5,1.51,cerveza el águila 1900 33 cl.,oferta válida hasta el 28/10/2020, el águila 1900 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hd3/h1f/10509128007710.jpg,Alcampo
 11.99,1.29,cervezas san miguel premium especial pack 28 uds. x 33 cl.,No promotion, san miguel premium especial pack 28 uds. x 33 cl.,No specified,33 cl,28,https://www.alcampo.es/media/hf5/hab/10397039394846.jpg,Alcampo
-0.5,1.51,cerveza golden lager sam miguel magna 33 cl,"
-
-										oferta válida hasta el 28/10/2020", golden lager sam miguel magna 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/hc4/h0e/9543201783838.jpg,Alcampo
-1.05,3.18,cerveza rubia mexicana sol botella 33 cl.,No promotion, rubia mexicana sol botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h4e/he9/9626874249246.jpg,Alcampo
-2.58,1.72,cerveza de sabor suave y aromas ligeramente afrutado mahou pack de 6 botellas de 25 cl.,No promotion, de sabor suave y aromas ligeramente afrutado mahou pack de 6 botellas de 25 cl.,botella,25 cl,6,https://www.alcampo.es/media/hb4/h50/9021146955806.jpg,Alcampo
-0.45,1.36,cerveza amstel 100 % malta lata de 33 cl.,No promotion, amstel 100 % malta lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hc7/h4a/10472580448286.jpg,Alcampo
-2.89,1.92,cerveza alhambra especial botella de 25 centilitros pack de 6 uds.,No promotion, alhambra especial botella de 25 centilitros pack de 6 uds.,botella,6 ,6,https://www.alcampo.es/media/hb2/hb0/8928507887646.jpg,Alcampo
-1.0,3.03,"cerveza premium extra lúpulo, ipa ambar ipa botella 33 cl.",No promotion," premium extra lúpulo, ipa ambar ipa botella 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/h1b/hed/9234805653534.jpg,Alcampo
-0.98,2.96,cerveza americana miller botella de 33 cl.,No promotion, americana miller botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h49/h18/8952654331934.jpg,Alcampo
-1.35,4.09,cerveza rubia premium de barrica matices de madera mahou 33 cl ,"
-
-										oferta válida hasta el 28/10/2020", rubia premium de barrica matices de madera mahou 33 cl ,No specified,33 cl,1,https://www.alcampo.es/media/he8/ha8/9133164265502.jpg,Alcampo
-1.0,3.03,cerveza con lima y tequila desperados 33 cl.,No promotion, con lima y tequila desperados 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h58/ha9/10172153954334.jpg,Alcampo
-3.24,0.81,"cerveza con sabor a limón 0,7% volumen de alcohol holbrand, pack de 12 latas de 33 centilitros.",No promotion," con sabor a limón 0,7% volumen de alcohol holbrand, pack de 12 latas de 33 centilitros.",lata,", ",12,https://www.alcampo.es/media/h6c/hf0/8951835623454.jpg,Alcampo
-1.1,3.33,cerveza de trigo sin alcohol erdinger alkoholfrei botella de 33 cl.,No promotion, de trigo sin alcohol erdinger alkoholfrei botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h48/h2d/9558660513822.gif,Alcampo
-1.0,2.0,cerveza checa rubia de importación praga 60 cl.,"
-
-										oferta válida hasta el 28/10/2020", checa rubia de importación praga 60 cl.,No specified,60 cl,1,https://www.alcampo.es/media/h95/h72/8877202407454.jpg,Alcampo
-3.13,2.08,cerveza estrella damm pack de 6 botellines de 25 centilitros,No promotion, estrella damm pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/he5/h39/8952592531486.jpg,Alcampo
-2.59,1.72,cerveza con limón sin alcohol mixta mahou pack de 6 botellines de 25 centilitros,No promotion, con limón sin alcohol mixta mahou pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/hee/hd0/8895869878302.jpg,Alcampo
-0.52,1.57,"cerveza 0.0 %, sin alcohol, tostada free damm 33 cl",No promotion," 0.0 %, sin alcohol, tostada free damm 33 cl",No specified,33 cl,1,https://www.alcampo.es/media/hc8/h36/9893464735774.jpg,Alcampo
-3.29,3.29,cerveza sin filtrar el águila pack 4 uds. x33 cl.,"
-
-										oferta válida hasta el 28/10/2020", sin filtrar el águila pack 4 uds. x33 cl.,No specified,33 cl,4,https://www.alcampo.es/media/ha4/haf/9633060257822.jpg,Alcampo
-4.99,4.99,cerveza tostada amstel oro 6 uds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", tostada amstel oro 6 uds. x 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h0a/h85/9633056751646.jpg,Alcampo
-0.93,2.81,cerveza budweiser botella de 33 centilitros (tercio),No promotion, budweiser botella de 33 centilitros (tercio),botella,33 c,1,https://www.alcampo.es/media/hd4/h61/9188553293854.jpg,Alcampo
-5.25,2.65,cerveza gran reserva cruzcampo pack 6 uds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", gran reserva cruzcampo pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h0d/h5d/9633084964894.jpg,Alcampo
-8.95,4.52,cervezas edición especial familia 1906 pack 6 x 33 cl. ,"
-
-										oferta válida hasta el 28/10/2020", edición especial familia 1906 pack 6 x 33 cl. ,No specified,33 cl,6,https://www.alcampo.es/media/h0a/hc4/10448415490078.jpg,Alcampo
-3.34,2.22,cervezas heineken pack de 6 uds  x 25 cl.,No promotion, heineken pack de 6 uds  x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h60/h0a/9546830970910.jpg,Alcampo
-1.0,2.0,cerveza alemana premium de trigo schofferhofer 50cl,No promotion, alemana premium de trigo schofferhofer 50cl,No specified,50cl,1,https://www.alcampo.es/media/h73/h72/9089254916126.jpg,Alcampo
-1.0,3.03,cerveza combinada con tequila desperados botella de 33 centilitros,No promotion, combinada con tequila desperados botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/hbf/h3e/9546915020830.jpg,Alcampo
-7.95,4.01,estuche cervezas degustación la sagra 6 uds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020",estuche  degustación la sagra 6 uds. x 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf5/h1a/10448394027038.jpg,Alcampo
-0.59,2.36,cerveza especial mini estrella galicia lata de 25 cl. ,No promotion, especial mini estrella galicia lata de 25 cl. ,lata,25 cl,1,https://www.alcampo.es/media/h26/h11/9173330001950.jpg,Alcampo
-0.74,1.48,cerveza tipo lager y estilo pilsen de espuma consistente cruzcampo lata 50 cl.,No promotion, tipo lager y estilo pilsen de espuma consistente cruzcampo lata 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h62/h41/10428600385566.jpg,Alcampo
-1.29,1.29,cerveza pilsener amstel 100% malta   botella de 1 l.,No promotion, pilsener amstel 100% malta   botella de 1 l.,botella,1 l,1,https://www.alcampo.es/media/h20/h86/10472614658078.jpg,Alcampo
+1.43,2.86,cerveza combinada con tequila desperados lata de 50 cl.,No promotion, combinada con tequila desperados lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h45/h07/10414724284446.jpg,Alcampo
 1.25,3.78,cerveza japonesa de importación kirin ichiban botella 33 centilitros,No promotion, japonesa de importación kirin ichiban botella 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/hb4/h00/8952686116894.jpg,Alcampo
-3.99,4.03,cervezas estuche degustación arriaca pack 3 uds. x 33 cl,"
-
-										oferta válida hasta el 28/10/2020", estuche degustación arriaca pack 3 uds. x 33 cl,No specified,33 cl,3,https://www.alcampo.es/media/h53/h13/10358776496158.jpg,Alcampo
-3.58,2.84,cerveza coronita pack  6 botella x 21 cl. ,No promotion, coronita pack  6 botella x 21 cl. ,botella,21 cl,6,https://www.alcampo.es/media/h77/hb7/9188547559454.jpg,Alcampo
-9.95,9.95,cervezas rubias ámbar especial 8 uds. x 33 cl. + barril,"
-
-										oferta válida hasta el 28/10/2020", rubias ámbar especial 8 uds. x 33 cl. + barril,barril,33 cl,1,https://www.alcampo.es/media/h17/hf5/10437305434142.jpg,Alcampo
-9.5,4.79,estuche degustación cervezas gastro pack 6 uds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020",estuche degustación  gastro pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/hc1/h1f/10492947496990.jpg,Alcampo
+5.88,2.96,cervezas 1906 reserva especial pack de 6 botellines de 33 cl.,No promotion, 1906 reserva especial pack de 6 botellines de 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/hea/hc4/9965496107038.jpg,Alcampo
+5.69,1.43,cerveza tradicional alhambra pack 12 uds. x 33 cl.,No promotion, tradicional alhambra pack 12 uds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hcc/hf5/10407527317534.jpg,Alcampo
+1.69,4.76,"cerveza ipa lagunitas 35,5 cl",oferta válida hasta el 28/10/2020," ipa lagunitas 35,5 cl",No specified,"35,5 cl",1,https://www.alcampo.es/media/he7/h7e/9580492652574.jpg,Alcampo
+0.68,1.36,cerveza ambar premium lata de 50 cl.,No promotion, ambar premium lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h1e/hf2/9915928838174.jpg,Alcampo
+2.86,1.9,cerveza con zumo de limón radler amstel 6 x 250 ml,No promotion, con zumo de limón radler amstel 6 x 250 ml,No specified,250 ml,1,https://www.alcampo.es/media/hf1/h2a/9546902896670.jpg,Alcampo
+4.94,1.64,cervezas ambar especial pack 12 uds. x 25 cl.,No promotion, ambar especial pack 12 uds. x 25 cl.,No specified,25 cl,12,https://www.alcampo.es/media/h61/h8b/9916008202270.jpg,Alcampo
+0.99,3.0,cerveza rubia judas botella de 33 cl.,No promotion, rubia judas botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h5c/h85/9546819928094.jpg,Alcampo
+2.58,1.72,cerveza de sabor suave y aromas ligeramente afrutado mahou pack de 6 botellas de 25 cl.,No promotion, de sabor suave y aromas ligeramente afrutado mahou pack de 6 botellas de 25 cl.,botella,25 cl,6,https://www.alcampo.es/media/hb4/h50/9021146955806.jpg,Alcampo
+0.84,2.54,"cerveza con sabor a tequila desperados, lata de 33 centilitros.",No promotion," con sabor a tequila desperados, lata de 33 centilitros.",lata,33 c,1,https://www.alcampo.es/media/he1/he2/9546835296286.jpg,Alcampo
+2.09,1.39,"cerveza sin alcohol buckler, pack de 6 uds. x 25 cl.",No promotion," sin alcohol buckler, pack de 6 uds. x 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/h17/h19/9546858561566.jpg,Alcampo
+0.95,2.87,cerveza rubia ipa san miguel yakina valley 33 cl.,oferta válida hasta el 28/10/2020, rubia ipa san miguel yakina valley 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h14/h27/10250178232350.jpg,Alcampo
+2.89,1.92,cerveza alhambra especial botella de 25 centilitros pack de 6 uds.,No promotion, alhambra especial botella de 25 centilitros pack de 6 uds.,botella,25 c,6,https://www.alcampo.es/media/hb2/hb0/8928507887646.jpg,Alcampo
+3.29,3.29,cerveza sin filtrar el águila pack 4 uds. x33 cl.,oferta válida hasta el 28/10/2020, sin filtrar el águila pack 4 uds. x33 cl.,No specified,33 cl,4,https://www.alcampo.es/media/ha4/haf/9633060257822.jpg,Alcampo
+0.99,3.0,cerveza abadía belga grimbergen double botella 33 cl.,No promotion, abadía belga grimbergen double botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hae/h8f/8897255047198.jpg,Alcampo
+1.39,2.78,cerveza checa pilsner urquell lata 50 cl.,No promotion, checa pilsner urquell lata 50 cl.,No specified,50 ,1,https://www.alcampo.es/media/hec/h1b/8952667045918.jpg,Alcampo
+1.35,4.09,cerveza rubia premium de barrica matices de madera mahou 33 cl ,oferta válida hasta el 28/10/2020, rubia premium de barrica matices de madera mahou 33 cl ,No specified,33 cl,1,https://www.alcampo.es/media/he8/ha8/9133164265502.jpg,Alcampo
+0.5,1.51,cerveza golden lager sam miguel magna 33 cl,oferta válida hasta el 28/10/2020, golden lager sam miguel magna 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/hc4/h0e/9543201783838.jpg,Alcampo
 3.49,2.64,cerveza alhambra especial pack de 4 botellas de 33 centilitros (tercio),No promotion, alhambra especial pack de 4 botellas de 33 centilitros (tercio),botella,33 c,4,https://www.alcampo.es/media/hc5/hc2/8952582635550.jpg,Alcampo
 1.15,3.48,cerveza de trigo blanca belga hoegaarden botella 33 cl.,No promotion, de trigo blanca belga hoegaarden botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hdd/hb5/8890241908766.jpg,Alcampo
-1.0,3.03,cerveza con limón sin alcohol clausthaler lemon botella de 33 centilitros,No promotion, con limón sin alcohol clausthaler lemon botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/h54/h90/8893750116382.jpg,Alcampo
-1.69,6.76,cerveza combinada de cereza mort subite xtreme kriek botella de 25 cl.,No promotion, combinada de cereza mort subite xtreme kriek botella de 25 cl.,botella,25 cl,1,https://www.alcampo.es/media/h58/h06/8952608784414.jpg,Alcampo
-0.49,1.48,cerveza con zumo de limón san miguel radler  lata 33 cl. ,No promotion, con zumo de limón san miguel radler  lata 33 cl. ,lata,33 cl,1,https://www.alcampo.es/media/h01/h31/10397044047902.jpg,Alcampo
-6.19,1.56,"cervezas con zumo de limón y 0,0 % alcohol amstel radler pack 12 uds. x 33 cl.","
-
-										oferta válida hasta el 28/10/2020"," con zumo de limón y 0,0 % alcohol amstel radler pack 12 uds. x 33 cl.",No specified,33 cl,12,https://www.alcampo.es/media/hc4/h7e/10492935077918.jpg,Alcampo
-1.09,3.3,cerveza maestra dunkel mahou 33 cl.,No promotion, maestra dunkel mahou 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h4e/h6f/9350755975198.jpg,Alcampo
-0.41,0.82,cerveza de sabor fuerte elaborada con malta y maiz de holandaholbrand lata de 50 cl.,No promotion, de sabor fuerte elaborada con malta y maiz de holandaholbrand lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h2d/h48/8891256799262.jpg,Alcampo
-4.48,1.49,cerveza  san miguel especial pack de 12 botellines de 25 centilitros,No promotion,  san miguel especial pack de 12 botellines de 25 centilitros,No specified,25 c,12,https://www.alcampo.es/media/h90/h88/10396999090206.jpg,Alcampo
-0.84,2.54,"cerveza con sabor a tequila desperados, lata de 33 centilitros.",No promotion," con sabor a tequila desperados, lata de 33 centilitros.",lata,33 c,1,https://www.alcampo.es/media/he1/he2/9546835296286.jpg,Alcampo
-7.95,2.0,cerveza tostada doble lúpulo mahou maestra pack 12 latas x 33 cl. ,"
-
-										oferta válida hasta el 28/10/2020", tostada doble lúpulo mahou maestra pack 12 latas x 33 cl. ,lata,33 cl,12,https://www.alcampo.es/media/h5e/h9e/9185354416158.jpg,Alcampo
-0.49,1.48,cerveza skol lata de 33 cl. ,No promotion, skol lata de 33 cl. ,lata,33 cl,1,https://www.alcampo.es/media/hfa/ha1/9164546998302.jpg,Alcampo
-1.79,5.42,cerveza rubia duvel botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", rubia duvel botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h92/hd1/10493025353758.jpg,Alcampo
-1.07,3.01,"cerveza rubia mexicana modelo especial botella de 33,5 centilitros",No promotion," rubia mexicana modelo especial botella de 33,5 centilitros",botella,"33,5 c",1,https://www.alcampo.es/media/h06/hb9/8902127910942.jpg,Alcampo
-1.09,1.45,cerveza cruzcampo botella de 75 cl.,No promotion, cruzcampo botella de 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/h8b/h74/10172169093150.jpg,Alcampo
-1.08,3.17,cerveza argentina de importación quilmes botella 33 cl.,No promotion, argentina de importación quilmes botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h6e/h5a/8952573362206.jpg,Alcampo
-0.96,2.9,cerveza rubia doble malta voll-damm botella 33 cl.,No promotion, rubia doble malta voll-damm botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hd3/h89/9289010741278.jpg,Alcampo
-2.62,1.74,cervezas cruzcampo pack de 6 uds x 25 cl.,No promotion, cruzcampo pack de 6 uds x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/hfd/h96/9546813800478.jpg,Alcampo
-6.19,1.56,cerveza sin alcohol san miguel pack de 12 uds x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", sin alcohol san miguel pack de 12 uds x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/h5e/hc8/10493019815966.jpg,Alcampo
-1.55,3.44,cerveza holandesa grolsch premium lager botella 45 cl.,No promotion, holandesa grolsch premium lager botella 45 cl.,botella,45 cl,1,https://www.alcampo.es/media/h2e/ha3/8952611995678.jpg,Alcampo
-3.2,2.13,cerveza negra sin alcohol super bock pack 6 uds. x 25 cl.,No promotion, negra sin alcohol super bock pack 6 uds. x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h90/h4e/9037217660958.jpg,Alcampo
-1.19,2.38,cerveza de trigo erdinger botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", de trigo erdinger botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h1a/hb4/8952597610526.jpg,Alcampo
-0.91,2.75,cerveza checa staropramen botella de 33 centilitros,No promotion, checa staropramen botella de 33 centilitros,No specified,33 c,1,https://www.alcampo.es/media/h11/h48/8930059124766.jpg,Alcampo
+0.74,1.48,cerveza tipo lager y estilo pilsen de espuma consistente cruzcampo lata 50 cl.,No promotion, tipo lager y estilo pilsen de espuma consistente cruzcampo lata 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h62/h41/10428600385566.jpg,Alcampo
+8.95,4.52,cervezas edición especial familia 1906 pack 6 x 33 cl. ,oferta válida hasta el 28/10/2020, edición especial familia 1906 pack 6 x 33 cl. ,No specified,33 cl,6,https://www.alcampo.es/media/h0a/hc4/10448415490078.jpg,Alcampo
+1.39,2.78,cerveza alemana premium de trigo schofferhofer 50cl,No promotion, alemana premium de trigo schofferhofer 50cl,No specified,50cl,1,https://www.alcampo.es/media/h73/h72/9089254916126.jpg,Alcampo
+1.59,4.81,cerveza premium 8 lúpulos mediterránea complot ipa 33 cl. ,oferta válida hasta el 28/10/2020, premium 8 lúpulos mediterránea complot ipa 33 cl. ,No specified,33 cl,1,https://www.alcampo.es/media/h1e/h3c/9251647848478.jpg,Alcampo
+5.25,2.65,cerveza gran reserva cruzcampo pack 6 uds. x 33 cl.,oferta válida hasta el 28/10/2020, gran reserva cruzcampo pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h0d/h5d/9633084964894.jpg,Alcampo
+0.5,2.0,cerveza tostada malquerida botella 25 cl. ,oferta válida hasta el 28/10/2020, tostada malquerida botella 25 cl. ,botella,25 cl,1,https://www.alcampo.es/media/h25/hc0/9222475186206.jpg,Alcampo
+0.52,1.57,"cerveza 0.0 %, sin alcohol, tostada free damm 33 cl",No promotion," 0.0 %, sin alcohol, tostada free damm 33 cl",No specified,33 cl,1,https://www.alcampo.es/media/hc8/h36/9893464735774.jpg,Alcampo
+4.99,4.99,cerveza tostada amstel oro 6 uds. x 33 cl.,oferta válida hasta el 28/10/2020, tostada amstel oro 6 uds. x 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h0a/h85/9633056751646.jpg,Alcampo
+2.59,1.72,cerveza con limón sin alcohol mixta mahou pack de 6 botellines de 25 centilitros,No promotion, con limón sin alcohol mixta mahou pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/hee/hd0/8895869878302.jpg,Alcampo
+9.54,1.6,cervezas heineken pack de 18  uds. x  33 cl.,No promotion, heineken pack de 18  uds. x  33 cl.,No specified,33 cl,18,https://www.alcampo.es/media/hc1/hc1/9546899587102.jpg,Alcampo
+6.19,1.56,"cervezas con zumo de limón y 0,0 % alcohol amstel radler pack 12 uds. x 33 cl.",oferta válida hasta el 28/10/2020," con zumo de limón y 0,0 % alcohol amstel radler pack 12 uds. x 33 cl.",No specified,33 cl,12,https://www.alcampo.es/media/hc4/h7e/10492935077918.jpg,Alcampo
 0.98,2.96,malta líquida sin alcohol malta goya botella de 33 cl.,No promotion,malta líquida sin alcohol malta goya botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hd4/h26/9309864198174.jpg,Alcampo
-1.13,2.26,cerveza oktoberfest lowenbrau 50 cl.,No promotion, oktoberfest lowenbrau 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h3c/he7/10422860120094.jpg,Alcampo
-1.69,1.69,cerveza rubia portuguesa super bock original 1 litro,No promotion, rubia portuguesa super bock original 1 litro,No specified,1 l,1,https://www.alcampo.es/media/hfa/h2a/8938760503326.jpg,Alcampo
-1.0,2.0,cerveza alemana de trigo franziskaner kristal botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", alemana de trigo franziskaner kristal botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h15/h19/8952407293982.jpg,Alcampo
+1.0,2.0,cerveza original intense blond  8.6 lata 50 cl.,oferta válida hasta el 28/10/2020, original intense blond  8.6 lata 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h01/h5c/10441326133278.jpg,Alcampo
+1.09,3.3,cerveza maestra dunkel mahou 33 cl.,No promotion, maestra dunkel mahou 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h4e/h6f/9350755975198.jpg,Alcampo
+0.45,1.36,cerveza amstel 100 % malta lata de 33 cl.,No promotion, amstel 100 % malta lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hc7/h4a/10472580448286.jpg,Alcampo
+7.86,1.31,cerveza clásica mahou pack 6 botella x 1 l.,No promotion, clásica mahou pack 6 botella x 1 l.,botella,1 l,6,https://www.alcampo.es/media/h68/heb/9214358421534.jpg,Alcampo
+0.98,2.96,cerveza americana miller botella de 33 cl.,No promotion, americana miller botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h49/h18/8952654331934.jpg,Alcampo
+1.09,1.45,cerveza cruzcampo botella de 75 cl.,No promotion, cruzcampo botella de 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/h8b/h74/10172169093150.jpg,Alcampo
+7.95,4.01,estuche cervezas degustación la sagra 6 uds. x 33 cl.,oferta válida hasta el 28/10/2020,estuche  degustación la sagra 6 uds. x 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf5/h1a/10448394027038.jpg,Alcampo
+1.0,3.03,cerveza combinada con tequila desperados botella de 33 centilitros,No promotion, combinada con tequila desperados botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/hbf/h3e/9546915020830.jpg,Alcampo
+0.51,1.54,cerveza sin alcohol amstel lata de 33 centilitros,No promotion, sin alcohol amstel lata de 33 centilitros,lata,33 c,1,https://www.alcampo.es/media/hc3/hbd/9546860331038.jpg,Alcampo
+3.24,0.81,"cerveza con sabor a limón 0,7% volumen de alcohol holbrand, pack de 12 latas de 33 centilitros.",No promotion," con sabor a limón 0,7% volumen de alcohol holbrand, pack de 12 latas de 33 centilitros.",lata,33 c,12,https://www.alcampo.es/media/h6c/hf0/8951835623454.jpg,Alcampo
+1.2,3.63,"cerveza premium extra lúpulo, ipa ambar ipa botella 33 cl.",No promotion," premium extra lúpulo, ipa ambar ipa botella 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/h1b/hed/9234805653534.jpg,Alcampo
+0.59,2.36,cerveza especial mini estrella galicia lata de 25 cl. ,No promotion, especial mini estrella galicia lata de 25 cl. ,lata,25 cl,1,https://www.alcampo.es/media/h26/h11/9173330001950.jpg,Alcampo
+3.13,2.08,cerveza estrella damm pack de 6 botellines de 25 centilitros,No promotion, estrella damm pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/he5/h39/8952592531486.jpg,Alcampo
+3.99,4.03,cervezas estuche degustación arriaca pack 3 uds. x 33 cl,oferta válida hasta el 28/10/2020, estuche degustación arriaca pack 3 uds. x 33 cl,No specified,33 cl,3,https://www.alcampo.es/media/h53/h13/10358776496158.jpg,Alcampo
+9.95,9.95,cervezas rubias ámbar especial 8 uds. x 33 cl. + barril,oferta válida hasta el 28/10/2020, rubias ámbar especial 8 uds. x 33 cl. + barril,barril,33 cl,1,https://www.alcampo.es/media/h17/hf5/10437305434142.jpg,Alcampo
+1.29,1.29,cerveza pilsener amstel 100% malta   botella de 1 l.,No promotion, pilsener amstel 100% malta   botella de 1 l.,botella,1 l,1,https://www.alcampo.es/media/h20/h86/10472614658078.jpg,Alcampo
+9.5,4.79,estuche degustación cervezas gastro pack 6 uds. x 33 cl.,oferta válida hasta el 28/10/2020,estuche degustación  gastro pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/hc1/h1f/10492947496990.jpg,Alcampo
+0.93,2.81,cerveza budweiser botella de 33 centilitros (tercio),No promotion, budweiser botella de 33 centilitros (tercio),botella,33 c,1,https://www.alcampo.es/media/hd4/h61/9188553293854.jpg,Alcampo
+0.86,2.6,"cerveza sin gluten ambar, botella de 33 cl.",No promotion," sin gluten ambar, botella de 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/he8/h85/8898005762078.jpg,Alcampo
+3.58,2.84,cerveza coronita pack  6 botella x 21 cl. ,No promotion, coronita pack  6 botella x 21 cl. ,botella,21 cl,6,https://www.alcampo.es/media/h77/hb7/9188547559454.jpg,Alcampo
+6.3,1.05,cerveza clásica san miguel pack 6 botella de 1 l. ,No promotion, clásica san miguel pack 6 botella de 1 l. ,botella,1 l,6,https://www.alcampo.es/media/h1d/h84/9206257713182.jpg,Alcampo
+0.91,2.75,cerveza checa staropramen botella de 33 centilitros,No promotion, checa staropramen botella de 33 centilitros,No specified,33 c,1,https://www.alcampo.es/media/h11/h48/8930059124766.jpg,Alcampo
+1.05,3.18,cerveza rubia mexicana sol botella 33 cl.,No promotion, rubia mexicana sol botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h4e/he9/9626874249246.jpg,Alcampo
+3.34,2.22,cervezas heineken pack de 6 uds  x 25 cl.,No promotion, heineken pack de 6 uds  x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h60/h0a/9546830970910.jpg,Alcampo
+1.19,3.6,cerveza con lima y tequila desperados 33 cl.,No promotion, con lima y tequila desperados 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h58/ha9/10172153954334.jpg,Alcampo
+0.75,2.27,cerveza ipa cruzcampo andalusian 33 cl.,oferta válida hasta el 28/10/2020, ipa cruzcampo andalusian 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h7d/h76/10493035020318.jpg,Alcampo
+0.96,2.9,cerveza rubia doble malta voll-damm botella 33 cl.,No promotion, rubia doble malta voll-damm botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hd3/h89/9289010741278.jpg,Alcampo
+6.19,1.56,cerveza sin alcohol san miguel pack de 12 uds x 33 cl.,oferta válida hasta el 28/10/2020, sin alcohol san miguel pack de 12 uds x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/h5e/hc8/10493019815966.jpg,Alcampo
+4.48,1.49,cerveza  san miguel especial pack de 12 botellines de 25 centilitros,No promotion,  san miguel especial pack de 12 botellines de 25 centilitros,No specified,25 c,12,https://www.alcampo.es/media/h90/h88/10396999090206.jpg,Alcampo
+0.41,0.82,cerveza de sabor fuerte elaborada con malta y maiz de holandaholbrand lata de 50 cl.,No promotion, de sabor fuerte elaborada con malta y maiz de holandaholbrand lata de 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h2d/h48/8891256799262.jpg,Alcampo
+1.57,3.14,cerveza alemana artesana de importación grevensteiner botella 50 cl.,oferta válida hasta el 28/10/2020, alemana artesana de importación grevensteiner botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h09/h24/10493034201118.jpg,Alcampo
+0.97,2.93,cerveza rubia nacional san miguel fresca botella de 33 centilitros,No promotion, rubia nacional san miguel fresca botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/h1c/h02/8959768264734.jpg,Alcampo
+1.69,6.76,cerveza combinada de cereza mort subite xtreme kriek botella de 25 cl.,No promotion, combinada de cereza mort subite xtreme kriek botella de 25 cl.,botella,25 cl,1,https://www.alcampo.es/media/h58/h06/8952608784414.jpg,Alcampo
+7.56,1.9,cerveza tostada doble lúpulo mahou maestra pack 12 latas x 33 cl. ,oferta válida hasta el 28/10/2020, tostada doble lúpulo mahou maestra pack 12 latas x 33 cl. ,lata,33 cl,12,https://www.alcampo.es/media/h5e/h9e/9185354416158.jpg,Alcampo
+1.0,3.03,cerveza con limón sin alcohol clausthaler lemon botella de 33 centilitros,No promotion, con limón sin alcohol clausthaler lemon botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/h54/h90/8893750116382.jpg,Alcampo
 5.94,3.0,cerveza con tequila francesa desperados pack 6 uds x 33 cl.,No promotion, con tequila francesa desperados pack 6 uds x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h24/hbe/9551671394334.jpg,Alcampo
-5.99,1.99,"cerveza alhambra especial alhambra, pack de 12 botellines de 25 centilitros.",No promotion," alhambra especial alhambra, pack de 12 botellines de 25 centilitros.",No specified,", ",12,https://www.alcampo.es/media/h85/hac/8947073908766.jpg,Alcampo
-6.03,3.01,cerveza heineken torp barril de 2 l. ,No promotion, heineken torp barril de 2 l. ,No specified,. ,1,https://www.alcampo.es/media/h84/he2/9186539012126.jpg,Alcampo
+1.1,3.33,cerveza de trigo sin alcohol erdinger alkoholfrei botella de 33 cl.,No promotion, de trigo sin alcohol erdinger alkoholfrei botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h48/h2d/9558660513822.gif,Alcampo
+1.19,2.38,cerveza de trigo erdinger botella 50 cl.,oferta válida hasta el 28/10/2020, de trigo erdinger botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h1a/hb4/8952597610526.jpg,Alcampo
+0.49,1.48,cerveza con zumo de limón san miguel radler  lata 33 cl. ,No promotion, con zumo de limón san miguel radler  lata 33 cl. ,lata,33 cl,1,https://www.alcampo.es/media/h01/h31/10397044047902.jpg,Alcampo
+3.2,2.13,cerveza negra sin alcohol super bock pack 6 uds. x 25 cl.,No promotion, negra sin alcohol super bock pack 6 uds. x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h90/h4e/9037217660958.jpg,Alcampo
+1.0,2.81,cerveza mexicana negra modelo botella 33 cl.,oferta válida hasta el 28/10/2020, mexicana negra modelo botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h80/h38/8892067151902.jpg,Alcampo
+1.79,5.42,cerveza rubia duvel botella 33 cl.,oferta válida hasta el 28/10/2020, rubia duvel botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h92/hd1/10493025353758.jpg,Alcampo
+1.42,2.84,cerveza 1906 reserva especial 50 cl.,oferta válida hasta el 28/10/2020, 1906 reserva especial 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hd2/ha9/10492931375134.jpg,Alcampo
+1.0,2.0,cerveza alemana de trigo franziskaner kristal botella 50 cl.,oferta válida hasta el 28/10/2020, alemana de trigo franziskaner kristal botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h15/h19/8952407293982.jpg,Alcampo
+1.69,1.69,cerveza rubia portuguesa super bock original 1 litro,No promotion, rubia portuguesa super bock original 1 litro,No specified,1 l,1,https://www.alcampo.es/media/hfa/h2a/8938760503326.jpg,Alcampo
+1.75,5.3,cerveza belga de trigo grimbergen blanche botella 33 cl.,No promotion, belga de trigo grimbergen blanche botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h3b/hda/8876053757982.jpg,Alcampo
+1.08,3.17,cerveza argentina de importación quilmes botella 33 cl.,No promotion, argentina de importación quilmes botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h6e/h5a/8952573362206.jpg,Alcampo
+5.99,1.99,"cerveza alhambra especial alhambra, pack de 12 botellines de 25 centilitros.",No promotion," alhambra especial alhambra, pack de 12 botellines de 25 centilitros.",No specified,25 c,12,https://www.alcampo.es/media/h85/hac/8947073908766.jpg,Alcampo
+6.03,3.01,cerveza heineken torp barril de 2 l. ,No promotion, heineken torp barril de 2 l. ,No specified, 2 l,1,https://www.alcampo.es/media/h84/he2/9186539012126.jpg,Alcampo
 1.69,5.12,cerveza jamonera la virgen 33 cl.,No promotion, jamonera la virgen 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/ha4/h29/9312777764894.jpg,Alcampo
-2.49,1.66,"cerveza sin alcohol (0,0% vol.) cruzcampo pack de 6 uds. de 25 cl.",No promotion," sin alcohol (0,0% vol.) cruzcampo pack de 6 uds. de 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/h0f/hd8/9546854596638.jpg,Alcampo
+2.62,1.74,cervezas cruzcampo pack de 6 uds x 25 cl.,No promotion, cruzcampo pack de 6 uds x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/hfd/h96/9546813800478.jpg,Alcampo
+1.55,3.44,cerveza holandesa grolsch premium lager botella 45 cl.,No promotion, holandesa grolsch premium lager botella 45 cl.,botella,45 cl,1,https://www.alcampo.es/media/h2e/ha3/8952611995678.jpg,Alcampo
+0.42,1.68,cerveza con limón damm lemon botella de 25 centilitros,No promotion, con limón damm lemon botella de 25 centilitros,botella,25 c,1,https://www.alcampo.es/media/hcd/hed/8941325385758.jpg,Alcampo
+1.19,3.6,cerveza belga  tostada leffe triple botella 33 cl.,oferta válida hasta el 28/10/2020, belga  tostada leffe triple botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/he8/hc6/10448414343198.jpg,Alcampo
+6.46,3.26,cerveza tostada doble lúpulo mahou maestra cesta 6 uds. x 33 cl.,No promotion, tostada doble lúpulo mahou maestra cesta 6 uds. x 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hbb/h71/8964728389662.jpg,Alcampo
+1.69,5.12,cerveza madrid lager la virgen 33 cl.,No promotion, madrid lager la virgen 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h02/h64/9312786317342.jpg,Alcampo
+1.1,3.33,cerveza red ipa (india pale ale) moritz 33 cl,oferta válida hasta el 28/10/2020, red ipa (india pale ale) moritz 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/h21/hc8/10407763935262.jpg,Alcampo
+1.33,4.03,cerveza rubia ipa citra alhambra reserva esencia 33 cl.,No promotion, rubia ipa citra alhambra reserva esencia 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h9d/hf2/10250178658334.jpg,Alcampo
+0.59,1.78,cerveza sin alcohol cruzcampo lata de 33 cl.,No promotion, sin alcohol cruzcampo lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h06/he1/9546906140702.jpg,Alcampo
+0.83,2.51,cerveza pilsner urquell lata de 33 cl.,No promotion, pilsner urquell lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hcd/h1b/9211124809758.jpg,Alcampo
+3.47,2.31,"cervezas negra (0,0 % vol.) estrella galicia pack 6 uds. x 25 cl.",No promotion," negra (0,0 % vol.) estrella galicia pack 6 uds. x 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/h1a/ha7/9898954686494.jpg,Alcampo
+0.5,2.0,cerveza tostada turia märzen botella de 25 cl.,oferta válida hasta el 28/10/2020, tostada turia märzen botella de 25 cl.,botella,25 cl,1,https://www.alcampo.es/media/hb1/h78/8927144181790.jpg,Alcampo
 3.87,1.29,cervezas amstel 100 % malta 12 x 25 cl.,No promotion, amstel 100 % malta 12 x 25 cl.,No specified,25 cl,1,https://www.alcampo.es/media/h76/h80/10472598077470.jpg,Alcampo
+2.49,1.66,"cerveza sin alcohol (0,0% vol.) cruzcampo pack de 6 uds. de 25 cl.",No promotion," sin alcohol (0,0% vol.) cruzcampo pack de 6 uds. de 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/h0f/hd8/9546854596638.jpg,Alcampo
+1.0,3.03,cerveza lager checa  pilsner urquell botella 33 cl.,oferta válida hasta el 28/10/2020, lager checa  pilsner urquell botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hcb/hcc/10448404414494.jpg,Alcampo
+1.07,3.01,"cerveza rubia mexicana modelo especial botella de 33,5 centilitros",No promotion," rubia mexicana modelo especial botella de 33,5 centilitros",botella,"33,5 c",1,https://www.alcampo.es/media/h06/hb9/8902127910942.jpg,Alcampo
+0.75,2.27,malta classic karamalz 33 centilitros,No promotion,malta classic karamalz 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/haf/h03/8891304443934.jpg,Alcampo
 3.98,1.32,cerveza premium lager alhambra pack de 12 botellines de 25 centilitros,No promotion, premium lager alhambra pack de 12 botellines de 25 centilitros,No specified,25 c,12,https://www.alcampo.es/media/h1e/h82/8900928143390.jpg,Alcampo
 1.5,3.0,cerveza rubia alemana beck's botella 50 cl.,No promotion, rubia alemana beck's botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h36/haf/8902161727518.jpg,Alcampo
-0.59,1.78,cerveza sin alcohol cruzcampo lata de 33 cl.,No promotion, sin alcohol cruzcampo lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h06/he1/9546906140702.jpg,Alcampo
-1.35,4.09,cerveza artesana arriaca imperial red ipa lata 33 cl. ,"
-
-										oferta válida hasta el 28/10/2020", artesana arriaca imperial red ipa lata 33 cl. ,lata,33 cl,1,https://www.alcampo.es/media/h74/hbf/10358799925278.jpg,Alcampo
-6.46,3.26,cerveza tostada doble lúpulo mahou maestra cesta 6 uds. x 33 cl.,No promotion, tostada doble lúpulo mahou maestra cesta 6 uds. x 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hbb/h71/8964728389662.jpg,Alcampo
-0.75,2.27,malta classic karamalz 33 centilitros,No promotion,malta classic karamalz 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/haf/h03/8891304443934.jpg,Alcampo
-1.1,3.33,cerveza red ipa (india pale ale) moritz 33 cl,"
-
-										oferta válida hasta el 28/10/2020", red ipa (india pale ale) moritz 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/h21/hc8/10407763935262.jpg,Alcampo
-0.75,2.27,cerveza ipa cruzcampo andalusian 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", ipa cruzcampo andalusian 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h7d/h76/10493035020318.jpg,Alcampo
-1.0,2.81,cerveza mexicana negra modelo botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", mexicana negra modelo botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h80/h38/8892067151902.jpg,Alcampo
-1.33,4.03,cerveza rubia ipa citra alhambra reserva esencia 33 cl.,No promotion, rubia ipa citra alhambra reserva esencia 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h9d/hf2/10250178658334.jpg,Alcampo
-3.24,0.81,"cerveza holandesa sin alcohol holbrand, pack de 12 latas de 33 centilitros.",No promotion," holandesa sin alcohol holbrand, pack de 12 latas de 33 centilitros.",lata,", ",12,https://www.alcampo.es/media/h6f/h17/8951790501918.jpg,Alcampo
-1.75,5.3,cerveza belga de trigo grimbergen blanche botella 33 cl.,No promotion, belga de trigo grimbergen blanche botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h3b/hda/8876053757982.jpg,Alcampo
-4.31,1.08,cerveza con limón mixta de mahou pack 12 uds x 33 cl.,No promotion, con limón mixta de mahou pack 12 uds x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hc2/ha5/10407564967966.jpg,Alcampo
-1.19,3.6,cerveza belga  tostada leffe triple botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", belga  tostada leffe triple botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/he8/hc6/10448414343198.jpg,Alcampo
-1.29,3.9,cerveza de trigo estilo belga blue moon 330 cl.,"
-
-										oferta válida hasta el 28/10/2020", de trigo estilo belga blue moon 330 cl.,No specified,330 cl,1,https://www.alcampo.es/media/h0c/h35/10407822688286.jpg,Alcampo
-1.28,2.56,cerveza oktoberfest spaten 50 cl.,No promotion, oktoberfest spaten 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h2c/h86/10422848356382.jpg,Alcampo
-3.47,2.31,"cervezas negra (0,0 % vol.) estrella galicia pack 6 uds. x 25 cl.",No promotion," negra (0,0 % vol.) estrella galicia pack 6 uds. x 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/h1a/ha7/9898954686494.jpg,Alcampo
-1.0,3.03,cerveza alemana wersteiner botella 33 cl.,No promotion, alemana wersteiner botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/ha6/hdd/8930431402014.jpg,Alcampo
-1.96,5.93,cerveza rubia envejecida en barrica mahou botella 33 cl.  ,No promotion, rubia envejecida en barrica mahou botella 33 cl.  ,botella,33 cl,1,https://www.alcampo.es/media/ha4/h9c/9123292643358.jpg,Alcampo
-1.16,3.51,cerveza de trigo y pomelo schöfferhofer botella de 33 centilitros,No promotion, de trigo y pomelo schöfferhofer botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/h7f/h4d/8898968944670.jpg,Alcampo
-1.78,3.56,cerveza alemana rubia schwaben botella 50 cl.,No promotion, alemana rubia schwaben botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h16/h5a/8930577186846.jpg,Alcampo
-0.48,1.45,cerveza cruzcampo especial 33 cl.,No promotion, cruzcampo especial 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h63/h49/10172149399582.jpg,Alcampo
-2.18,1.45,cervezas amstel 100 % malta pack 6 uds. de 25 cl.,No promotion, amstel 100 % malta pack 6 uds. de 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h91/he3/10472570880030.jpg,Alcampo
-0.85,2.57,cerveza botella san miguel 1516 de 33 cl.,No promotion, botella san miguel 1516 de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h64/h01/9492169621534.jpg,Alcampo
-1.69,5.12,cerveza madrid lager la virgen 33 cl.,No promotion, madrid lager la virgen 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h02/h64/9312786317342.jpg,Alcampo
-0.95,2.87,cerveza rubia ipa san miguel yakina valley 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", rubia ipa san miguel yakina valley 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h14/h27/10250178232350.jpg,Alcampo
-0.81,2.45,cerveza tostada amstel oro 33 cl.,No promotion, tostada amstel oro 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h82/h98/9546883268638.jpg,Alcampo
-1.0,2.0,cerveza checa negra de importación praga botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", checa negra de importación praga botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/he8/h8d/8898641657886.jpg,Alcampo
-1.1,3.33,cerveza rubia budejovicky budvar 33 cl.,No promotion, rubia budejovicky budvar 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf8/he5/8887442866206.jpg,Alcampo
-2.99,1.99,cerveza sin alcohol 0.0% ambar premium pack 6 uds..x 25 cl. ,No promotion, sin alcohol 0.0% ambar premium pack 6 uds..x 25 cl. ,No specified,25 cl,6,https://www.alcampo.es/media/h6b/h28/9915996602398.jpg,Alcampo
-1.57,3.14,cerveza alemana artesana de importación grevensteiner botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", alemana artesana de importación grevensteiner botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h09/h24/10493034201118.jpg,Alcampo
-1.49,4.51,cerveza india cobra botella de 33 cl.,No promotion, india cobra botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/haf/hf6/8899412230174.jpg,Alcampo
-1.69,3.38,cerveza tostada john smith's extra smooth lata 50 cl.,No promotion, tostada john smith's extra smooth lata 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/hb8/he3/9627385430046.jpg,Alcampo
-1.0,2.0,cerveza checa staropramen lata 50 cl.,No promotion, checa staropramen lata 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h78/h45/8927381061662.jpg,Alcampo
-1.54,3.08,cerveza mojito desperados 50 cl.,No promotion, mojito desperados 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hca/hb9/10414726283294.jpg,Alcampo
-0.67,2.03,cerveza francesa de importación kronenbourg lata 33 centilitros,No promotion, francesa de importación kronenbourg lata 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/h3e/hdf/8994491170846.jpg,Alcampo
-0.99,3.0,cerveza italiana rubia birra moretti botella 33 cl.,No promotion, italiana rubia birra moretti botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/he1/h8d/9546890772510.jpg,Alcampo
-0.5,2.0,cerveza tostada turia märzen botella de 25 cl.,"
-
-										oferta válida hasta el 28/10/2020", tostada turia märzen botella de 25 cl.,botella,25 cl,1,https://www.alcampo.es/media/hb1/h78/8927144181790.jpg,Alcampo
-1.49,2.98,cerveza alemana turbia de importación schneider weisse botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", alemana turbia de importación schneider weisse botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h22/h49/8897859223582.jpg,Alcampo
-2.52,1.68,cerveza san miguel pack 6 uds. x 25 cl.,No promotion, san miguel pack 6 uds. x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h8f/h0a/10397048700958.jpg,Alcampo
-2.64,1.76,"cerveza limón 0,0 san miguel radler pack 6 uds. x 25 cl.",No promotion," limón 0,0 san miguel radler pack 6 uds. x 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/hbd/h1a/10397053190174.jpg,Alcampo
-1.55,4.69,cerveza belga de trigo con sabor a frambuesa chérie botella 33 cl.,No promotion, belga de trigo con sabor a frambuesa chérie botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hcc/h88/9222675922974.jpg,Alcampo
-1.74,3.48,cerveza ipa inglesa marston´s old empire  50 cl.,No promotion, ipa inglesa marston´s old empire  50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h43/h9f/10397049749534.jpg,Alcampo
-3.04,2.02,cervezas ambar pack de 6 uds.. x 25 cl.,No promotion, ambar pack de 6 uds.. x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h57/h7d/9915969273886.jpg,Alcampo
-0.42,1.68,cerveza con limón damm lemon botella de 25 centilitros,No promotion, con limón damm lemon botella de 25 centilitros,botella,25 c,1,https://www.alcampo.es/media/hcd/hed/8941325385758.jpg,Alcampo
-2.25,1.5,"cervezas sin alcohol amstel pack de 6 uds de 28,5 cl.",No promotion," sin alcohol amstel pack de 6 uds de 28,5 cl.",No specified,"28,5 cl",6,https://www.alcampo.es/media/h62/h9a/9546877370398.jpg,Alcampo
-0.73,2.21,"cerveza sin gluten san miguel, botella de 33 cl.",No promotion," sin gluten san miguel, botella de 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/h9b/hfa/9294053998622.jpg,Alcampo
-4.24,2.82,cerveza doble malta voll damm pack de 6 botellines de 25 centilitros,No promotion, doble malta voll damm pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/h39/hd0/8952672124958.jpg,Alcampo
-2.99,1.99,cerveza tostada turia märzen botella de 25 centilitros pack de 6 uds.,"
-
-										oferta válida hasta el 28/10/2020", tostada turia märzen botella de 25 centilitros pack de 6 uds.,botella,6 ,6,https://www.alcampo.es/media/h07/h2b/8928481017886.jpg,Alcampo
-0.71,2.15,cerveza rubia lager la sagra bohemia 33 cl.,No promotion, rubia lager la sagra bohemia 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf5/h4a/9977478742046.jpg,Alcampo
-1.42,2.84,cerveza 1906 reserva especial 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", 1906 reserva especial 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hd2/ha9/10492931375134.jpg,Alcampo
-1.05,1.59,cerveza mediterránea a base de malta estrella damm botella 66 cl. ,No promotion, mediterránea a base de malta estrella damm botella 66 cl. ,botella,66 cl,1,https://www.alcampo.es/media/h1b/hb4/9185265778718.jpg,Alcampo
-5.49,2.77,cervezas negras extra 1906 black coupage pack 6 uds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", negras extra 1906 black coupage pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h18/hab/10073661177886.jpg,Alcampo
-2.75,8.33,cerveza rubia especial belga delirium tremens 33 cl.,No promotion, rubia especial belga delirium tremens 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h96/he0/10134060924958.jpg,Alcampo
-3.2,2.13,cervezas budweiser pack de 6 botellines de 25 centilitros,No promotion, budweiser pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/hf2/h6e/9355350933534.jpg,Alcampo
-2.79,1.86,"cerveza (0,0% alcohol) con sabor a manzan san miguel pack 6 botellines de 25 centilitros",No promotion," (0,0% alcohol) con sabor a manzan san miguel pack 6 botellines de 25 centilitros",No specified,25 c,6,https://www.alcampo.es/media/h24/he6/10397042245662.jpg,Alcampo
-0.77,2.33,cerveza rubia lata san miguel 1516 33 cl.,No promotion, rubia lata san miguel 1516 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/he4/h76/9492165230622.jpg,Alcampo
-1.47,4.45,cerveza artesana  arriaca trigo lata de 33 cl.,No promotion, artesana  arriaca trigo lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/he6/h11/10358797205534.jpg,Alcampo
-1.49,2.98,cerveza alemana hefenweizen dunkel schöfferhofer 50 cl.,No promotion, alemana hefenweizen dunkel schöfferhofer 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h91/ha9/9399661428766.jpg,Alcampo
-1.35,4.09,cerveza artesanal  arriaca porter lata de 33 cl. ,"
-
-										oferta válida hasta el 28/10/2020", artesanal  arriaca porter lata de 33 cl. ,lata,33 cl,1,https://www.alcampo.es/media/h7e/hfa/10358777085982.jpg,Alcampo
-3.49,2.32,cerveza portuguesa rubia super bock 6 x 25 cl.,No promotion, portuguesa rubia super bock 6 x 25 cl.,No specified,25 cl,1,https://www.alcampo.es/media/h79/h24/9223934836766.jpg,Alcampo
-3.59,2.39,cerveza ambar export pack de 6 botellines de 25 centilitros,No promotion, ambar export pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/he9/h42/9916023439390.jpg,Alcampo
-2.58,7.81,cerveza trapense chimay azul botella 33 cl.,No promotion, trapense chimay azul botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/haa/h11/8952720621598.jpg,Alcampo
-1.72,5.73,cerveza abadía belga affligem triple botella 30 cl.,No promotion, abadía belga affligem triple botella 30 cl.,botella,30 cl,1,https://www.alcampo.es/media/hba/hb1/9546852204574.jpg,Alcampo
-1.23,3.72,cerveza rubia premium la virgen 33 cl.,No promotion, rubia premium la virgen 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf0/hfd/9352948482078.jpg,Alcampo
-0.51,2.04,cerveza rubia el águila 1900 25 cl.,No promotion, rubia el águila 1900 25 cl.,No specified,25 cl,1,https://www.alcampo.es/media/h47/h14/9893331992606.jpg,Alcampo
-2.45,7.42,cerveza trapense belga rochefort-8 botella 33 cl.,No promotion, trapense belga rochefort-8 botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hf2/he3/8898770960414.jpg,Alcampo
-1.89,5.72,cerveza la trappe dubbel botella 33 cl.,No promotion, la trappe dubbel botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h04/hb2/8892111781918.jpg,Alcampo
-1.39,2.78,cerveza alemana de cebada spaten botella de 50 centilitros,No promotion, alemana de cebada spaten botella de 50 centilitros,botella,50 c,1,https://www.alcampo.es/media/hfb/hd2/8966654820382.jpg,Alcampo
-1.95,5.9,cerveza rubia brewdog dead pony club 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", rubia brewdog dead pony club 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h56/h0f/10492939239454.jpg,Alcampo
-0.98,0.49,cerveza abadia belga grimbergen double-ambrée pack de 6 botellas de 33 centilitros,No promotion, abadia belga grimbergen double-ambrée pack de 6 botellas de 33 centilitros,botella,33 c,6,https://www.alcampo.es/media/h64/h85/8952754995230.jpg,Alcampo
-0.67,2.03,cerveza con sabor a limón super bock green 33 cl.,No promotion, con sabor a limón super bock green 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h47/h4e/9178578092062.jpg,Alcampo
-2.78,1.85,cervezas alhambra premium lager pack 6 uds. x 25 cl.itros,No promotion, alhambra premium lager pack 6 uds. x 25 cl.itros,No specified,25 cl,6,https://www.alcampo.es/media/h5d/h3d/10407822196766.jpg,Alcampo
-1.3,3.93,cerveza alemana lowenbrau botella 33 cl.,No promotion, alemana lowenbrau botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h83/h8a/8896456359966.jpg,Alcampo
-12.94,2.58,cerveza heineken barril 5 l.,No promotion, heineken barril 5 l.,barril,5 l,1,https://www.alcampo.es/media/h49/h87/9546878681118.jpg,Alcampo
-1.95,5.9,cerveza aroma cítricos elvis juice brewdog 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", aroma cítricos elvis juice brewdog 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h63/h3a/10493036658718.jpg,Alcampo
-4.32,0.72,"cerveza holandesa holbrand, pack de 12 latas de 50 centilitros.",No promotion," holandesa holbrand, pack de 12 latas de 50 centilitros.",lata,", ",12,https://www.alcampo.es/media/h03/hc0/8951813275678.jpg,Alcampo
-1.59,4.81,cerveza combinada salitos blue 33 cl,No promotion, combinada salitos blue 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/h7f/h76/10404273389598.jpg,Alcampo
-1.55,3.1,cerveza alemana premium de trigo köning ludwing weissbier 50 cl.,No promotion, alemana premium de trigo köning ludwing weissbier 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h15/h7b/8867394945054.jpg,Alcampo
-1.95,5.9,cerveza rubia indie brewdog 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", rubia indie brewdog 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hb3/hbf/10492948971550.jpg,Alcampo
-1.72,5.73,cerveza abadía belga affligem double botella 30 cl.,No promotion, abadía belga affligem double botella 30 cl.,botella,30 cl,1,https://www.alcampo.es/media/hfd/hdc/9546836607006.jpg,Alcampo
-0.99,3.0,cerveza artesana pilsner madrí chulapo botella 33 cl. ,No promotion, artesana pilsner madrí chulapo botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h6d/h2c/9222554091550.jpg,Alcampo
-6.19,1.56,cervezas sabor limón cruzcampo shandy pack 12 usds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", sabor limón cruzcampo shandy pack 12 usds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/h31/hd5/10492926394398.jpg,Alcampo
-0.88,1.76,cerveza estrella damm 50 cl,No promotion, estrella damm 50 cl,No specified,50 cl,1,https://www.alcampo.es/media/h4a/hb8/9460777844766.jpg,Alcampo
-1.74,3.48,cerveza alemana negra schwaben botella 50 cl.,No promotion, alemana negra schwaben botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h38/h7b/8930130231326.jpg,Alcampo
-1.69,5.12,cerveza rubia ls cibeles 33 cl,No promotion, rubia ls cibeles 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/hce/haf/9823078285342.jpg,Alcampo
-1.69,5.12,cerveza morena artesanal la cibeles botella 33 cl.,No promotion, morena artesanal la cibeles botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h43/h58/9823032082462.jpg,Alcampo
-1.3,3.93,cerveza sin alcohol con limón erdinger botella 33 cl. ,No promotion, sin alcohol con limón erdinger botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h8a/he3/9246417387550.jpg,Alcampo
-1.49,2.98,cerveza de trigo alemana de importación aventinus botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", de trigo alemana de importación aventinus botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h16/h2f/9770119364638.jpg,Alcampo
-1.39,4.21,cerveza de trigo belga blanche de charleroi botella 33 cl.,No promotion, de trigo belga blanche de charleroi botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h1f/h85/10395483504670.jpg,Alcampo
-0.54,2.16,cervesa negra sin alcohol super bock 25 cl.,No promotion,cervesa negra sin alcohol super bock 25 cl.,No specified,25 cl,1,https://www.alcampo.es/media/h75/ha3/9177718390814.jpg,Alcampo
-3.99,2.01,cerveza con sabor a limón super bock green pack de 6 botellas de 33 centilitros,No promotion, con sabor a limón super bock green pack de 6 botellas de 33 centilitros,botella,33 c,6,https://www.alcampo.es/media/h57/hf6/9178453049374.jpg,Alcampo
-0.83,2.51,cerveza pilsner urquell lata de 33 cl.,No promotion, pilsner urquell lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/hcd/h1b/9211124809758.jpg,Alcampo
-3.29,2.19,cerveza radler cruzcampo pack 6 x 25 cl. ,No promotion, radler cruzcampo pack 6 x 25 cl. ,No specified,25 cl,6,https://www.alcampo.es/media/h87/hda/9546816323614.jpg,Alcampo
-1.69,5.12,cerveza rubia tipo ipa la virgen 33 cl.  ,No promotion, rubia tipo ipa la virgen 33 cl.  ,No specified,33 cl,1,https://www.alcampo.es/media/h22/h02/9312765050910.jpg,Alcampo
-1.1,3.33,cerveza negra budejovicky budvar botella 33 cl.,No promotion, negra budejovicky budvar botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h06/hb6/8896735215646.jpg,Alcampo
-4.1,1.24,cervezas tostadas amstel oro pack 10 uds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", tostadas amstel oro pack 10 uds. x 33 cl.,No specified,33 cl,10,https://www.alcampo.es/media/hf0/heb/10172171059230.jpg,Alcampo
-1.59,4.81,cerveza lager alhambra 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", lager alhambra 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h61/h00/10365972447262.jpg,Alcampo
-3.81,2.54,cervezas carlsberg pack de 6 botellines de 25 centilitros,No promotion, carlsberg pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/h64/h74/8952628150302.jpg,Alcampo
 1.49,4.51,cerveza portuguesa tipo abadía super bock botella de 33 centilitros,No promotion, portuguesa tipo abadía super bock botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/h83/hf3/8892524724254.jpg,Alcampo
-2.59,1.72,cerveza cruzcampo pack de 6 botellas de 25 centilitros,No promotion, cruzcampo pack de 6 botellas de 25 centilitros,botella,25 c,6,https://www.alcampo.es/media/hc8/h53/9546887757854.jpg,Alcampo
-1.49,4.51,cerveza belga abbaye d'aulne blonde botella  33 cl.,"
-
-										oferta válida hasta el 28/10/2020", belga abbaye d'aulne blonde botella  33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hec/ha9/8878533902366.jpg,Alcampo
-1.79,5.42,cerveza tipo abadía belga maredsous blond botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", tipo abadía belga maredsous blond botella 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hd0/hc6/10492936716318.jpg,Alcampo
-0.97,2.93,cerveza heineken botella de 33 centilitros (tercio),No promotion, heineken botella de 33 centilitros (tercio),botella,33 c,1,https://www.alcampo.es/media/h1a/hcb/9546815832094.jpg,Alcampo
-5.04,2.54,cerveza premium gran reserva cruzcampo pack 6 botellas x 33 cl.,No promotion, premium gran reserva cruzcampo pack 6 botellas x 33 cl.,botella,33 cl,6,https://www.alcampo.es/media/h13/h83/9546868490270.jpg,Alcampo
-0.84,1.68,cerveza especial cruzcampo 50 ml.,No promotion, especial cruzcampo 50 ml.,No specified,50 ml,1,https://www.alcampo.es/media/hd3/h7c/9580481511454.jpg,Alcampo
-1.49,4.51,cerveza tostada de abadía abbaye d'aulne brune botella de 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", tostada de abadía abbaye d'aulne brune botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h43/h1d/8959691358238.jpg,Alcampo
-0.93,2.81,cerveza rubia cruzcampo trigo 33 cl.,No promotion, rubia cruzcampo trigo 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h0d/h14/9546841194526.jpg,Alcampo
-4.9,1.48,cervezas el águila 1900 pack 10 uds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", el águila 1900 pack 10 uds. x 33 cl.,No specified,33 cl,10,https://www.alcampo.es/media/he0/h45/10172166406174.jpg,Alcampo
-6.36,1.6,cerveza con zumo natural de limón mahou radler pack 12 latas x 33 cl. ,No promotion, con zumo natural de limón mahou radler pack 12 latas x 33 cl. ,lata,33 cl,12,https://www.alcampo.es/media/hf7/he6/9242871463966.jpg,Alcampo
-3.99,2.01,cerveza negra portuguesa super bock pack de 6 botellas de 33 centilitros,No promotion, negra portuguesa super bock pack de 6 botellas de 33 centilitros,botella,33 c,6,https://www.alcampo.es/media/h17/hff/8890069745694.jpg,Alcampo
-4.1,1.24,"cervezas cruzcampo gran reserva pack 10 uds, x 33 cl.","
-
-										oferta válida hasta el 28/10/2020"," cruzcampo gran reserva pack 10 uds, x 33 cl.",No specified,33 cl,10,https://www.alcampo.es/media/h8f/he1/9542476398622.jpg,Alcampo
-2.61,7.45,cerveza sierra nevada pale ale 33 cl.,No promotion, sierra nevada pale ale 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h34/hb0/9915961147422.jpg,Alcampo
-1.92,3.84,cerveza zywiec 50 cl.,No promotion, zywiec 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hdf/h56/8896927694878.jpg,Alcampo
-1.39,2.78,cerveza veltins pils botella 50 cl.,No promotion, veltins pils botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/hbc/hd1/8892293513246.jpg,Alcampo
-5.82,2.93,cerveza heineken pack de 6 uds. de 33 cl.,No promotion, heineken pack de 6 uds. de 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h85/hae/9546849452062.jpg,Alcampo
-0.95,2.87,cerveza ipa cruzcampo andalusian  33 cl.,No promotion, ipa cruzcampo andalusian  33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hd5/h63/10172147269662.jpg,Alcampo
-1.0,3.03,cerveza lager checa  pilsner urquell botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", lager checa  pilsner urquell botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hcb/hcc/10448404414494.jpg,Alcampo
-1.0,2.0,cerveza original intense blond  8.6 lata 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", original intense blond  8.6 lata 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h01/h5c/10441326133278.jpg,Alcampo
+0.49,1.48,cerveza skol lata de 33 cl. ,No promotion, skol lata de 33 cl. ,lata,33 cl,1,https://www.alcampo.es/media/hfa/ha1/9164546998302.jpg,Alcampo
+1.78,3.56,cerveza alemana rubia schwaben botella 50 cl.,No promotion, alemana rubia schwaben botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h16/h5a/8930577186846.jpg,Alcampo
+3.24,0.81,"cerveza holandesa sin alcohol holbrand, pack de 12 latas de 33 centilitros.",No promotion," holandesa sin alcohol holbrand, pack de 12 latas de 33 centilitros.",lata,33 c,12,https://www.alcampo.es/media/h6f/h17/8951790501918.jpg,Alcampo
+1.35,4.09,cerveza artesana arriaca imperial red ipa lata 33 cl. ,oferta válida hasta el 28/10/2020, artesana arriaca imperial red ipa lata 33 cl. ,lata,33 cl,1,https://www.alcampo.es/media/h74/hbf/10358799925278.jpg,Alcampo
+1.49,2.98,cerveza alemana de trigo schneider weisse 50 cl.,oferta válida hasta el 28/10/2020, alemana de trigo schneider weisse 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hcb/h18/9915928084510.jpg,Alcampo
+0.85,2.57,cerveza botella san miguel 1516 de 33 cl.,No promotion, botella san miguel 1516 de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h64/h01/9492169621534.jpg,Alcampo
+0.48,1.45,cerveza cruzcampo especial 33 cl.,No promotion, cruzcampo especial 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h63/h49/10172149399582.jpg,Alcampo
+2.99,1.99,cerveza sin alcohol 0.0% ambar premium pack 6 uds..x 25 cl. ,No promotion, sin alcohol 0.0% ambar premium pack 6 uds..x 25 cl. ,No specified,25 cl,6,https://www.alcampo.es/media/h6b/h28/9915996602398.jpg,Alcampo
+1.0,2.0,cerveza checa negra de importación praga botella 50 cl.,oferta válida hasta el 28/10/2020, checa negra de importación praga botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/he8/h8d/8898641657886.jpg,Alcampo
+4.31,1.08,cerveza con limón mixta de mahou pack 12 uds x 33 cl.,No promotion, con limón mixta de mahou pack 12 uds x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hc2/ha5/10407564967966.jpg,Alcampo
+1.99,6.03,cerveza belga de trigo con sabor a frambuesa chérie botella 33 cl.,No promotion, belga de trigo con sabor a frambuesa chérie botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hcc/h88/9222675922974.jpg,Alcampo
+0.67,2.03,cerveza francesa de importación kronenbourg lata 33 centilitros,No promotion, francesa de importación kronenbourg lata 33 centilitros,No specified,33 ,1,https://www.alcampo.es/media/h3e/hdf/8994491170846.jpg,Alcampo
+0.81,2.45,cerveza tostada amstel oro 33 cl.,No promotion, tostada amstel oro 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h82/h98/9546883268638.jpg,Alcampo
+4.1,1.24,cervezas tostadas amstel oro pack 10 uds. x 33 cl.,oferta válida hasta el 28/10/2020, tostadas amstel oro pack 10 uds. x 33 cl.,No specified,33 cl,10,https://www.alcampo.es/media/hf0/heb/10172171059230.jpg,Alcampo
+2.18,1.45,cervezas amstel 100 % malta pack 6 uds. de 25 cl.,No promotion, amstel 100 % malta pack 6 uds. de 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h91/he3/10472570880030.jpg,Alcampo
+1.3,3.93,cerveza alemana wersteiner botella 33 cl.,No promotion, alemana wersteiner botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/ha6/hdd/8930431402014.jpg,Alcampo
+1.13,2.26,cerveza oktoberfest lowenbrau 50 cl.,No promotion, oktoberfest lowenbrau 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h3c/he7/10422860120094.jpg,Alcampo
+1.69,3.38,cerveza tostada john smith's extra smooth lata 50 cl.,No promotion, tostada john smith's extra smooth lata 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/hb8/he3/9627385430046.jpg,Alcampo
+1.96,5.93,cerveza rubia envejecida en barrica mahou botella 33 cl.  ,No promotion, rubia envejecida en barrica mahou botella 33 cl.  ,botella,33 cl,1,https://www.alcampo.es/media/ha4/h9c/9123292643358.jpg,Alcampo
+10.75,3.02,"cervezas mejicanas corona pack 10 uds x  33,5 cl.",oferta válida hasta el 28/10/2020," mejicanas corona pack 10 uds x  33,5 cl.",No specified,"33,5 cl",10,https://www.alcampo.es/media/h5c/hef/10492941893662.jpg,Alcampo
+0.99,3.0,cerveza italiana rubia birra moretti botella 33 cl.,No promotion, italiana rubia birra moretti botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/he1/h8d/9546890772510.jpg,Alcampo
+1.49,2.98,cerveza alemana turbia de importación schneider weisse botella 50 cl.,oferta válida hasta el 28/10/2020, alemana turbia de importación schneider weisse botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h22/h49/8897859223582.jpg,Alcampo
+1.1,3.33,cerveza rubia budejovicky budvar 33 cl.,No promotion, rubia budejovicky budvar 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf8/he5/8887442866206.jpg,Alcampo
+0.73,2.21,"cerveza sin gluten san miguel, botella de 33 cl.",No promotion," sin gluten san miguel, botella de 33 cl.",botella,33 cl,1,https://www.alcampo.es/media/h9b/hfa/9294053998622.jpg,Alcampo
+2.79,1.86,"cerveza (0,0% alcohol) con sabor a manzan san miguel pack 6 botellines de 25 centilitros",No promotion," (0,0% alcohol) con sabor a manzan san miguel pack 6 botellines de 25 centilitros",No specified,25 c,6,https://www.alcampo.es/media/h24/he6/10397042245662.jpg,Alcampo
+2.52,1.68,cerveza san miguel pack 6 uds. x 25 cl.,No promotion, san miguel pack 6 uds. x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h8f/h0a/10397048700958.jpg,Alcampo
+2.75,8.33,cerveza rubia especial belga delirium tremens 33 cl.,No promotion, rubia especial belga delirium tremens 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h96/he0/10134060924958.jpg,Alcampo
+2.64,1.76,"cerveza limón 0,0 san miguel radler pack 6 uds. x 25 cl.",No promotion," limón 0,0 san miguel radler pack 6 uds. x 25 cl.",No specified,25 cl,6,https://www.alcampo.es/media/hbd/h1a/10397053190174.jpg,Alcampo
+1.54,3.08,cerveza mojito desperados 50 cl.,No promotion, mojito desperados 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hca/hb9/10414726283294.jpg,Alcampo
+1.29,3.9,cerveza de trigo estilo belga blue moon 330 cl.,oferta válida hasta el 28/10/2020, de trigo estilo belga blue moon 330 cl.,No specified,330 cl,1,https://www.alcampo.es/media/h0c/h35/10407822688286.jpg,Alcampo
+2.58,7.81,cerveza trapense chimay azul botella 33 cl.,No promotion, trapense chimay azul botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/haa/h11/8952720621598.jpg,Alcampo
+1.55,3.1,cerveza alemana premium de trigo köning ludwing weissbier 50 cl.,No promotion, alemana premium de trigo köning ludwing weissbier 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h15/h7b/8867394945054.jpg,Alcampo
+1.35,4.09,cerveza artesanal  arriaca porter lata de 33 cl. ,oferta válida hasta el 28/10/2020, artesanal  arriaca porter lata de 33 cl. ,lata,33 cl,1,https://www.alcampo.es/media/h7e/hfa/10358777085982.jpg,Alcampo
+0.71,2.15,cerveza rubia lager la sagra bohemia 33 cl.,No promotion, rubia lager la sagra bohemia 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf5/h4a/9977478742046.jpg,Alcampo
+1.74,3.48,cerveza ipa inglesa marston´s old empire  50 cl.,No promotion, ipa inglesa marston´s old empire  50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h43/h9f/10397049749534.jpg,Alcampo
+2.99,1.99,cerveza tostada turia märzen botella de 25 centilitros pack de 6 uds.,oferta válida hasta el 28/10/2020, tostada turia märzen botella de 25 centilitros pack de 6 uds.,botella,25 c,6,https://www.alcampo.es/media/h07/h2b/8928481017886.jpg,Alcampo
+1.3,3.93,cerveza alemana lowenbrau botella 33 cl.,No promotion, alemana lowenbrau botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h83/h8a/8896456359966.jpg,Alcampo
+1.16,3.51,cerveza de trigo y pomelo schöfferhofer botella de 33 centilitros,No promotion, de trigo y pomelo schöfferhofer botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/h7f/h4d/8898968944670.jpg,Alcampo
+0.64,1.93,cerveza rubia lata san miguel 1516 33 cl.,No promotion, rubia lata san miguel 1516 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/he4/h76/9492165230622.jpg,Alcampo
+6.19,1.56,cervezas sabor limón cruzcampo shandy pack 12 usds. x 33 cl.,oferta válida hasta el 28/10/2020, sabor limón cruzcampo shandy pack 12 usds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/h31/hd5/10492926394398.jpg,Alcampo
+4.1,1.24,"cervezas cruzcampo gran reserva pack 10 uds, x 33 cl.",oferta válida hasta el 28/10/2020," cruzcampo gran reserva pack 10 uds, x 33 cl.",No specified,33 cl,10,https://www.alcampo.es/media/h8f/he1/9542476398622.jpg,Alcampo
+2.25,1.5,"cervezas sin alcohol amstel pack de 6 uds de 28,5 cl.",No promotion," sin alcohol amstel pack de 6 uds de 28,5 cl.",No specified,"28,5 cl",6,https://www.alcampo.es/media/h62/h9a/9546877370398.jpg,Alcampo
+1.05,1.59,cerveza mediterránea a base de malta estrella damm botella 66 cl. ,No promotion, mediterránea a base de malta estrella damm botella 66 cl. ,botella,66 cl,1,https://www.alcampo.es/media/h1b/hb4/9185265778718.jpg,Alcampo
+5.49,2.77,cervezas negras extra 1906 black coupage pack 6 uds. x 33 cl.,oferta válida hasta el 28/10/2020, negras extra 1906 black coupage pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h18/hab/10073661177886.jpg,Alcampo
+3.2,2.13,cervezas budweiser pack de 6 botellines de 25 centilitros,No promotion, budweiser pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/hf2/h6e/9355350933534.jpg,Alcampo
+4.24,2.82,cerveza doble malta voll damm pack de 6 botellines de 25 centilitros,No promotion, doble malta voll damm pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/h39/hd0/8952672124958.jpg,Alcampo
 1.21,2.42,cerveza intense gold  8.6 lata de 50 dl.,No promotion, intense gold  8.6 lata de 50 dl.,lata,50 ,1,https://www.alcampo.es/media/h14/hd7/10441452748830.jpg,Alcampo
-1.7,5.66,cerveza blonde affligem 30 cl.,No promotion, blonde affligem 30 cl.,No specified,30 cl,1,https://www.alcampo.es/media/hb1/h7e/9546863575070.jpg,Alcampo
-4.8,1.45,cerveza especial cruzcampo pack 10 uds. x 33 cl.,No promotion, especial cruzcampo pack 10 uds. x 33 cl.,No specified,33 cl,10,https://www.alcampo.es/media/h82/hf4/9804659687454.jpg,Alcampo
-1.49,2.98,cerveza alemana de trigo schneider weisse 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", alemana de trigo schneider weisse 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hcb/h18/9915928084510.jpg,Alcampo
-1.69,5.12,cerveza castaña la cibeles 33 cl.,No promotion, castaña la cibeles 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h76/h19/9823037947934.jpg,Alcampo
-1.35,4.09,cerveza con zumo natural de limón arriaca radler 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", con zumo natural de limón arriaca radler 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h33/h0e/10428600057886.jpg,Alcampo
-1.75,7.0,cerveza lambic belga lindemans faro 25 centilitros,No promotion, lambic belga lindemans faro 25 centilitros,No specified,25 ,1,https://www.alcampo.es/media/h68/hbe/8894770053150.jpg,Alcampo
-0.99,3.0,cerveza rubia burro de sancho botella 33 cl.,No promotion, rubia burro de sancho botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/he2/h06/8899462103070.jpg,Alcampo
-10.75,3.02,"cervezas mejicanas corona pack 10 uds x  33,5 cl.","
-
-										oferta válida hasta el 28/10/2020"," mejicanas corona pack 10 uds x  33,5 cl.",No specified,"33,5 cl",10,https://www.alcampo.es/media/h5c/hef/10492941893662.jpg,Alcampo
+2.78,1.85,cervezas alhambra premium lager pack 6 uds. x 25 cl.itros,No promotion, alhambra premium lager pack 6 uds. x 25 cl.itros,No specified,25 cl,6,https://www.alcampo.es/media/h5d/h3d/10407822196766.jpg,Alcampo
+3.04,2.02,cervezas ambar pack de 6 uds.. x 25 cl.,No promotion, ambar pack de 6 uds.. x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/h57/h7d/9915969273886.jpg,Alcampo
+3.59,2.39,cerveza ambar export pack de 6 botellines de 25 centilitros,No promotion, ambar export pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/he9/h42/9916023439390.jpg,Alcampo
+1.47,4.45,cerveza artesana  arriaca trigo lata de 33 cl.,No promotion, artesana  arriaca trigo lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/he6/h11/10358797205534.jpg,Alcampo
+1.23,3.72,cerveza rubia premium la virgen 33 cl.,No promotion, rubia premium la virgen 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hf0/hfd/9352948482078.jpg,Alcampo
+1.89,5.72,cerveza la trappe dubbel botella 33 cl.,No promotion, la trappe dubbel botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h04/hb2/8892111781918.jpg,Alcampo
+3.49,2.32,cerveza portuguesa rubia super bock 6 x 25 cl.,No promotion, portuguesa rubia super bock 6 x 25 cl.,No specified,25 cl,1,https://www.alcampo.es/media/h79/h24/9223934836766.jpg,Alcampo
+1.95,5.9,cerveza rubia brewdog dead pony club 33 cl.,oferta válida hasta el 28/10/2020, rubia brewdog dead pony club 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h56/h0f/10492939239454.jpg,Alcampo
+4.9,1.48,cervezas el águila 1900 pack 10 uds. x 33 cl.,oferta válida hasta el 28/10/2020, el águila 1900 pack 10 uds. x 33 cl.,No specified,33 cl,10,https://www.alcampo.es/media/he0/h45/10172166406174.jpg,Alcampo
+0.97,2.93,cerveza heineken botella de 33 centilitros (tercio),No promotion, heineken botella de 33 centilitros (tercio),botella,33 c,1,https://www.alcampo.es/media/h1a/hcb/9546815832094.jpg,Alcampo
+0.67,2.03,cerveza con sabor a limón super bock green 33 cl.,No promotion, con sabor a limón super bock green 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h47/h4e/9178578092062.jpg,Alcampo
+1.39,2.78,cerveza alemana de cebada spaten botella de 50 centilitros,No promotion, alemana de cebada spaten botella de 50 centilitros,botella,50 c,1,https://www.alcampo.es/media/hfb/hd2/8966654820382.jpg,Alcampo
+5.04,2.54,cerveza premium gran reserva cruzcampo pack 6 botellas x 33 cl.,No promotion, premium gran reserva cruzcampo pack 6 botellas x 33 cl.,botella,33 cl,6,https://www.alcampo.es/media/h13/h83/9546868490270.jpg,Alcampo
+1.69,5.12,cerveza rubia ls cibeles 33 cl,No promotion, rubia ls cibeles 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/hce/haf/9823078285342.jpg,Alcampo
+0.54,2.16,cervesa negra sin alcohol super bock 25 cl.,No promotion,cervesa negra sin alcohol super bock 25 cl.,No specified,25 cl,1,https://www.alcampo.es/media/h75/ha3/9177718390814.jpg,Alcampo
+1.95,5.9,cerveza aroma cítricos elvis juice brewdog 33 cl.,oferta válida hasta el 28/10/2020, aroma cítricos elvis juice brewdog 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h63/h3a/10493036658718.jpg,Alcampo
+1.49,4.51,cerveza india cobra botella de 33 cl.,No promotion, india cobra botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/haf/hf6/8899412230174.jpg,Alcampo
+1.74,3.48,cerveza alemana negra schwaben botella 50 cl.,No promotion, alemana negra schwaben botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h38/h7b/8930130231326.jpg,Alcampo
+4.32,0.72,"cerveza holandesa holbrand, pack de 12 latas de 50 centilitros.",No promotion," holandesa holbrand, pack de 12 latas de 50 centilitros.",lata,50 c,12,https://www.alcampo.es/media/h03/hc0/8951813275678.jpg,Alcampo
+1.72,5.73,cerveza abadía belga affligem double botella 30 cl.,No promotion, abadía belga affligem double botella 30 cl.,botella,30 cl,1,https://www.alcampo.es/media/hfd/hdc/9546836607006.jpg,Alcampo
+1.1,3.33,cerveza negra budejovicky budvar botella 33 cl.,No promotion, negra budejovicky budvar botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h06/hb6/8896735215646.jpg,Alcampo
 1.51,4.57,cerveza arriaca rubia 33 cl.,No promotion, arriaca rubia 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hc1/hf3/10414725464094.jpg,Alcampo
-1.73,5.24,cerveza escocesa innis&gunn botella de 33 centilitros,No promotion, escocesa innis&gunn botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/hc3/hd6/8960181338142.jpg,Alcampo
-1.19,2.38,cerveza alemana bitburger 50 cl,No promotion, alemana bitburger 50 cl,No specified,50 cl,1,https://www.alcampo.es/media/h66/hd9/9035727274014.jpg,Alcampo
-2.99,1.99,cervezas el águila 1900 pack 6 uds. x 25 cl,No promotion, el águila 1900 pack 6 uds. x 25 cl,No specified,25 cl,6,https://www.alcampo.es/media/h78/hb3/10172172042270.jpg,Alcampo
+2.45,7.42,cerveza trapense belga rochefort-8 botella 33 cl.,No promotion, trapense belga rochefort-8 botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hf2/he3/8898770960414.jpg,Alcampo
+1.49,2.98,cerveza de trigo alemana de importación aventinus botella 50 cl.,oferta válida hasta el 28/10/2020, de trigo alemana de importación aventinus botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h16/h2f/9770119364638.jpg,Alcampo
+1.39,4.21,cerveza de trigo belga blanche de charleroi botella 33 cl.,No promotion, de trigo belga blanche de charleroi botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h1f/h85/10395483504670.jpg,Alcampo
+3.29,2.19,cerveza radler cruzcampo pack 6 x 25 cl. ,No promotion, radler cruzcampo pack 6 x 25 cl. ,No specified,25 cl,6,https://www.alcampo.es/media/h87/hda/9546816323614.jpg,Alcampo
+0.51,2.04,cerveza rubia el águila 1900 25 cl.,No promotion, rubia el águila 1900 25 cl.,No specified,25 cl,1,https://www.alcampo.es/media/h47/h14/9893331992606.jpg,Alcampo
+0.88,1.76,cerveza estrella damm 50 cl,No promotion, estrella damm 50 cl,No specified,50 cl,1,https://www.alcampo.es/media/h4a/hb8/9460777844766.jpg,Alcampo
 1.42,4.3,cerveza roja la sagra criolla botella 33 cl.,No promotion, roja la sagra criolla botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h82/he7/10044010627102.jpg,Alcampo
-1.78,5.39,cerveza premium rubia maisel&friends ipa 33 cl. ,No promotion, premium rubia maisel&friends ipa 33 cl. ,No specified,33 cl,1,https://www.alcampo.es/media/h69/h55/9215208980510.jpg,Alcampo
-2.99,1.99,cerveza tostada malquerida pack de 6 x 25 cl. ,"
-
-										oferta válida hasta el 28/10/2020", tostada malquerida pack de 6 x 25 cl. ,No specified,25 cl,6,https://www.alcampo.es/media/hea/hff/9222537707550.jpg,Alcampo
-3.11,2.07,cervezas golden lager san miguel pack 6 uds. x 25 cl ,No promotion, golden lager san miguel pack 6 uds. x 25 cl ,No specified,25 cl,6,https://www.alcampo.es/media/hd2/haa/9547823939614.jpg,Alcampo
-4.92,2.48,cerveza rubia nacional san miguel fresca pack 6 uds. x 33 cl.,No promotion, rubia nacional san miguel fresca pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h72/h64/8959807094814.jpg,Alcampo
-1.19,2.38,cerveza de trigo erdinger dunkel botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", de trigo erdinger dunkel botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/hd4/h70/8952726355998.jpg,Alcampo
-1.79,5.42,cerveza indian pale ale the one 33 cl.,No promotion, indian pale ale the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h50/he8/9373521707038.jpg,Alcampo
-2.74,2.28,cervezas rubia cruzcampo especial pack 6 uds. x 20 cl.,No promotion, rubia cruzcampo especial pack 6 uds. x 20 cl.,No specified,20 cl,6,https://www.alcampo.es/media/hfe/h55/10365943480350.jpg,Alcampo
-0.99,3.0,cerveza tostada 1906 red vintage lata de 33 cl.,No promotion, tostada 1906 red vintage lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h10/h3e/10433621590046.jpg,Alcampo
-2.59,5.18,cerveza negra stout marston's pearl jet 50 cl.,No promotion, negra stout marston's pearl jet 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hac/h8d/10400720388126.jpg,Alcampo
-1.19,2.38,cerveza de trigo erdinger pickantus botella 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", de trigo erdinger pickantus botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/had/hcf/8952646795294.jpg,Alcampo
-1.49,4.51,cerveza negra guinness draught botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", negra guinness draught botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hd7/h56/9546885595166.jpg,Alcampo
+1.79,5.42,cerveza tipo abadía belga maredsous blond botella 33 cl.,oferta válida hasta el 28/10/2020, tipo abadía belga maredsous blond botella 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hd0/hc6/10492936716318.jpg,Alcampo
+1.2,2.4,cerveza checa staropramen lata 50 cl.,No promotion, checa staropramen lata 50 cl.,lata,50 cl,1,https://www.alcampo.es/media/h78/h45/8927381061662.jpg,Alcampo
+1.95,5.9,cerveza rubia indie brewdog 33 cl.,oferta válida hasta el 28/10/2020, rubia indie brewdog 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hb3/hbf/10492948971550.jpg,Alcampo
+1.49,4.51,cerveza belga abbaye d'aulne blonde botella  33 cl.,oferta válida hasta el 28/10/2020, belga abbaye d'aulne blonde botella  33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hec/ha9/8878533902366.jpg,Alcampo
+0.99,3.0,cerveza artesana pilsner madrí chulapo botella 33 cl. ,No promotion, artesana pilsner madrí chulapo botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h6d/h2c/9222554091550.jpg,Alcampo
+0.98,0.49,cerveza abadia belga grimbergen double-ambrée pack de 6 botellas de 33 centilitros,No promotion, abadia belga grimbergen double-ambrée pack de 6 botellas de 33 centilitros,botella,33 c,6,https://www.alcampo.es/media/h64/h85/8952754995230.jpg,Alcampo
+1.69,5.12,cerveza morena artesanal la cibeles botella 33 cl.,No promotion, morena artesanal la cibeles botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h43/h58/9823032082462.jpg,Alcampo
+3.99,2.01,cerveza con sabor a limón super bock green pack de 6 botellas de 33 centilitros,No promotion, con sabor a limón super bock green pack de 6 botellas de 33 centilitros,botella,33 c,6,https://www.alcampo.es/media/h57/hf6/9178453049374.jpg,Alcampo
+1.72,5.73,cerveza abadía belga affligem triple botella 30 cl.,No promotion, abadía belga affligem triple botella 30 cl.,botella,30 cl,1,https://www.alcampo.es/media/hba/hb1/9546852204574.jpg,Alcampo
+1.92,3.84,cerveza zywiec 50 cl.,No promotion, zywiec 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hdf/h56/8896927694878.jpg,Alcampo
+1.49,4.51,cerveza tostada de abadía abbaye d'aulne brune botella de 33 cl.,oferta válida hasta el 28/10/2020, tostada de abadía abbaye d'aulne brune botella de 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h43/h1d/8959691358238.jpg,Alcampo
+1.49,2.98,cerveza alemana hefenweizen dunkel schöfferhofer 50 cl.,No promotion, alemana hefenweizen dunkel schöfferhofer 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h91/ha9/9399661428766.jpg,Alcampo
+0.95,2.87,cerveza ipa cruzcampo andalusian  33 cl.,No promotion, ipa cruzcampo andalusian  33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hd5/h63/10172147269662.jpg,Alcampo
+2.99,1.99,cerveza cruzcampo pack de 6 botellas de 25 centilitros,No promotion, cruzcampo pack de 6 botellas de 25 centilitros,botella,25 c,6,https://www.alcampo.es/media/hc8/h53/9546887757854.jpg,Alcampo
+3.81,2.54,cervezas carlsberg pack de 6 botellines de 25 centilitros,No promotion, carlsberg pack de 6 botellines de 25 centilitros,No specified,25 c,6,https://www.alcampo.es/media/h64/h74/8952628150302.jpg,Alcampo
+1.28,2.56,cerveza oktoberfest spaten 50 cl.,No promotion, oktoberfest spaten 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h2c/h86/10422848356382.jpg,Alcampo
+1.59,4.81,cerveza lager alhambra 33 cl.,oferta válida hasta el 28/10/2020, lager alhambra 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h61/h00/10365972447262.jpg,Alcampo
+1.75,7.0,cerveza lambic belga lindemans faro 25 centilitros,No promotion, lambic belga lindemans faro 25 centilitros,No specified,25 ,1,https://www.alcampo.es/media/h68/hbe/8894770053150.jpg,Alcampo
+12.94,2.58,cerveza heineken barril 5 l.,No promotion, heineken barril 5 l.,barril,5 l,1,https://www.alcampo.es/media/h49/h87/9546878681118.jpg,Alcampo
+0.93,2.81,cerveza rubia cruzcampo trigo 33 cl.,No promotion, rubia cruzcampo trigo 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h0d/h14/9546841194526.jpg,Alcampo
+2.61,7.45,cerveza sierra nevada pale ale 33 cl.,No promotion, sierra nevada pale ale 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h34/hb0/9915961147422.jpg,Alcampo
+1.49,4.51,"cerveza belga, abbaye d'aulne, botella de 33 centilitros.",oferta válida hasta el 28/10/2020," belga, abbaye d'aulne, botella de 33 centilitros.",botella,33 c,1,https://www.alcampo.es/media/hcc/heb/8949448605726.jpg,Alcampo
+6.36,1.6,cerveza con zumo natural de limón mahou radler pack 12 latas x 33 cl. ,No promotion, con zumo natural de limón mahou radler pack 12 latas x 33 cl. ,lata,33 cl,12,https://www.alcampo.es/media/hf7/he6/9242871463966.jpg,Alcampo
+1.39,2.78,cerveza veltins pils botella 50 cl.,No promotion, veltins pils botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/hbc/hd1/8892293513246.jpg,Alcampo
+1.35,4.09,cerveza con zumo natural de limón arriaca radler 33 cl.,oferta válida hasta el 28/10/2020, con zumo natural de limón arriaca radler 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h33/h0e/10428600057886.jpg,Alcampo
+1.69,5.12,cerveza rubia tipo ipa la virgen 33 cl.  ,No promotion, rubia tipo ipa la virgen 33 cl.  ,No specified,33 cl,1,https://www.alcampo.es/media/h22/h02/9312765050910.jpg,Alcampo
+1.69,3.38,cerveza alemana artesana greventeiner 50 cl.,oferta válida hasta el 28/10/2020, alemana artesana greventeiner 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h5b/hdf/10492936060958.jpg,Alcampo
 2.98,1.98,cerveza ecológica san miguel pack de 6 uds x 25 cl.,No promotion, ecológica san miguel pack de 6 uds x 25 cl.,No specified,25 cl,6,https://www.alcampo.es/media/hf0/h42/9220039180318.jpg,Alcampo
-6.2,1.56,"cervezas 0,0 % alcohol cruzcampo pack 12 uds. x 33 cl.",No promotion," 0,0 % alcohol cruzcampo pack 12 uds. x 33 cl.",No specified,33 cl,12,https://www.alcampo.es/media/h16/hda/10407363543070.jpg,Alcampo
-1.83,4.57,cerveza ipa (indian pele ale)  dry hopping gastro 40 cl.,No promotion, ipa (indian pele ale)  dry hopping gastro 40 cl.,No specified,40 cl,1,https://www.alcampo.es/media/h84/hcb/10133909307422.jpg,Alcampo
+1.78,5.39,cerveza premium rubia maisel&friends ipa 33 cl. ,No promotion, premium rubia maisel&friends ipa 33 cl. ,No specified,33 cl,1,https://www.alcampo.es/media/h69/h55/9215208980510.jpg,Alcampo
+2.99,1.99,cerveza tostada malquerida pack de 6 x 25 cl. ,oferta válida hasta el 28/10/2020, tostada malquerida pack de 6 x 25 cl. ,No specified,25 cl,6,https://www.alcampo.es/media/hea/hff/9222537707550.jpg,Alcampo
 1.73,5.24,cerveza escocesa de tipo ale fuerte innis&gunn original botella 33 cl.,No promotion, escocesa de tipo ale fuerte innis&gunn original botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h68/h98/8960175439902.jpg,Alcampo
-1.98,3.96,cerveza ambar ale inglesa marston’s pedigree 50 cl.,No promotion, ambar ale inglesa marston’s pedigree 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/ha3/hcd/10397004431390.jpg,Alcampo
-5.99,2.85,cervezas coronitas 10 uds. x 21 cl,No promotion, coronitas 10 uds. x 21 cl,No specified,21 cl,1,https://www.alcampo.es/media/h3a/h34/9543871987742.jpg,Alcampo
-1.49,4.51,cerveza tostada la pelirroja de getafe the one 33 cl.,No promotion, tostada la pelirroja de getafe the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hc3/hfc/9373521936414.jpg,Alcampo
-1.79,5.42,cerveza scotish ale sport tostada the one 33 cl.,No promotion, scotish ale sport tostada the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hae/h75/9373544710174.jpg,Alcampo
-1.49,4.51,cerveza rubia de abadía abbaye d'aulne premier cru botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", rubia de abadía abbaye d'aulne premier cru botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h95/heb/8959749980190.jpg,Alcampo
-2.26,2.26,cerveza dinamarca premium 5% alc. faxe lata 1 l.,No promotion, dinamarca premium 5% alc. faxe lata 1 l.,lata,1 l,1,https://www.alcampo.es/media/hb7/h0e/9220314988574.jpg,Alcampo
+6.19,1.56,cervezas cruzcampo radler pack 12 uds. x 33 cl.,oferta válida hasta el 28/10/2020, cruzcampo radler pack 12 uds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/h6f/hcb/10492949463070.jpg,Alcampo
+0.99,3.0,cerveza tostada 1906 red vintage lata de 33 cl.,No promotion, tostada 1906 red vintage lata de 33 cl.,lata,33 cl,1,https://www.alcampo.es/media/h10/h3e/10433621590046.jpg,Alcampo
+1.49,4.51,cerveza rubia de abadía abbaye d'aulne premier cru botella 33 cl.,oferta válida hasta el 28/10/2020, rubia de abadía abbaye d'aulne premier cru botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h95/heb/8959749980190.jpg,Alcampo
+5.82,2.93,cerveza heineken pack de 6 uds. de 33 cl.,No promotion, heineken pack de 6 uds. de 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h85/hae/9546849452062.jpg,Alcampo
+1.69,5.12,cerveza castaña la cibeles 33 cl.,No promotion, castaña la cibeles 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h76/h19/9823037947934.jpg,Alcampo
+5.49,1.66,cerveza especial cruzcampo pack 10 uds. x 33 cl.,No promotion, especial cruzcampo pack 10 uds. x 33 cl.,No specified,33 cl,10,https://www.alcampo.es/media/h82/hf4/9804659687454.jpg,Alcampo
+1.49,4.51,cerveza negra guinness draught botella 33 cl.,oferta válida hasta el 28/10/2020, negra guinness draught botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hd7/h56/9546885595166.jpg,Alcampo
+1.73,5.24,cerveza escocesa innis&gunn botella de 33 centilitros,No promotion, escocesa innis&gunn botella de 33 centilitros,botella,33 c,1,https://www.alcampo.es/media/hc3/hd6/8960181338142.jpg,Alcampo
+1.2,3.63,cerveza rubia burro de sancho botella 33 cl.,No promotion, rubia burro de sancho botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/he2/h06/8899462103070.jpg,Alcampo
+6.19,1.56,"cervezas 0,0 % alcohol cruzcampo pack 12 uds. x 33 cl.",No promotion," 0,0 % alcohol cruzcampo pack 12 uds. x 33 cl.",No specified,33 cl,12,https://www.alcampo.es/media/h16/hda/10407363543070.jpg,Alcampo
+3.99,2.01,cerveza negra portuguesa super bock pack de 6 botellas de 33 centilitros,No promotion, negra portuguesa super bock pack de 6 botellas de 33 centilitros,botella,33 c,6,https://www.alcampo.es/media/h17/hff/8890069745694.jpg,Alcampo
+6.19,1.56,cerveza con limón san miguel radler pack 12 uds. x 33 cl.,oferta válida hasta el 28/10/2020, con limón san miguel radler pack 12 uds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hca/h6e/10493020635166.jpg,Alcampo
+3.11,2.07,cervezas golden lager san miguel pack 6 uds. x 25 cl ,No promotion, golden lager san miguel pack 6 uds. x 25 cl ,No specified,25 cl,6,https://www.alcampo.es/media/hd2/haa/9547823939614.jpg,Alcampo
+1.19,2.38,cerveza de trigo erdinger pickantus botella 50 cl.,oferta válida hasta el 28/10/2020, de trigo erdinger pickantus botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/had/hcf/8952646795294.jpg,Alcampo
+1.49,4.51,cerveza belga abbaye d'aulne cuveé royale botella 33 cl.,oferta válida hasta el 28/10/2020, belga abbaye d'aulne cuveé royale botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h08/ha2/9037205536798.jpg,Alcampo
+2.13,2.13,cerveza rubia heineken pack 4 uds. x 25 cl.,No promotion, rubia heineken pack 4 uds. x 25 cl.,No specified,25 cl,4,https://www.alcampo.es/media/h24/h32/10167119609886.jpg,Alcampo
+1.79,5.42,cerveza tipo abadía belga maredsous bruin 33 cl.,oferta válida hasta el 28/10/2020, tipo abadía belga maredsous bruin 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hbf/h7a/10493034856478.jpg,Alcampo
+1.69,3.38,cerveza alemana artesana gervensteiner botella 50 cl. ,oferta válida hasta el 28/10/2020, alemana artesana gervensteiner botella 50 cl. ,botella,50 cl,1,https://www.alcampo.es/media/h01/h35/10493030760478.jpg,Alcampo
 1.99,6.03,cerveza alemana de trigo con toque cítricos maisel & friends weizen ipa botella 33 cl. ,No promotion, alemana de trigo con toque cítricos maisel & friends weizen ipa botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h17/hfd/9534528094238.jpg,Alcampo
-2.23,6.75,cerveza trapense chimay roja botella 33 cl.,No promotion, trapense chimay roja botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/ha3/h9c/8952635424798.jpg,Alcampo
-1.99,6.03,cerveza tostada holandesa la trappe 33 cl.,No promotion, tostada holandesa la trappe 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h25/h5f/8952554913822.jpg,Alcampo
 1.69,5.12,cerveza tipo abadía roja belga tedeum botella 33 cl.,No promotion, tipo abadía roja belga tedeum botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h9d/h1e/8897325105182.jpg,Alcampo
-1.79,3.58,cerveza de trigo alemana licher botella 50 cl.,No promotion, de trigo alemana licher botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h73/h59/8899189669918.jpg,Alcampo
-1.99,6.03,cerveza artesana doble malta enigma complutum botella 33 cl. ,No promotion, artesana doble malta enigma complutum botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h62/h5d/9187598663710.jpg,Alcampo
-5.15,2.6,cerveza portuguesa tipo abadía super bock pack de 6 botellas de 33 centilitros,No promotion, portuguesa tipo abadía super bock pack de 6 botellas de 33 centilitros,botella,33 c,6,https://www.alcampo.es/media/hfd/h43/8923122860062.jpg,Alcampo
-1.69,5.12,cerveza artesanal de  arriaca trigo botella 33 cl. ,No promotion, artesanal de  arriaca trigo botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h05/h09/10358797434910.jpg,Alcampo
-1.49,4.51,"cerveza belga, abbaye d'aulne, botella de 33 centilitros.","
-
-										oferta válida hasta el 28/10/2020"," belga, abbaye d'aulne, botella de 33 centilitros.",botella,", ",1,https://www.alcampo.es/media/hcc/heb/8949448605726.jpg,Alcampo
-6.19,1.56,cerveza con limón san miguel radler pack 12 uds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", con limón san miguel radler pack 12 uds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/hca/h6e/10493020635166.jpg,Alcampo
-1.79,5.42,cerveza pale ale rubia the one 33 cl.,No promotion, pale ale rubia the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h77/h27/9373527244830.jpg,Alcampo
+1.99,6.03,cerveza tostada holandesa la trappe 33 cl.,No promotion, tostada holandesa la trappe 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h25/h5f/8952554913822.jpg,Alcampo
+1.59,4.81,cerveza belga grimbergen blonde botella de 33 cl-,No promotion, belga grimbergen blonde botella de 33 cl-,botella,33 cl,1,https://www.alcampo.es/media/h10/hbe/8901789417502.jpg,Alcampo
+1.7,5.66,cerveza blonde affligem 30 cl.,No promotion, blonde affligem 30 cl.,No specified,30 cl,1,https://www.alcampo.es/media/hb1/h7e/9546863575070.jpg,Alcampo
+2.74,2.28,cervezas rubia cruzcampo especial pack 6 uds. x 20 cl.,No promotion, rubia cruzcampo especial pack 6 uds. x 20 cl.,No specified,20 cl,6,https://www.alcampo.es/media/hfe/h55/10365943480350.jpg,Alcampo
+1.83,4.57,cerveza ipa (indian pele ale)  dry hopping gastro 40 cl.,No promotion, ipa (indian pele ale)  dry hopping gastro 40 cl.,No specified,40 cl,1,https://www.alcampo.es/media/h84/hcb/10133909307422.jpg,Alcampo
+2.59,5.18,cerveza negra stout marston's pearl jet 50 cl.,No promotion, negra stout marston's pearl jet 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/hac/h8d/10400720388126.jpg,Alcampo
+1.19,2.38,cerveza de trigo erdinger dunkel botella 50 cl.,oferta válida hasta el 28/10/2020, de trigo erdinger dunkel botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/hd4/h70/8952726355998.jpg,Alcampo
 2.59,3.45,cerveza abadía leffe botella 75 cl.,No promotion, abadía leffe botella 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/h40/h23/8892784246814.jpg,Alcampo
-1.65,5.0,cerveza artesana ecológica mulhacén 33 centilitros,No promotion, artesana ecológica mulhacén 33 centilitros,No specified,33 c,1,https://www.alcampo.es/media/he8/h53/8938168778782.jpg,Alcampo
-1.2,3.63,cerveza sabor a ron cubanisto botella 33 cl. ,No promotion, sabor a ron cubanisto botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h30/h8c/9173967110174.jpg,Alcampo
-1.79,5.42,"cerveza dunkel , trigo alemán the one 33 cl.",No promotion," dunkel , trigo alemán the one 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/hfd/hbb/9373505060894.jpg,Alcampo
-1.69,3.38,cerveza alemana artesana gervensteiner botella 50 cl. ,"
-
-										oferta válida hasta el 28/10/2020", alemana artesana gervensteiner botella 50 cl. ,botella,50 cl,1,https://www.alcampo.es/media/h01/h35/10493030760478.jpg,Alcampo
-3.9,5.2,cerveza chocolate maisel&friends botella de 75 cl.,No promotion, chocolate maisel&friends botella de 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/h1b/hfe/8898636480542.jpg,Alcampo
-5.22,2.63,cerveza elaborada según la ley de pureza de 1516 san miguel 1516 pack de 6 unidades de 33 centilitros,No promotion, elaborada según la ley de pureza de 1516 san miguel 1516 pack de 6 unidades de 33 centilitros,No specified,1516 ,6,https://www.alcampo.es/media/hd0/h40/8869663146014.jpg,Alcampo
-1.42,4.3,cerveza artesana blanca de trigo la sagra flanders botella 33 cl.,No promotion, artesana blanca de trigo la sagra flanders botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h64/h26/10043939553310.jpg,Alcampo
-1.68,5.09,cerveza escocesa al whisky tennent's 33 cl.,No promotion, escocesa al whisky tennent's 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h94/he4/8880832118814.jpg,Alcampo
-5.51,7.34,cerveza rubia y francesa abbaye du lys triple botella 75 cl.,No promotion, rubia y francesa abbaye du lys triple botella 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/hda/h0a/8894855512094.jpg,Alcampo
+4.92,2.48,cerveza rubia nacional san miguel fresca pack 6 uds. x 33 cl.,No promotion, rubia nacional san miguel fresca pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/h72/h64/8959807094814.jpg,Alcampo
 1.99,6.03,cerveza trigo artesana madrid enigma cervantes 400 33 cl.,No promotion, trigo artesana madrid enigma cervantes 400 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h53/h22/9500079915038.jpg,Alcampo
-6.19,1.56,cervezas cruzcampo radler pack 12 uds. x 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", cruzcampo radler pack 12 uds. x 33 cl.,No specified,33 cl,12,https://www.alcampo.es/media/h6f/hcb/10492949463070.jpg,Alcampo
-1.29,3.9,cerveza de trigo bela blue monn 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", de trigo bela blue monn 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hde/h56/9977412583454.jpg,Alcampo
+5.99,2.85,cervezas coronitas 10 uds. x 21 cl,No promotion, coronitas 10 uds. x 21 cl,No specified,21 cl,1,https://www.alcampo.es/media/h3a/h34/9543871987742.jpg,Alcampo
+1.2,3.63,cerveza sabor a ron cubanisto botella 33 cl. ,No promotion, sabor a ron cubanisto botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h30/h8c/9173967110174.jpg,Alcampo
+1.79,5.42,cerveza indian pale ale the one 33 cl.,No promotion, indian pale ale the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h50/he8/9373521707038.jpg,Alcampo
+2.99,1.99,cervezas el águila 1900 pack 6 uds. x 25 cl,No promotion, el águila 1900 pack 6 uds. x 25 cl,No specified,25 cl,6,https://www.alcampo.es/media/h78/hb3/10172172042270.jpg,Alcampo
+5.15,2.6,cerveza portuguesa tipo abadía super bock pack de 6 botellas de 33 centilitros,No promotion, portuguesa tipo abadía super bock pack de 6 botellas de 33 centilitros,botella,33 c,6,https://www.alcampo.es/media/hfd/h43/8923122860062.jpg,Alcampo
+1.19,2.38,cerveza alemana bitburger 50 cl,No promotion, alemana bitburger 50 cl,No specified,50 cl,1,https://www.alcampo.es/media/h66/hd9/9035727274014.jpg,Alcampo
+2.26,2.26,cerveza dinamarca premium 5% alc. faxe lata 1 l.,No promotion, dinamarca premium 5% alc. faxe lata 1 l.,lata,1 l,1,https://www.alcampo.es/media/hb7/h0e/9220314988574.jpg,Alcampo
+1.69,5.12,cerveza artesanal de  arriaca trigo botella 33 cl. ,No promotion, artesanal de  arriaca trigo botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h05/h09/10358797434910.jpg,Alcampo
+2.23,6.75,cerveza trapense chimay roja botella 33 cl.,No promotion, trapense chimay roja botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/ha3/h9c/8952635424798.jpg,Alcampo
+1.42,4.3,cerveza artesana blanca de trigo la sagra flanders botella 33 cl.,No promotion, artesana blanca de trigo la sagra flanders botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h64/h26/10043939553310.jpg,Alcampo
+1.79,3.58,cerveza de trigo alemana licher botella 50 cl.,No promotion, de trigo alemana licher botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h73/h59/8899189669918.jpg,Alcampo
+1.65,5.0,cerveza artesana ecológica mulhacén 33 centilitros,No promotion, artesana ecológica mulhacén 33 centilitros,No specified,33 c,1,https://www.alcampo.es/media/he8/h53/8938168778782.jpg,Alcampo
+1.49,2.98,cerveza premium alemana schofferhofer 50 cl. ,No promotion, premium alemana schofferhofer 50 cl. ,No specified,50 cl,1,https://www.alcampo.es/media/h7f/h83/9177636110366.jpg,Alcampo
+1.98,3.96,cerveza ambar ale inglesa marston’s pedigree 50 cl.,No promotion, ambar ale inglesa marston’s pedigree 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/ha3/hcd/10397004431390.jpg,Alcampo
+3.9,5.2,cerveza chocolate maisel&friends botella de 75 cl.,No promotion, chocolate maisel&friends botella de 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/h1b/hfe/8898636480542.jpg,Alcampo
+4.14,2.09,cervezas tostada amstel oro pack de 6 uds de 33 cl (tercio),No promotion, tostada amstel oro pack de 6 uds de 33 cl (tercio),No specified,33 cl,6,https://www.alcampo.es/media/hee/hc8/9546894475294.jpg,Alcampo
+1.99,6.03,cerveza artesana doble malta enigma complutum botella 33 cl. ,No promotion, artesana doble malta enigma complutum botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h62/h5d/9187598663710.jpg,Alcampo
+2.26,6.84,cerveza francesa ipa la goudale 33 cl.,No promotion, francesa ipa la goudale 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h8c/h32/9021778264094.jpg,Alcampo
 5.24,1.74,cervezas especial cruzcampo pack 12 uds. x 25 cl.,No promotion, especial cruzcampo pack 12 uds. x 25 cl.,No specified,25 cl,12,https://www.alcampo.es/media/hfa/h91/9580504842270.jpg,Alcampo
 2.99,2.99,cerveza danesa de trigo faxe witbier 1 l.,No promotion, danesa de trigo faxe witbier 1 l.,No specified,1 l,1,https://www.alcampo.es/media/hee/h2e/9893370626078.jpg,Alcampo
-1.69,3.38,cerveza alemana artesana greventeiner 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", alemana artesana greventeiner 50 cl.,No specified,50 cl,1,https://www.alcampo.es/media/h5b/hdf/10492936060958.jpg,Alcampo
-4.14,2.09,cervezas tostada amstel oro pack de 6 uds de 33 cl (tercio),No promotion, tostada amstel oro pack de 6 uds de 33 cl (tercio),No specified,33 cl,6,https://www.alcampo.es/media/hee/hc8/9546894475294.jpg,Alcampo
-1.99,6.03,cerveza artesana madrid triple malta enigma complutum 33 cl. ,No promotion, artesana madrid triple malta enigma complutum 33 cl. ,No specified,33 cl,1,https://www.alcampo.es/media/h79/h75/9187588767774.jpg,Alcampo
-2.26,6.84,cerveza francesa ipa la goudale 33 cl.,No promotion, francesa ipa la goudale 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h8c/h32/9021778264094.jpg,Alcampo
-1.79,5.42,cerveza blanche trigo belga the one 33 cl.,No promotion, blanche trigo belga the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h83/h0c/9373519118366.jpg,Alcampo
+1.29,3.9,cerveza de trigo bela blue monn 33 cl.,oferta válida hasta el 28/10/2020, de trigo bela blue monn 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hde/h56/9977412583454.jpg,Alcampo
+1.59,4.81,cerveza combinada salitos blue 33 cl,No promotion, combinada salitos blue 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/h7f/h76/10404273389598.jpg,Alcampo
+1.79,5.42,"cerveza dunkel , trigo alemán the one 33 cl.",No promotion," dunkel , trigo alemán the one 33 cl.",No specified,33 cl,1,https://www.alcampo.es/media/hfd/hbb/9373505060894.jpg,Alcampo
+1.79,5.42,cerveza scotish ale sport tostada the one 33 cl.,No promotion, scotish ale sport tostada the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hae/h75/9373544710174.jpg,Alcampo
 6.99,3.53,cervezas tostadas 1906 red vintage pack 6 uds. x 33 cl.,No promotion, tostadas 1906 red vintage pack 6 uds. x 33 cl.,No specified,33 cl,6,https://www.alcampo.es/media/hae/h08/10433611497502.jpg,Alcampo
-5.08,2.54,cervezas artesanas alemanas grevensteiner pack 4 uds. x 50 cl.,"
-
-										oferta válida hasta el 28/10/2020", artesanas alemanas grevensteiner pack 4 uds. x 50 cl.,No specified,50 cl,4,https://www.alcampo.es/media/h46/h2e/10422848192542.jpg,Alcampo
-1.59,4.81,cerveza belga grimbergen blonde botella de 33 cl-,No promotion, belga grimbergen blonde botella de 33 cl-,botella,33 cl,1,https://www.alcampo.es/media/h10/hbe/8901789417502.jpg,Alcampo
-1.99,6.03,cerveza tostada artesana roja enigma complutum 33 cl. ,No promotion, tostada artesana roja enigma complutum 33 cl. ,No specified,33 cl,1,https://www.alcampo.es/media/ha3/hcc/9187530473502.jpg,Alcampo
-1.79,5.42,cerveza tipo abadía belga maredsous bruin 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", tipo abadía belga maredsous bruin 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hbf/h7a/10493034856478.jpg,Alcampo
-1.0,3.03,cerveza rubia rosita original botella 33 cl.,No promotion, rubia rosita original botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h08/h31/8890503397406.jpg,Alcampo
-1.89,5.72,cerveza artesanal arriaca porter botella 33 cl. ,No promotion, artesanal arriaca porter botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h5e/hdb/10358796156958.jpg,Alcampo
-1.49,4.51,cerveza belga abbaye d'aulne cuveé royale botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", belga abbaye d'aulne cuveé royale botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h08/ha2/9037205536798.jpg,Alcampo
-1.83,5.54,"cerveza light rubia, fresca y con un sabor afrutado maisel&friends botella 33 cl. ",No promotion," light rubia, fresca y con un sabor afrutado maisel&friends botella 33 cl. ",botella,33 cl,1,https://www.alcampo.es/media/he5/h4e/9534544969758.jpg,Alcampo
-1.49,4.51,cerveza artesana la rubia de getafe the one 33 cl.,No promotion, artesana la rubia de getafe the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h61/h4d/9373502242846.jpg,Alcampo
+5.08,2.54,cervezas artesanas alemanas grevensteiner pack 4 uds. x 50 cl.,oferta válida hasta el 28/10/2020, artesanas alemanas grevensteiner pack 4 uds. x 50 cl.,No specified,50 cl,4,https://www.alcampo.es/media/h46/h2e/10422848192542.jpg,Alcampo
+5.51,7.34,cerveza rubia y francesa abbaye du lys triple botella 75 cl.,No promotion, rubia y francesa abbaye du lys triple botella 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/hda/h0a/8894855512094.jpg,Alcampo
+1.79,5.42,cerveza pale ale rubia the one 33 cl.,No promotion, pale ale rubia the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h77/h27/9373527244830.jpg,Alcampo
+1.79,7.16,cerveza de frutas del bosque liefmans botella de 25 centilitros,oferta válida hasta el 28/10/2020, de frutas del bosque liefmans botella de 25 centilitros,botella,25 c,1,https://www.alcampo.es/media/h1e/hd8/10492945891358.jpg,Alcampo
+1.79,5.42,cerveza blanche trigo belga the one 33 cl.,No promotion, blanche trigo belga the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h83/h0c/9373519118366.jpg,Alcampo
 1.79,5.42,cerveza blonde (rubia) alemana the one 33 cl.,No promotion, blonde (rubia) alemana the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hd9/h09/9373541203998.jpg,Alcampo
+1.49,4.51,cerveza tostada la pelirroja de getafe the one 33 cl.,No promotion, tostada la pelirroja de getafe the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hc3/hfc/9373521936414.jpg,Alcampo
 3.37,3.37,cerveza con tequila desperados pack 4 uds. x 25 cl.,No promotion, con tequila desperados pack 4 uds. x 25 cl.,No specified,25 cl,4,https://www.alcampo.es/media/h3d/h99/10226736431134.jpg,Alcampo
+3.95,5.26,cerveza importación jeff's bavarian maisel&friends botella 75 cl.,No promotion, importación jeff's bavarian maisel&friends botella 75 cl.,No specified,75 cl,1,https://www.alcampo.es/media/hfa/h98/8898129821726.jpg,Alcampo
 6.19,12.38,cerveza belga rubia de importación san sebastian botella 50 cl.,No promotion, belga rubia de importación san sebastian botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/h24/hfb/8894528028702.jpg,Alcampo
 6.19,12.38,cerveza belga negra de importación san sebastian botella 50 cl.,No promotion, belga negra de importación san sebastian botella 50 cl.,botella,50 cl,1,https://www.alcampo.es/media/ha1/h4c/8890129645598.jpg,Alcampo
-3.95,5.26,cerveza importación jeff's bavarian maisel&friends botella 75 cl.,No promotion, importación jeff's bavarian maisel&friends botella 75 cl.,No specified,75 cl,1,https://www.alcampo.es/media/hfa/h98/8898129821726.jpg,Alcampo
+1.99,6.03,cerveza tostada artesana roja enigma complutum 33 cl. ,No promotion, tostada artesana roja enigma complutum 33 cl. ,No specified,33 cl,1,https://www.alcampo.es/media/ha3/hcc/9187530473502.jpg,Alcampo
+1.0,3.03,cerveza rubia rosita original botella 33 cl.,No promotion, rubia rosita original botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h08/h31/8890503397406.jpg,Alcampo
 1.99,6.03,cerveza rubia rosita d'ivori botella 33 cl.,No promotion, rubia rosita d'ivori botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/h80/hf6/8894957682718.jpg,Alcampo
-1.79,5.42,cerveza de trigo blanca belga vedett botella 33 cl.,"
-
-										oferta válida hasta el 28/10/2020", de trigo blanca belga vedett botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hbe/h02/10492949233694.jpg,Alcampo
-1.79,5.42,cerveza negra la morena de getafe the one 33 cl.,No promotion, negra la morena de getafe the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/ha8/hbf/9373504208926.jpg,Alcampo
-1.49,2.98,cerveza premium alemana schofferhofer 50 cl. ,No promotion, premium alemana schofferhofer 50 cl. ,No specified,50 cl,1,https://www.alcampo.es/media/h7f/h83/9177636110366.jpg,Alcampo
-2.13,2.13,cerveza rubia heineken pack 4 uds. x 25 cl.,No promotion, rubia heineken pack 4 uds. x 25 cl.,No specified,25 cl,4,https://www.alcampo.es/media/h24/h32/10167119609886.jpg,Alcampo
-6.14,8.18,cerveza trapense chimay grande réserve botella 75 cl.,No promotion, trapense chimay grande réserve botella 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/hbe/hfb/8952599248926.jpg,Alcampo
-1.79,7.16,cerveza de frutas del bosque liefmans botella de 25 centilitros,"
-
-										oferta válida hasta el 28/10/2020", de frutas del bosque liefmans botella de 25 centilitros,botella,25 c,1,https://www.alcampo.es/media/h1e/hd8/10492945891358.jpg,Alcampo
+1.99,6.03,cerveza artesana madrid triple malta enigma complutum 33 cl. ,No promotion, artesana madrid triple malta enigma complutum 33 cl. ,No specified,33 cl,1,https://www.alcampo.es/media/h79/h75/9187588767774.jpg,Alcampo
+1.83,5.54,"cerveza light rubia, fresca y con un sabor afrutado maisel&friends botella 33 cl. ",No promotion," light rubia, fresca y con un sabor afrutado maisel&friends botella 33 cl. ",botella,33 cl,1,https://www.alcampo.es/media/he5/h4e/9534544969758.jpg,Alcampo
 3.95,5.26,cerveza importación stefan's indian maisel&friends botella 75 cl.,No promotion, importación stefan's indian maisel&friends botella 75 cl.,No specified,75 cl,1,https://www.alcampo.es/media/h44/h58/8898969075742.jpg,Alcampo
+1.3,3.93,cerveza sin alcohol con limón erdinger botella 33 cl. ,No promotion, sin alcohol con limón erdinger botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h8a/he3/9246417387550.jpg,Alcampo
 5.99,4.53,cerveza rubia 4 uds. x 33 cl.,No promotion, rubia 4 uds. x 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hb9/h5b/9359656452126.jpg,Alcampo
+1.79,5.42,cerveza de trigo blanca belga vedett botella 33 cl.,oferta válida hasta el 28/10/2020, de trigo blanca belga vedett botella 33 cl.,botella,33 cl,1,https://www.alcampo.es/media/hbe/h02/10492949233694.jpg,Alcampo
 5.75,7.66,cerveza tostada de abadía abbaye d'aulne cuvée royale botella 75 cl.,No promotion, tostada de abadía abbaye d'aulne cuvée royale botella 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/h8f/hb1/8959718686750.jpg,Alcampo
 8.7,4.39,cerveza tipo abadía belga grimbergen blonde pack de 6 botellas de 33 centilitros,No promotion, tipo abadía belga grimbergen blonde pack de 6 botellas de 33 centilitros,botella,33 c,6,https://www.alcampo.es/media/h77/ha8/8952878465054.jpg,Alcampo
-1.59,4.81,cerveza artesanal  arriaca rubia botella 33 cl. ,No promotion, artesanal  arriaca rubia botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/hc8/he3/10358781902878.jpg,Alcampo
-1.51,3.02,cerveza saborizada con ron cubanisto lata 50 cl. ,No promotion, saborizada con ron cubanisto lata 50 cl. ,lata,50 cl,1,https://www.alcampo.es/media/hdf/hee/9172709244958.jpg,Alcampo
-0.97,2.93,cerveza manila san miguel 33 cl.,No promotion, manila san miguel 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/ha0/h1d/9435765571614.jpg,Alcampo
+1.89,5.72,cerveza artesanal arriaca porter botella 33 cl. ,No promotion, artesanal arriaca porter botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/h5e/hdb/10358796156958.jpg,Alcampo
 5.7,2.87,cerveza especialmente lupulada san miguel manila cesta 6 x 33 cl.,No promotion, especialmente lupulada san miguel manila cesta 6 x 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h65/h69/9188519903262.jpg,Alcampo
+1.51,3.02,cerveza saborizada con ron cubanisto lata 50 cl. ,No promotion, saborizada con ron cubanisto lata 50 cl. ,lata,50 cl,1,https://www.alcampo.es/media/hdf/hee/9172709244958.jpg,Alcampo
+1.49,4.51,cerveza artesana la rubia de getafe the one 33 cl.,No promotion, artesana la rubia de getafe the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h61/h4d/9373502242846.jpg,Alcampo
+1.79,5.42,cerveza negra la morena de getafe the one 33 cl.,No promotion, negra la morena de getafe the one 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/ha8/hbf/9373504208926.jpg,Alcampo
 1.17,3.54,cerveza belga pale ale grimbergen 33 cl,No promotion, belga pale ale grimbergen 33 cl,No specified,33 cl,1,https://www.alcampo.es/media/h75/hec/9543205617694.jpg,Alcampo
+6.14,8.18,cerveza trapense chimay grande réserve botella 75 cl.,No promotion, trapense chimay grande réserve botella 75 cl.,botella,75 cl,1,https://www.alcampo.es/media/hbe/hfb/8952599248926.jpg,Alcampo
+0.97,2.93,cerveza manila san miguel 33 cl.,No promotion, manila san miguel 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/ha0/h1d/9435765571614.jpg,Alcampo
+0.84,1.68,cerveza especial cruzcampo 50 ml.,No promotion, especial cruzcampo 50 ml.,No specified,50 ml,1,https://www.alcampo.es/media/hd3/h7c/9580481511454.jpg,Alcampo
+1.59,4.81,cerveza artesanal  arriaca rubia botella 33 cl. ,No promotion, artesanal  arriaca rubia botella 33 cl. ,botella,33 cl,1,https://www.alcampo.es/media/hc8/he3/10358781902878.jpg,Alcampo
+1.2,3.63,cerveza aromatizada con vodka más lima burro de sancho 33 cl.,No promotion, aromatizada con vodka más lima burro de sancho 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h15/hb7/10202927661086.jpg,Alcampo
+1.2,3.63,cerveza aromatizada con tequila burro de sancho 33 cl.,No promotion, aromatizada con tequila burro de sancho 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h0d/h3f/10202874544158.jpg,Alcampo
 1.2,3.63,cerveza de trigo maisel original 33 cl.,No promotion, de trigo maisel original 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/hc7/h7b/10422815981598.jpg,Alcampo
-1.0,3.03,cerveza aromatizada con tequila burro de sancho 33 cl.,No promotion, aromatizada con tequila burro de sancho 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h0d/h3f/10202874544158.jpg,Alcampo
-1.0,3.03,cerveza aromatizada con vodka más lima burro de sancho 33 cl.,No promotion, aromatizada con vodka más lima burro de sancho 33 cl.,No specified,33 cl,1,https://www.alcampo.es/media/h15/hb7/10202927661086.jpg,Alcampo
