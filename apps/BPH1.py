@@ -3,6 +3,9 @@ import pandas as pd
 import webbrowser
 import re
 
+# page 1 of the dashboard, in this page we print the supermarket with the beers more cheaper!
+
+# links for search the beer in the different supermarkets
 CARREFOUR_LINK = 'https://www.carrefour.es/?q='
 ALCAMPO_LINK = 'https://www.alcampo.es/compra-online/search/?department=&text='
 CORTEINGLES_LINK = 'https://www.elcorteingles.es/supermercado/buscar/?term='
@@ -10,6 +13,7 @@ DIA_LINK = 'https://www.dia.es/compra-online/search?text='
 EROSKI_LINK = 'https://supermercado.eroski.es/es/search/multiple/?q='
 
 
+# function to get the url complete for search the beer:
 def url_web(best_place, number, data):
     if best_place == 'Carrefour':
         place = data['title'].tolist()
@@ -29,6 +33,7 @@ def url_web(best_place, number, data):
         return EROSKI_LINK + change[0]
 
 
+# function to obtain the cheaper beer depending on the parameters chosen by the customer:
 def cheap_beers(number, brands, quantity_pack, promotion_beer, supermarket_beer, specials_beer, volume_beer, data):
     if number == 0:
         st.subheader('The cheapest option (€/l) is: ')
@@ -40,7 +45,7 @@ def cheap_beers(number, brands, quantity_pack, promotion_beer, supermarket_beer,
         st.subheader('The fourth option (€/l) is: ')
     elif number == 4:
         st.subheader('The fifth option (€/l) is: ')
-
+    # depend on the customer preferences, the data change and show the beers:
     if brands or quantity_pack or promotion_beer or supermarket_beer or specials_beer or volume_beer:
         product_img = data['image_url'].tolist()
         st.image(product_img[number], width=224)
@@ -60,7 +65,7 @@ def cheap_beers(number, brands, quantity_pack, promotion_beer, supermarket_beer,
             st.write('sold in single units with a size of: `%s`' % size_unit[number])
         else:
             st.write('sold in packs of ', size_pack[number], ' units with a size of: `%s`' % size_unit[number])
-
+        # we add the url of the beer in his supermarket, if the customer push the button:
         if number == 0:
             if st.button('Open the web site 1:'):
                 webbrowser.open_new_tab(best_link)
@@ -78,12 +83,15 @@ def cheap_beers(number, brands, quantity_pack, promotion_beer, supermarket_beer,
                 webbrowser.open_new_tab(best_link)
 
 
+# main function, call all other functions for get the dashboard with cheap beers:
 def app():
+    # we get the data
     data = pd.read_csv('./data/processed/data_beer_total.csv')
+    # we sort the data, with the cheaper beer first!
     data.sort_values(['price_liter', 'promotion', 'quantity_pack'], inplace=True, ignore_index=True)
 
     st.title('BirrasPipol House!')
-
+    # we put some information about the supermarkets
     st.markdown('''Welcome beer lovers! \U0001f37a  
 In this dashboard you will be able to discover the price of your favorite beer in the following supermarkets:
 - Carrefour
@@ -95,12 +103,12 @@ In this dashboard you will be able to discover the price of your favorite beer i
     beers_brands = data['brand'].nunique()
     beers_promo = data[data['promotion'] != 'No promotion']['promotion'].count()
     beers_total = data['title'].count()
-
+    # we put some information about the beers we have in our DF:
     st.markdown('''information about this dashboard:''')
     st.write(f'Number of brands: `%s`' % beers_brands)
     st.write(f'Number of beers: `%s`' % beers_total)
     st.write(f'Number of beers with promotions!: `%s`' % beers_promo)
-
+    # we offer the customer the different parameters with which the DF of beers can filter
     st.header('My favorite beer ... where is it cheaper to buy it? \U0001f914')
     st.markdown('''To do this, you can choose the following options to 
                 mark which beer/s you would like to know the price:''')
@@ -127,7 +135,7 @@ In this dashboard you will be able to discover the price of your favorite beer i
     volume_beer = st.multiselect("Size of the beer", data['volumen_unid'].sort_values().unique())
     if volume_beer:
         data = data[data.volumen_unid.isin(volume_beer)]
-
+    # we print in the web the information!
     for i in range(5):
         if i < data['brand'].count():
             cheap_beers(i, brands, quantity_pack, promotion_beer, supermarket_beer, specials_beer, volume_beer, data)

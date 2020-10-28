@@ -5,16 +5,20 @@ import pandas as pd
 import tensorflow as tf
 import requests
 
+# page 2 of the dashboard, in this page we get an image and we use or model for to know the brand
+
 INPUT_SIZE = (280, 280, 3)
 BATCH_SIZE = 1
 
 
+# function to obtain the path of the file for the model:
 def file_selector(folder_path='.'):
     filenames = os.listdir(folder_path)
     selected_filename = st.selectbox('Select a file', filenames)
     return os.path.join(folder_path, selected_filename)
 
 
+# function to get the data for the model (test generator):
 def get_data_test(dataframe, input_shape, batch_size, x_col):
     datagen = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1 / 255)
     generator = datagen.flow_from_dataframe(dataframe,
@@ -27,6 +31,7 @@ def get_data_test(dataframe, input_shape, batch_size, x_col):
     return generator
 
 
+# function to get the DF with the local path of the image we can predict:
 def df_predict(path):
     data_test = pd.DataFrame(index=range(1), columns=['local', 'brand'])
     data_test.iloc[0, 0] = path
@@ -34,6 +39,7 @@ def df_predict(path):
     return data_test
 
 
+# function to get the model:
 def load_model():
     model_weights = './saved_model/model_3_inceptionv3_280x280_full_weights.h5'
     model_json = './saved_model/model_3_inceptionv3_280x280_full.json'
@@ -46,11 +52,13 @@ def load_model():
     return loaded_model
 
 
+# function to download the image of the url customer:
 def download_image(url, name):
     im_file = requests.get(url)
     open(f'./upload_image/{name}.jpg', 'wb').write(im_file.content)
 
 
+# main function, call all other functions for get the brand of the customer image beer:
 def app():
     st.header('I do not know the brand ... which beer should I buy? \U0001f648')
     # Select a file
@@ -86,4 +94,3 @@ def app():
             predictions = [labels[k] for k in predicted_class_indices]
             st.write(f'Your beer picture is the brand: `%s`' % predictions[0])
             st.image(filename, width=320)
-

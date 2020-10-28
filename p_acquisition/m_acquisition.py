@@ -26,6 +26,7 @@ def scraping_carrefour():
     return table_pages_carrefour
 
 
+# info Carrefour function:
 def info_carrefour(scraping_list_info):
     data_raw_carrefour = []
     for i in range(len(scraping_list_info)):
@@ -42,6 +43,7 @@ def info_carrefour(scraping_list_info):
     return data_raw_carrefour
 
 
+# function to get price of carrefour beers
 def get_price_carrefour(data_text):
     price_raw = data_text.text
     price = re.sub('\xa0€', '', price_raw)
@@ -49,6 +51,7 @@ def get_price_carrefour(data_text):
     return float(re.sub(",", '.', price))
 
 
+# function to get price/liter of carrefour beers
 def get_price_l_carrefour(data_text):
     price_l_raw = data_text.text
     price_l = re.findall('[0-9]+,[0-9]+', price_l_raw)
@@ -56,24 +59,28 @@ def get_price_l_carrefour(data_text):
     return float(price_liter)
 
 
+# function to get title of carrefour beers
 def get_title_carrefour(data_text):
     title_raw = data_text.text
     title = re.sub("\n", '', title_raw)
     return title
 
 
+# function to get promotions of carrefour beers
 def get_promotion_carrefour(data_text):
     promotion_raw = data_text.text
     promotion = re.sub("\n", '', promotion_raw)
     return promotion
 
 
+# function to get brand of carrefour beers
 def get_brand_carrefour(data_text):
     brand_raw = data_text.text
     brand = re.split('(Cerveza )|( pack)|( botella)|( lata)+|(cl)', brand_raw)
     return brand[6].lower()
 
 
+# function to get tye of the container of carrefour beers
 def get_container(data_text):
     container_raw = data_text.text
     container = re.findall('botella|lata|barril', container_raw)
@@ -83,6 +90,7 @@ def get_container(data_text):
         return 'No specified'
 
 
+# function to get volume per unit of carrefour beers
 def get_volumen_unid_carrefour(data_text):
     volumen_raw = data_text.text
     volumen = re.findall('[0-9,.]+ cl', volumen_raw)
@@ -93,6 +101,7 @@ def get_volumen_unid_carrefour(data_text):
         return volumen_l[0]
 
 
+# function to get quantity per pack of carrefour beers
 def get_quantity_pack(data_text):
     quantity_raw = data_text.text
     quantity_split = re.split('pack de|pack', quantity_raw)
@@ -103,10 +112,12 @@ def get_quantity_pack(data_text):
         return 1
 
 
+# function to get image of carrefour beers
 def get_image_carrefour(data_text):
     return data_text.find_all('img')[0].get('src')
 
 
+# function to get dataframe of carrefour beers with all information
 def database_carrefour(data_raw_carrefour):
     data_beer_carrefour = pd.DataFrame(index=range(0, len(data_raw_carrefour)),
                                        columns=['price', 'price_liter', 'title', 'promotion', 'brand',
@@ -143,6 +154,7 @@ def scraping_alcampo():
     return table_pages_alcampo
 
 
+# info Carrefour function:
 def info_alcampo(table_pages_alcampo):
     data_raw_alcampo = []
     for i in range(len(table_pages_alcampo)):
@@ -160,14 +172,14 @@ def info_alcampo(table_pages_alcampo):
     return data_raw_alcampo
 
 
-# price Alcampo / Corte Ingles / Dia
+# function to get price of the beers: Alcampo / Corte Ingles / Dia
 def get_price_al_ce_dia(data_text):
     price_raw = data_text.text
     price = re.findall('[0-9,]+', price_raw)
     return float(re.sub(",", '.', price[0]))
 
 
-# price_liter Alcampo / Corte Ingles / Dia
+# function to get price per liter of the beers: Alcampo / Corte Ingles / Dia
 def get_price_l_al_ce_dia(data_text):
     price_raw = data_text.text
     price = re.findall('[0-9,]+', price_raw)
@@ -177,14 +189,14 @@ def get_price_l_al_ce_dia(data_text):
         return float(re.sub(",", '.', price[1]))
 
 
-# title Alcampo / Corte Ingles
+# function to get title of the beers: Alcampo / Corte Ingles
 def get_title_al_ce(data_text):
     tittle_raw = data_text.text
     tittle = re.sub('\n', '', tittle_raw)
     return tittle.lower()
 
 
-# promotion Alcampo / Corte Ingles / Dia
+# function to get promotions of the beers: Alcampo / Corte Ingles / Dia
 def get_promotion_al_ce_dia(data_text):
     promotion_raw = data_text.text
     promotion_pre = re.sub('\r\n\r\n\t\t\t\t\t\t\t\t\t\t', '', promotion_raw)
@@ -192,7 +204,7 @@ def get_promotion_al_ce_dia(data_text):
     return promotion
 
 
-# brand Alcampo
+# function to get brand of the Alcampo beers
 def get_brand_alcampo(data_text):
     brand_raw = data_text.text
     brand = re.sub('\n', '', brand_raw)
@@ -201,7 +213,7 @@ def get_brand_alcampo(data_text):
     return brand_2
 
 
-# volumen Alcampo / Corte ingles / Dia
+# function to get volume of the beers: Alcampo / Corte ingles / Dia
 def get_volumen_unid_al_ce_dia(data_text):
     volumen_raw = data_text.text
     volumen = re.findall('[0-9.,]+ cl|33 c|25 c|50 c|1 l| 2 l', volumen_raw)
@@ -215,11 +227,12 @@ def get_volumen_unid_al_ce_dia(data_text):
             return volumen_l[0]
 
 
-# image Alcampo
+# function to get image of the Alcampo beers:
 def get_image_alcampo(data_text):
     return data_text.find_all('img')[0].get('data-blzsrc')
 
 
+# function to get dataframe of Alcampo beers with all information
 def database_alcampo(data_raw_alcampo):
     data_beer_alcampo = pd.DataFrame(index=range(0, len(data_raw_alcampo)),
                                      columns=['price', 'price_liter', 'title', 'promotion', 'brand',
@@ -256,6 +269,7 @@ def scraping_corteingles():
     return table_pages_corteingles
 
 
+# info Corte Ingles function:
 def info_corteingles(table_pages_corteingles):
     data_raw_corteingles = []
     for i in range(len(table_pages_corteingles)):
@@ -277,25 +291,26 @@ def info_corteingles(table_pages_corteingles):
     return data_raw_corteingles
 
 
-# brand Corte Ingles
+# function to get brand of Corte Ingles beers:
 def get_brand_corteingles(data_text):
     brand_raw = data_text.text
     brand = re.split('cervez', brand_raw)
     return brand[0].lower()
 
 
-# volumen Corte Ingles
+# function to get volume of Corte Ingles beers:
 def get_volumen_corteingles(data_text):
     brand_raw = data_text.text
     brand = re.split('botel', brand_raw)
     return brand[0]
 
 
-# #image Corte Ingles
+# function to get image of Corte Ingles beers:
 def get_image_corteingles(data_text):
     return 'https:' + data_text.find_all('img')[0].get('src')
 
 
+# function to get dataframe of Corte Ingles beers with all information
 def database_corteingles(data_raw_corteingles):
     data_beer_corteingles = pd.DataFrame(index=range(0, len(data_raw_corteingles)),
                                          columns=['price', 'price_liter', 'title', 'promotion', 'brand',
@@ -315,7 +330,7 @@ def database_corteingles(data_raw_corteingles):
             data_beer_corteingles.iloc[beer_number, 3] = get_promotion_al_ce_dia(data_raw_corteingles[beer_number][4])
             if len(data_raw_corteingles[beer_number]) > 5:
                 data_beer_corteingles.iloc[beer_number, 3] += '..SECOND OFFERT: ' + \
-                                                              get_promotion_al_ce_dia(data_raw_corteingles[beer_number][5])
+                                                        get_promotion_al_ce_dia(data_raw_corteingles[beer_number][5])
         else:
             data_beer_corteingles.iloc[beer_number, 3] = 'No promotion'
     return data_beer_corteingles
@@ -335,6 +350,7 @@ def scraping_dia():
     return table_pages_dia
 
 
+# info Dia function:
 def info_dia(table_pages_dia):
     data_raw_dia = []
     for i in range(len(table_pages_dia)):
@@ -347,14 +363,14 @@ def info_dia(table_pages_dia):
     return data_raw_dia
 
 
-# title Dia
+# function to get title of Dia beers:
 def get_tittle_dia(data_text):
     tittle_raw = data_text.text
     tittle = re.sub('\r\n\t\t\t\t', '', tittle_raw)
     return tittle
 
 
-# brand Dia
+# function to get Brand of Dia beers:
 def get_brand_dia(data_text):
     brand_raw = data_text.text
     brand_sub = re.sub('\r\n\t\t\t\t', '', brand_raw)
@@ -362,11 +378,12 @@ def get_brand_dia(data_text):
     return brand[0].lower()
 
 
-# image Dia
+# function to get image of Dia beers:
 def get_image_dia(data_text):
     return data_text.find_all('img')[0].get('data-original')
 
 
+# function to get dataframe of Dia beers with all information
 def database_dia(data_raw_dia):
     data_beer_dia = pd.DataFrame(index=range(0, len(data_raw_dia)),
                                  columns=['price', 'price_liter', 'title', 'promotion', 'brand',
@@ -405,6 +422,7 @@ def scraping_eroski():
     return selenium_raw_eroski, images
 
 
+# image info Eroski function:
 def images_eroski(images):
     list_images = []
     for i in images:
@@ -417,6 +435,7 @@ def images_eroski(images):
     return beer_images_eroski
 
 
+# info Eroski function:
 def info_eroski(selenium_raw_eroski):
     data_raw_eroski = []
     for i in selenium_raw_eroski:
@@ -425,14 +444,14 @@ def info_eroski(selenium_raw_eroski):
     return data_raw_eroski
 
 
-# price Eroski
+# function to get price of Eroski beers:
 def get_price_eroski(data_text):
     price = re.findall('[0-9,]+', data_text)
     last = len(price) - 1
     return float(re.sub(",", '.', price[last]))
 
 
-# price_liter Eroski
+# function to get price per liter of Eroski beers:
 def get_price_liter_eroski(data_text):
     price_raw = re.split(' LITRO A ', data_text)
     if len(price_raw) > 1:
@@ -442,19 +461,19 @@ def get_price_liter_eroski(data_text):
     return float(re.sub(",", '.', price[0]))
 
 
-# title Eroski
+# function to get title of Eroski beers:
 def get_tittle_eroski(data_text):
     tittle = re.split('\n', data_text)
     return tittle[1]
 
 
-# brand Eroski
+# function to get brand of Eroski beers:
 def get_brand_eroski(data_text):
     brand_raw = re.split('erveza |, |ider |idra ', data_text)
     return brand_raw[1].lower()
 
 
-# container Eroski
+# function to get type of container of Eroski beers:
 def get_container_eroski(data_text):
     container = re.findall('botella|lata|barril', data_text)
     if len(container) != 0:
@@ -463,7 +482,7 @@ def get_container_eroski(data_text):
         return 'No specified'
 
 
-# volume Eroski
+# function to get volume per unit of Eroski beers:
 def get_volumen_unid_eroski(data_text):
     volumen = re.findall('[0-9.,]+ cl|[125] l', data_text)
     if len(volumen) != 0:
@@ -476,7 +495,7 @@ def get_volumen_unid_eroski(data_text):
             return volumen_l[0]
 
 
-# quantity Eroski
+# function to get quantity per pack Eroski beers:
 def get_quantity_pack_eroski(data_text):
     quantity_split = re.split('pack de|pack', data_text)
     if len(quantity_split) == 2:
@@ -486,7 +505,7 @@ def get_quantity_pack_eroski(data_text):
         return 1
 
 
-# promotion Eroski
+# function to get promotions of Eroski beers:
 def get_promotion_eroski(data_text):
     promotion = re.split("\n", data_text)
     if len(promotion) > 8:
@@ -496,11 +515,12 @@ def get_promotion_eroski(data_text):
         return 'No promotion'
 
 
-# image Eroski
+# function to get image of Eroski beers:
 def get_image_eroski(beer_images_eroski, number):
     return beer_images_eroski[number * 2]
 
 
+# function to get dataframe of Eroski beers with all information
 def database_eroski(data_raw_eroski, beer_images_eroski):
     data_beer_eroski = pd.DataFrame(index=range(0, len(data_raw_eroski)),
                                     columns=['price', 'price_liter', 'title', 'promotion', 'brand',
@@ -520,29 +540,35 @@ def database_eroski(data_raw_eroski, beer_images_eroski):
     return data_beer_eroski
 
 
+# function to make the Carrefour beers DF:
 def carrefour_fun():
     carrefour_data = info_carrefour(scraping_carrefour())
     carrefour = database_carrefour(carrefour_data)
     return carrefour
 
 
+# function to make the Alcampo beers DF:
 def alcampo_fun():
     alcampo_data = info_alcampo(scraping_alcampo())
     alcampo = database_alcampo(alcampo_data)
     return alcampo
 
 
+# function to make the Corte ingles beers DF:
 def corteingles_fun():
     corteingles_data = info_corteingles(scraping_corteingles())
     corte_ingles = database_corteingles(corteingles_data)
     return corte_ingles
 
 
+# function to make the Dia beers DF:
 def dia_fun():
     dia_data = info_dia(scraping_dia())
     dia = database_dia(dia_data)
     return dia
 
+
+# function to make the Eroski beers DF:
 def eroski_fun():
     selenium_raw_eroski, images = scraping_eroski()
     data_images = images_eroski(images)
@@ -551,10 +577,12 @@ def eroski_fun():
     return eroski
 
 
+# function to save DFs:
 def save_df_products(data, name):
     data.to_csv(f'./data/processed/data_beer_{name}.csv', index=False)
 
 
+# main function, call all other functions:
 def acquire(scrape):
     if scrape == 'Y':
         car = carrefour_fun()
@@ -570,4 +598,3 @@ def acquire(scrape):
         print('finish saved DFs')
     else:
         pass
-

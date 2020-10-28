@@ -1,9 +1,7 @@
 import pandas as pd
 import logging
-import re
 import numpy as np
 import tensorflow as tf
-from pathlib import Path
 import matplotlib.pyplot as plt
 
 # model machine learning
@@ -13,10 +11,12 @@ INPUT_SIZE = (280, 280, 3)
 BATCH_SIZE = 40
 
 
+# function to get the local path of the supermarkets images:
 def local_beer(local):
     return f'./beer_images/supermarkets/{local}.jpg'
 
 
+# function to get the data for the model (train and validation generator):
 def get_data(directory, input_shape, batch_size, train=True):
     if train:
         datagen = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1 / 255,
@@ -36,6 +36,7 @@ def get_data(directory, input_shape, batch_size, train=True):
     return generator
 
 
+# function to get the data for the model (test generator):
 def get_data_test(dataframe, input_shape, batch_size, x_col):
     datagen = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1 / 255)
     generator = datagen.flow_from_dataframe(dataframe,
@@ -48,6 +49,7 @@ def get_data_test(dataframe, input_shape, batch_size, x_col):
     return generator
 
 
+# function to get the model:
 def get_model(input_shape, pre_trained_layer):
     pre_trained = tf.keras.applications.InceptionV3(input_shape=input_shape,
                                                     include_top=False,
@@ -95,6 +97,7 @@ def get_logger(name):
 logger = get_logger(__name__)
 
 
+# function to plot the metrics of the model:
 def plot_training(history, metrics: list = ('loss',), figsize: tuple = (12, 5), skip=0, val=True):
     """
     plots training selected metrics for every batch
@@ -115,6 +118,15 @@ def plot_training(history, metrics: list = ('loss',), figsize: tuple = (12, 5), 
     plt.show()
 
 
+# function to save the model:
+def save_model(model):
+    model.save_weights('./saved_model/model_3_inceptionv3_280x280_full_weights.h5')
+    model_json = model.to_json()
+    with open("./saved_model/model_3_inceptionv3_280x280_full1.json", 'w+') as json_file:
+        json_file.write(model_json)
+
+
+# main function, call all other functions for get the model of ML:
 def analyze(data_beer, model):
     if model == 'Y':
         brands_model = ['heineken', 'mahou 5 estrellas', 'estrella galicia']
@@ -138,15 +150,18 @@ def analyze(data_beer, model):
                             steps_per_epoch=len(images_train),
                             validation_steps=len(images_valid),
                             callbacks=[enough_training_callback])
-        model.save('./saved_model/model_3_inceptionv3_280x280.h5')
+        # save the model
+        save_model(model)
+        # plot the loss and the accuracy of the model
         plot_training(history, metrics=['loss', 'accuracy'])
         # model testing
         images = get_data_test(data_beer_images, INPUT_SIZE, BATCH_SIZE, 'local')
         predicts = model.predict(images)
-        predicted_class_indices=np.argmax(predicts,axis=1)
+        predicted_class_indices = np.argmax(predicts, axis=1)
         labels = images_train.class_indices
         labels = dict((v, k) for k, v in labels.items())
         predictions = [labels[k] for k in predicted_class_indices]
+        print('predictions of the supermarket beers:')
         print(predictions)
         logger.info('done!')
         return predictions

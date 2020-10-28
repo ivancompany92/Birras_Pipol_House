@@ -1,12 +1,14 @@
-#BirrasPipolHouse.py
 from apps import BPH1
 from apps import BPH2
 import streamlit as st
 
+# main function for the Dashboard of the project:
+# we have 2 pages, with different information about our beers:
 PAGES = {
     "where is my beer?": BPH1,
     "what beer is this?": BPH2
 }
+
 st.sidebar.title('Navigation')
 selection = st.sidebar.radio("Go to", list(PAGES.keys()))
 page = PAGES[selection]
