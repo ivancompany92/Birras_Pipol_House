@@ -38,7 +38,7 @@ You will be able to search for your favorite beer (PAGE 1) or if you don't know 
 
 ![]( https://raw.github.com/ivancompany92/Birras_Pipol_House/master/beer_images/readme_image/navigation.png)
 
-## In th seccion: "Where is my beer?" 
+## In the seccion: "Where is my beer?" 
 
 you will choose different options to find your favorite beer with the cheapest price!
 
