@@ -74,7 +74,11 @@ def app():
             test_generator = get_data_test(data_test, INPUT_SIZE, BATCH_SIZE, 'local')
             predicts = model.predict(test_generator)
             predicted_class_indices = np.argmax(predicts, axis=1)
-            labels = {0: 'estrella galicia', 1: 'heineken', 2: 'mahou 5 estrellas'}
+            labels = {0: 'estrella galicia',
+                      1: 'heineken',
+                      2: 'mahou 5 estrellas',
+                      3: 'mahou clasica',
+                      4: 'san miguel'}
             predictions = [labels[k] for k in predicted_class_indices]
             st.write(f'Your beer picture is the brand: `%s`' % predictions[0])
             st.image(filename)
@@ -90,7 +94,11 @@ def app():
             test_generator = get_data_test(data_test, INPUT_SIZE, BATCH_SIZE, 'local')
             predicts = model.predict(test_generator)
             predicted_class_indices = np.argmax(predicts, axis=1)
-            labels = {0: 'estrella galicia', 1: 'heineken', 2: 'mahou 5 estrellas'}
+            labels = {0: 'estrella galicia',
+                      1: 'heineken',
+                      2: 'mahou 5 estrellas',
+                      3: 'mahou clasica',
+                      4: 'san miguel'}
             predictions = [labels[k] for k in predicted_class_indices]
             st.write(f'Your beer picture is the brand: `%s`' % predictions[0])
             st.image(filename, width=320)

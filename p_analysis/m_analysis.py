@@ -1,5 +1,4 @@
 import pandas as pd
-import logging
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
@@ -50,7 +49,7 @@ def get_data_test(dataframe, input_shape, batch_size, x_col):
 
 
 # function to get the model:
-def get_model(input_shape, pre_trained_layer):
+def get_model(input_shape, num_cla, pre_trained_layer):
     pre_trained = tf.keras.applications.InceptionV3(input_shape=input_shape,
                                                     include_top=False,
                                                     weights='imagenet')
@@ -62,7 +61,7 @@ def get_model(input_shape, pre_trained_layer):
     x = tf.keras.layers.Dense(units=1024,
                               activation=tf.keras.activations.relu)(x)
     x = tf.keras.layers.Dropout(0.2)(x)
-    x = tf.keras.layers.Dense(units=3, activation=tf.keras.activations.softmax)(x)
+    x = tf.keras.layers.Dense(units=num_cla, activation=tf.keras.activations.softmax)(x)
     model = tf.keras.Model(pre_trained.input, x)
     model.compile(optimizer=tf.keras.optimizers.RMSprop(lr=0.0001),
                   loss=tf.keras.losses.CategoricalCrossentropy(),
@@ -70,51 +69,34 @@ def get_model(input_shape, pre_trained_layer):
     return model
 
 
-class EnoughTrainingCallback(tf.keras.callbacks.Callback):
-    def __init__(self, metric, threshold):
-        super(EnoughTrainingCallback, self).__init__()
-        self.metric = metric
-        self.threshold = threshold
-        self.logger = get_logger(__name__)
-
-    def on_epoch_end(self, epoch, logs=None):
-        if logs.get(self.metric) > self.threshold:
-            self.logger.info(f'reached over {self.threshold} {self.metric}, stopping training...')
-            self.model.stop_training = True
-
-
-def get_logger(name):
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-    logger = logging.getLogger(name)
-    logger.setLevel(logging.DEBUG)
-    ch = logging.StreamHandler()
-    ch.setLevel(logging.DEBUG)
-    ch.setFormatter(formatter)
-    logger.addHandler(ch)
-    return logger
-
-
-logger = get_logger(__name__)
-
-
 # function to plot the metrics of the model:
-def plot_training(history, metrics: list = ('loss',), figsize: tuple = (12, 5), skip=0, val=True):
+def plot_training(history):
     """
-    plots training selected metrics for every batch
+    plots training metrics
     """
-    epochs = range(1 + skip, len(history.history[metrics[0]]) + 1)
-    fig, ax_arr = plt.subplots(1, len(metrics), figsize=figsize)
-    if not isinstance(ax_arr, np.ndarray):
-        ax_arr = np.array(ax_arr).reshape(1, )
-    for i, metric in enumerate(metrics):
-        ax_arr[i].plot(epochs, history.history[metric][skip:], color='k', linestyle='solid', label=metric, linewidth=2)
-        if val:
-            ax_arr[i].plot(epochs, history.history[f"val_{metric}"][skip:], color='r', linestyle='dotted',
-                           label=f'validation {metric}')
-        ax_arr[i].set_ylabel(metric)
-        ax_arr[i].set_xlabel('epochs')
-        ax_arr[i].grid()
-        ax_arr[i].legend()
+    acc = history.history['accuracy']
+    val_acc = history.history['val_accuracy']
+
+    loss = history.history['loss']
+    val_loss = history.history['val_loss']
+
+    plt.figure(figsize=(8, 8))
+    plt.subplot(2, 1, 1)
+    plt.plot(acc, label='Training Accuracy')
+    plt.plot(val_acc, label='Validation Accuracy')
+    plt.legend(loc='lower right')
+    plt.ylabel('Accuracy')
+    plt.ylim([min(plt.ylim()), 1])
+    plt.title('Training and Validation Accuracy')
+
+    plt.subplot(2, 1, 2)
+    plt.plot(loss, label='Training Loss')
+    plt.plot(val_loss, label='Validation Loss')
+    plt.legend(loc='upper right')
+    plt.ylabel('Cross Entropy')
+    plt.ylim([0, 1.0])
+    plt.title('Training and Validation Loss')
+    plt.xlabel('epoch')
     plt.show()
 
 
@@ -129,7 +111,8 @@ def save_model(model):
 # main function, call all other functions for get the model of ML:
 def analyze(data_beer, model):
     if model == 'Y':
-        brands_model = ['heineken', 'mahou 5 estrellas', 'estrella galicia']
+        brands_model = ['heineken', 'mahou 5 estrellas', 'estrella galicia', 'mahou clasica', 'san miguel']
+        num_cla = len(brands_model)
         data_model = data_beer[data_beer.brand.isin(brands_model)]
         data_model.reset_index(inplace=True)
 
@@ -137,23 +120,23 @@ def analyze(data_beer, model):
         data_beer_images['brand'] = data_model['brand']
         data_beer_images['local'] = data_model['id'].apply(local_beer)
 
-        logger.info('starting training...')
+        print('starting training...')
         # data loading
         images_train = get_data(LOCAL_TRAIN, INPUT_SIZE, BATCH_SIZE, train=True)
         images_valid = get_data(LOCAL_VAL, INPUT_SIZE, BATCH_SIZE, train=False)
         # model training
-        enough_training_callback = EnoughTrainingCallback(metric='accuracy', threshold=0.97)
-        model = get_model(INPUT_SIZE, pre_trained_layer='mixed7')
+        callback = tf.keras.callbacks.EarlyStopping(monitor="accuracy", mode="max", patience=4)
+        model = get_model(INPUT_SIZE, num_cla, pre_trained_layer='mixed7')
         history = model.fit(images_train,
                             validation_data=images_valid,
-                            epochs=10,
+                            epochs=25,
                             steps_per_epoch=len(images_train),
                             validation_steps=len(images_valid),
-                            callbacks=[enough_training_callback])
+                            callbacks=callback)
         # save the model
         save_model(model)
         # plot the loss and the accuracy of the model
-        plot_training(history, metrics=['loss', 'accuracy'])
+        plot_training(history)
         # model testing
         images = get_data_test(data_beer_images, INPUT_SIZE, BATCH_SIZE, 'local')
         predicts = model.predict(images)
@@ -163,7 +146,7 @@ def analyze(data_beer, model):
         predictions = [labels[k] for k in predicted_class_indices]
         print('predictions of the supermarket beers:')
         print(predictions)
-        logger.info('done!')
+        print('done!')
         return predictions
     else:
         pass

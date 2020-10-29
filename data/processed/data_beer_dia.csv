@@ -1,70 +1,73 @@
 price,price_liter,title,promotion,brand,container,volumen_unid,quantity_pack,image_url,supermarket
+0.59,1.79,SAN MIGUEL cerveza lata 33 cl,No promotion,san miguel,lata,33 cl,1,https://s2.dia.es/medias/h8e/h75/9847957225502.jpg,Dia
+4.99,1.66,MAHOU cerveza clásica pack 12 botellas 25 cl,No promotion,mahou,botella,25 cl,12,https://s0.dia.es/medias/h2e/h38/9847976689694.jpg,Dia
+0.5,1.52,SHANDY CRUZCAMPO cerveza con limón lata 33 cl ,No promotion,shandy cruzcampo,lata,33 cl,1,https://s0.dia.es/medias/hbf/h04/10288965058590.jpg,Dia
+0.35,1.06,DIA Shandy cerveza con limón lata 33 cl,No promotion,dia shandy,lata,33 cl,1,https://s1.dia.es/medias/h87/h66/8823069114398.png,Dia
+0.54,1.64,"SAN MIGUEL cerveza radler con limón 0,0% alcohol lata 33 cl",No promotion,san miguel,lata,33 cl,1,https://s0.dia.es/medias/h92/h1e/10099231719454.jpg,Dia
+0.89,1.78,MAHOU cerveza clásica lata 50 cl,No promotion,mahou,lata,50 cl,1,https://s0.dia.es/medias/h61/h87/9847976362014.jpg,Dia
+0.57,1.73,"AMSTEL cerveza 0,0% alcohol lata 33 cl",No promotion,amstel,lata,33 cl,1,https://s0.dia.es/medias/hf4/h35/10083142860830.jpg,Dia
+1.1,3.33,DESPERADOS cerveza con tequila botella 33 cl,No promotion,desperados,botella,33 cl,1,https://s3.dia.es/medias/he0/h0a/9626447806494.jpg,Dia
+1.69,5.12,GRIMBERGEN cerveza doble ambrée belga botella 33 cl,No promotion,grimbergen,botella,33 cl,1,https://s0.dia.es/medias/h2b/h75/9847969021982.jpg,Dia
+0.38,1.15,AMSTEL cerveza clásica lata 33 cl,No promotion,amstel,lata,33 cl,1,https://s1.dia.es/medias/h8a/h62/9847215357982.jpg,Dia
+0.86,1.72,AMSTEL cerveza lata 50 cl,No promotion,amstel,lata,50 cl,1,https://s3.dia.es/medias/hb4/ha3/9626455441438.jpg,Dia
+0.49,1.48,AMSTEL cerveza radler con limón lata 33 cl,No promotion,amstel,lata,33 cl,1,https://s2.dia.es/medias/hfa/h02/10286911586334.jpg,Dia
+1.49,2.98,FRANZISKANER cerveza botella 50 cl ,No promotion,franziskaner,botella,50 cl,1,https://s3.dia.es/medias/h11/h9b/9843138986014.jpg,Dia
 0.7,0.7,RAMBLERS cerveza lager botella 1 lt,No promotion,ramblers,botella,1 l,1,https://s3.dia.es/medias/h08/h71/10301253287966.jpg,Dia
 0.43,1.3,AMSTEL cerveza lata 33 cl,No promotion,amstel,lata,33 cl,1,https://s3.dia.es/medias/ha3/hd0/9847080747038.jpg,Dia
-6.61,2.2,MAHOU 5 ESTRELLAS cerveza pack 12 botellas 25 cl,No promotion,mahou 5 estrellas,botella,25 cl,12,https://s3.dia.es/medias/ha0/hb5/9847978459166.jpg,Dia
+6.69,2.23,MAHOU 5 ESTRELLAS cerveza pack 12 botellas 25 cl,No promotion,mahou 5 estrellas,botella,25 cl,12,https://s3.dia.es/medias/ha0/hb5/9847978459166.jpg,Dia
 0.45,0.9,DIA cerveza alemana lata 50 cl,No promotion,dia,lata,50 cl,1,https://s0.dia.es/medias/h29/h37/8821852569630.png,Dia
-1.4,1.4,MAHOU cerveza clásica botella 1 lt,No promotion,mahou,botella,1 l,1,https://s2.dia.es/medias/h5b/hb3/9847977410590.jpg,Dia
-6.72,1.7,MAHOU cerveza clásica pack 12 latas 33 cl,No promotion,mahou,lata,33 cl,12,https://s0.dia.es/medias/h80/hf1/9847977082910.jpg,Dia
+1.49,1.49,MAHOU cerveza clásica botella 1 lt,No promotion,mahou,botella,1 l,1,https://s2.dia.es/medias/h5b/hb3/9847977410590.jpg,Dia
+6.89,5.49,MAHOU cerveza clásica pack 12 latas 33 cl,No promotion,mahou,lata,33 cl,12,https://s0.dia.es/medias/h80/hf1/9847977082910.jpg,Dia
 7.08,1.79,MAHOU 5 ESTRELLAS cerveza pack 12 latas 33 cl,No promotion,mahou 5 estrellas,lata,33 cl,12,https://s3.dia.es/medias/heb/h09/9847113449502.jpg,Dia
-0.65,1.97,MAHOU MIXTA cerveza con limón lata 33 cl,No promotion,mahou mixta,lata,33 cl,1,https://s0.dia.es/medias/h49/he8/9847069933598.jpg,Dia
-2.2,1.47,MAHOU cerveza sin alcohol pack 6 botellas 25 cl,No promotion,mahou,botella,25 cl,6,https://s3.dia.es/medias/h25/h47/9847978065950.jpg,Dia
+0.69,2.09,MAHOU MIXTA cerveza con limón lata 33 cl,No promotion,mahou mixta,lata,33 cl,1,https://s0.dia.es/medias/h49/he8/9847069933598.jpg,Dia
+2.39,1.59,MAHOU cerveza sin alcohol pack 6 botellas 25 cl,No promotion,mahou,botella,25 cl,6,https://s3.dia.es/medias/h25/h47/9847978065950.jpg,Dia
 1.99,1.33,DIA cerveza lager pack 6 botellas 25 cl,No promotion,dia,botella,25 cl,6,https://s0.dia.es/medias/hae/h79/8822043672606.png,Dia
-3.39,2.26,MAHOU 5 ESTRELLAS cerveza pack 6 botellas x 25 cl,No promotion,mahou 5 estrellas,botella,25 cl,6,https://s0.dia.es/medias/h7f/hd9/9847981080606.jpg,Dia
-0.68,2.06,MAHOU 5 ESTRELLAS cerveza lata 33 cl,No promotion,mahou 5 estrellas,lata,33 cl,1,https://s1.dia.es/medias/hec/h1a/9847114104862.jpg,Dia
-2.1,1.4,AMSTEL cerveza pack 6 botellas 25 cl,No promotion,amstel,botella,25 cl,6,https://s2.dia.es/medias/h67/hbf/9847218634782.jpg,Dia
+3.49,2.33,MAHOU 5 ESTRELLAS cerveza pack 6 botellas x 25 cl,No promotion,mahou 5 estrellas,botella,25 cl,6,https://s0.dia.es/medias/h7f/hd9/9847981080606.jpg,Dia
+0.69,2.09,MAHOU 5 ESTRELLAS cerveza lata 33 cl,No promotion,mahou 5 estrellas,lata,33 cl,1,https://s1.dia.es/medias/hec/h1a/9847114104862.jpg,Dia
+2.79,1.86,AMSTEL cerveza pack 6 botellas 25 cl,No promotion,amstel,botella,25 cl,6,https://s2.dia.es/medias/h67/hbf/9847218634782.jpg,Dia
 0.25,0.76,RAMBLERS cerveza lager lata 33 cl,No promotion,ramblers,lata,33 cl,1,https://s3.dia.es/medias/h76/hfa/10301252567070.jpg,Dia
 0.99,1.98,MAHOU 5 ESTRELLAS cerveza lata 50 cl,No promotion,mahou 5 estrellas,lata,50 cl,1,https://s0.dia.es/medias/hb3/h76/9847981408286.jpg,Dia
-0.54,1.64,HEINEKEN cerveza lata 33 cl,No promotion,heineken,lata,33 cl,1,https://s0.dia.es/medias/h68/hcc/9950624743454.jpg,Dia
+0.64,1.94,HEINEKEN cerveza lata 33 cl,No promotion,heineken,lata,33 cl,1,https://s0.dia.es/medias/h68/hcc/9950624743454.jpg,Dia
 2.79,1.86,SAN MIGUEL cerveza pack 6 botellas 25 cl,No promotion,san miguel,botella,25 cl,6,https://s3.dia.es/medias/h6b/h8f/9847960109086.jpg,Dia
-0.56,1.7,SAN MIGUEL cerveza lata 33 cl,No promotion,san miguel,lata,33 cl,1,https://s2.dia.es/medias/h8e/h75/9847957225502.jpg,Dia
-2.75,1.83,MAHOU cerveza clásica pack 6 botellas 25 cl,No promotion,mahou,botella,25 cl,6,https://s3.dia.es/medias/hb2/hf1/9847979114526.jpg,Dia
-0.57,1.73,MAHOU cerveza clásica lata 33 cl,No promotion,mahou,lata,33 cl,1,https://s3.dia.es/medias/hd6/h11/9847113777182.jpg,Dia
+2.79,1.86,MAHOU cerveza clásica pack 6 botellas 25 cl,No promotion,mahou,botella,25 cl,6,https://s3.dia.es/medias/hb2/hf1/9847979114526.jpg,Dia
+0.59,1.79,MAHOU cerveza clásica lata 33 cl,No promotion,mahou,lata,33 cl,1,https://s3.dia.es/medias/hd6/h11/9847113777182.jpg,Dia
 0.69,2.09,ESTRELLA GALICIA cerveza especial lata 33 cl,No promotion,estrella galicia,lata,33 cl,1,https://s1.dia.es/medias/h15/hb5/9167705767966.jpg,Dia
 0.79,2.39,VOLL-DAMM cerveza doble malta lata 33 cl,No promotion,voll-damm,lata,33 cl,1,https://s0.dia.es/medias/h57/hc1/9545995649054.jpg,Dia
+0.59,0.5,MAHOU cerveza sin alcohol lata 33 cl,No promotion,mahou,lata,33 cl,1,https://s1.dia.es/medias/hc8/h11/9845432451102.jpg,Dia
+0.48,1.45,"SAN MIGUEL cerveza 0,0% alcohol lata 33 cl",No promotion,san miguel,lata,33 cl,1,https://s1.dia.es/medias/h6e/h4e/9846950264862.jpg,Dia
+2.5,1.67,"SAN MIGUEL cerveza 0,0% alcohol pack 6 botellas 25 cl",No promotion,san miguel,botella,25 cl,6,https://s1.dia.es/medias/h63/h3a/9847961092126.jpg,Dia
 0.35,1.06,DIA cerveza especial lata 33 cl,No promotion,dia,lata,33 cl,1,https://s2.dia.es/medias/h46/hb5/8822550659102.png,Dia
-5.89,2.97,1906 cerveza reserva especial pack 6 botellas 33 cl,No promotion,1906,botella,33 cl,6,https://s2.dia.es/medias/h65/h32/9622060400670.jpg,Dia
+5.89,2.97,1906 cerveza reserva especial pack 6 botellas 33 cl,No promotion,1906,botella,33 cl,6,https://s0.dia.es/medias/h2b/h26/10311792001054.jpg,Dia
 3.99,2.66,HEINEKEN cerveza pack 6 botellas 25 cl,No promotion,heineken,botella,25 cl,6,https://s2.dia.es/medias/ha3/h75/9847216668702.jpg,Dia
 5.18,1.31,AMSTEL cerveza pack 12 latas 33 cl,No promotion,amstel,lata,33 cl,12,https://s0.dia.es/medias/ha2/hbf/9847081402398.jpg,Dia
-0.56,1.7,MAHOU cerveza sin alcohol lata 33 cl,No promotion,mahou,lata,33 cl,1,https://s1.dia.es/medias/hc8/h11/9845432451102.jpg,Dia
-0.48,1.45,"SAN MIGUEL cerveza 0,0% alcohol lata 33 cl",No promotion,san miguel,lata,33 cl,1,https://s1.dia.es/medias/h6e/h4e/9846950264862.jpg,Dia
 0.71,1.42,SAN MIGUEL cerveza lata 50 cl,No promotion,san miguel,lata,50 cl,1,https://s3.dia.es/medias/h78/h7d/9847957553182.jpg,Dia
-0.95,2.88,BUDWEISER cerveza lata 33 cl,No promotion,budweiser,lata,33 cl,1,https://s0.dia.es/medias/h3e/h96/10110767136798.jpg,Dia
+0.99,3.0,BUDWEISER cerveza lata 33 cl,No promotion,budweiser,lata,33 cl,1,https://s0.dia.es/medias/h3e/h96/10110767136798.jpg,Dia
 0.45,1.36,DIA cerveza extra lata 33 cl,No promotion,dia,lata,33 cl,1,https://s0.dia.es/medias/hdc/h97/8822996172830.png,Dia
 2.45,1.63,SHANDY CRUZCAMPO cerveza con limón pack 6 botella 25 cl,No promotion,shandy cruzcampo,botella,25 cl,6,https://s0.dia.es/medias/he0/h3f/10288965713950.jpg,Dia
 0.38,1.15,"BUCKLER cerveza 0,0% alcohol lata 33 cl",No promotion,buckler,lata,33 cl,1,https://s3.dia.es/medias/h9f/hea/9847214702622.jpg,Dia
 0.33,1.0,"DIA cerveza 0,0% alcohol lata 33 cl",No promotion,dia,lata,33 cl,1,https://s1.dia.es/medias/h06/h27/9102843412510.jpg,Dia
-4.65,1.55,MAHOU cerveza clásica pack 12 botellas 25 cl,No promotion,mahou,botella,25 cl,12,https://s0.dia.es/medias/h2e/h38/9847976689694.jpg,Dia
-0.5,1.52,SHANDY CRUZCAMPO cerveza con limón lata 33 cl ,No promotion,shandy cruzcampo,lata,33 cl,1,https://s0.dia.es/medias/hbf/h04/10288965058590.jpg,Dia
-0.35,1.06,DIA Shandy cerveza con limón lata 33 cl,No promotion,dia shandy,lata,33 cl,1,https://s1.dia.es/medias/h87/h66/8823069114398.png,Dia
-0.54,1.64,"SAN MIGUEL cerveza radler con limón 0,0% alcohol lata 33 cl",No promotion,san miguel,lata,33 cl,1,https://s0.dia.es/medias/h92/h1e/10099231719454.jpg,Dia
-0.78,1.56,MAHOU cerveza clásica lata 50 cl,No promotion,mahou,lata,50 cl,1,https://s0.dia.es/medias/h61/h87/9847976362014.jpg,Dia
-0.46,1.39,"AMSTEL cerveza 0,0% alcohol lata 33 cl",No promotion,amstel,lata,33 cl,1,https://s0.dia.es/medias/hf4/h35/10083142860830.jpg,Dia
-1.1,3.33,DESPERADOS cerveza con tequila botella 33 cl,No promotion,desperados,botella,33 cl,1,https://s3.dia.es/medias/he0/h0a/9626447806494.jpg,Dia
-1.75,5.3,GRIMBERGEN cerveza doble ambrée belga botella 33 cl,No promotion,grimbergen,botella,33 cl,1,https://s0.dia.es/medias/h2b/h75/9847969021982.jpg,Dia
-0.38,1.15,AMSTEL cerveza clásica lata 33 cl,No promotion,amstel,lata,33 cl,1,https://s1.dia.es/medias/h8a/h62/9847215357982.jpg,Dia
-0.65,1.3,AMSTEL cerveza lata 50 cl,No promotion,amstel,lata,50 cl,1,https://s3.dia.es/medias/hb4/ha3/9626455441438.jpg,Dia
-0.49,1.48,AMSTEL cerveza radler con limón lata 33 cl,No promotion,amstel,lata,33 cl,1,https://s2.dia.es/medias/hfa/h02/10286911586334.jpg,Dia
-1.25,2.5,FRANZISKANER cerveza botella 50 cl ,No promotion,franziskaner,botella,50 cl,1,https://s3.dia.es/medias/h11/h9b/9843138986014.jpg,Dia
 0.55,1.67,AMSTEL Oro cerveza tostada lata 33 cl,No promotion,amstel oro,lata,33 cl,1,https://s3.dia.es/medias/h2b/h94/9847212146718.jpg,Dia
-12.25,1.55,MAHOU cerveza clásica pack 24 latas 33 cl ,No promotion,mahou,lata,33 cl,24,https://s3.dia.es/medias/ha6/h1a/9847985078302.jpg,Dia
+12.99,1.64,MAHOU cerveza clásica pack 24 latas 33 cl ,No promotion,mahou,lata,33 cl,24,https://s3.dia.es/medias/ha6/h1a/9847985078302.jpg,Dia
 1.42,2.84,PAULANER cerveza de trigo alemana botella 50 cl,No promotion,paulaner,botella,50 cl,1,https://s3.dia.es/medias/h92/h28/10103182852126.jpg,Dia
 0.56,1.7,DIA cerveza negra botella 33 cl ,No promotion,dia,botella,33 cl,1,https://s0.dia.es/medias/hc3/h1f/9497439076382.jpg,Dia
-0.45,0.9,DIA cerveza lager lata 50 cl,No promotion,dia,lata,50 cl,1,https://s2.dia.es/medias/hcf/h7a/10301272621086.jpg,Dia
 0.89,2.7,1906 cerveza reserva especial lata 33 cl ,No promotion,1906,lata,33 cl,1,https://s0.dia.es/medias/he3/h9d/10261321285662.jpg,Dia
 0.79,2.39,MAHOU MAESTRA cerveza tostada doble lúpulo lata 33 cl ,No promotion,mahou maestra,lata,33 cl,1,https://s2.dia.es/medias/h9b/h22/9950618517534.jpg,Dia
-1.45,4.08,CORONA cerveza mexicana botella 35.5 cl,No promotion,corona,botella,35.5 cl,1,https://s0.dia.es/medias/h7b/hd2/9842528649246.jpg,Dia
+1.39,3.92,CORONA cerveza mexicana botella 35.5 cl,No promotion,corona,botella,35.5 cl,1,https://s0.dia.es/medias/h7b/hd2/9842528649246.jpg,Dia
 2.0,4.55,GUINNESS cerveza lata 44 cl ,No promotion,guinness,lata,44 cl,1,https://s2.dia.es/medias/h47/hc5/9847113121822.jpg,Dia
-0.75,2.27,MAHOU 5 ESTRELLAS cerveza SIN GLUTEN lata 33 cl,No promotion,mahou 5 estrellas,lata,33 cl,1,https://s3.dia.es/medias/h78/ha5/10151214415902.jpg,Dia
-1.0,3.03,MAHOU MAESTRA cerveza tostada doble lúpulo botella 33 cl,No promotion,mahou maestra,botella,33 cl,1,https://s1.dia.es/medias/h08/h48/9847984095262.jpg,Dia
-0.63,0.54,"MAHOU cerveza tostada 0,0% alcohol lata 33 cl ",No promotion,mahou,lata,33 cl,1,https://s2.dia.es/medias/hcc/h44/10003770015774.jpg,Dia
+0.89,2.7,MAHOU 5 ESTRELLAS cerveza SIN GLUTEN lata 33 cl,No promotion,mahou 5 estrellas,lata,33 cl,1,https://s3.dia.es/medias/h78/ha5/10151214415902.jpg,Dia
+1.1,3.33,MAHOU MAESTRA cerveza tostada doble lúpulo botella 33 cl,No promotion,mahou maestra,botella,33 cl,1,https://s1.dia.es/medias/h08/h48/9847984095262.jpg,Dia
+0.69,2.09,"MAHOU cerveza tostada 0,0% alcohol lata 33 cl ",No promotion,mahou,lata,33 cl,1,https://s2.dia.es/medias/hcc/h44/10003770015774.jpg,Dia
 0.69,2.09,"HEINEKEN cerveza 0,0% alcohol lata 33 cl ",No promotion,heineken,lata,33 cl,1,https://s3.dia.es/medias/h81/h50/10083033088030.jpg,Dia
-1.69,5.12,MAHOU BARRICA cerveza botella 33 cl ,No promotion,mahou barrica,botella,33 cl,1,https://s3.dia.es/medias/hb1/h1d/9847985733662.jpg,Dia
-0.64,1.94,"AMSTEL cerveza radler con limón 0,0% alcohol lata 33 cl",No promotion,amstel,lata,33 cl,1,https://s3.dia.es/medias/h0d/h15/9847217651742.jpg,Dia
-0.39,1.18,DIA cerveza radler con limón lata 33 cl,No promotion,dia,lata,33 cl,1,https://s0.dia.es/medias/hd3/h12/9355271274526.jpg,Dia
-0.69,2.09,MAHOU 5 ESTRELLAS cerveza radler con limón lata 33 cl,No promotion,mahou 5 estrellas,lata,33 cl,1,https://s2.dia.es/medias/h60/ha3/10151212449822.jpg,Dia
-1.75,1.17,"DIA cerveza 0,0% alcohol pack 6 botellas 25 cl",No promotion,dia,botella,25 cl,6,https://s0.dia.es/medias/hcb/h89/9352993013790.jpg,Dia
-0.62,1.88,"AMSTEL Oro cerveza tostada 0,0% alcohol lata 33 cl",No promotion,amstel oro,lata,33 cl,1,https://s2.dia.es/medias/h4f/he3/9859383263262.jpg,Dia
-0.63,0.19,EL AGUILA cerveza 1900 lata 33 cl,No promotion,el aguila,lata,33 cl,1,https://s2.dia.es/medias/h6e/h7a/10286983348254.jpg,Dia
-1.4,4.24,MAHOU cerveza ipa botella 33 cl,No promotion,mahou,botella,33 cl,1,https://s2.dia.es/medias/h15/hd0/10047137677342.jpg,Dia
+1.79,5.42,MAHOU BARRICA cerveza botella 33 cl ,No promotion,mahou barrica,botella,33 cl,1,https://s3.dia.es/medias/hb1/h1d/9847985733662.jpg,Dia
+1.49,4.52,MAHOU cerveza ipa botella 33 cl,No promotion,mahou,botella,33 cl,1,https://s2.dia.es/medias/h15/hd0/10047137677342.jpg,Dia
 2.1,6.36,AMBAR cerveza ambiciosa nº 10 botella 33 cl,No promotion,ambar,botella,33 cl,1,https://s1.dia.es/medias/h10/h3c/10105141723166.jpg,Dia
 0.65,0.65,RAMBLERS cerveza larger botella plástico 1 lt,No promotion,ramblers,botella,1 l,1,https://s1.dia.es/medias/ha1/he4/10303374721054.jpg,Dia
+0.64,1.94,"AMSTEL cerveza radler con limón 0,0% alcohol lata 33 cl",No promotion,amstel,lata,33 cl,1,https://s3.dia.es/medias/h0d/h15/9847217651742.jpg,Dia
+0.39,1.18,DIA cerveza radler con limón lata 33 cl,No promotion,dia,lata,33 cl,1,https://s0.dia.es/medias/hd3/h12/9355271274526.jpg,Dia
+1.75,1.17,"DIA cerveza 0,0% alcohol pack 6 botellas 25 cl",No promotion,dia,botella,25 cl,6,https://s0.dia.es/medias/hcb/h89/9352993013790.jpg,Dia
+0.69,2.09,MAHOU 5 ESTRELLAS cerveza radler con limón lata 33 cl,No promotion,mahou 5 estrellas,lata,33 cl,1,https://s2.dia.es/medias/h60/ha3/10151212449822.jpg,Dia
+1.19,3.61,MAHOU MAESTRA cerveza lager oscura botella 33 cl,No promotion,mahou maestra,botella,33 cl,1,https://s2.dia.es/medias/h23/h6c/9847187439646.jpg,Dia
+2.09,6.33,LA VIRGEN cerveza tostada jamonera botella 33 cl,No promotion,la virgen,botella,33 cl,1,https://s0.dia.es/medias/hf8/h35/9843662454814.jpg,Dia
+2.29,6.94,MAHOU BARRICA cerveza bourbon botella 33 cl,No promotion,mahou barrica,botella,33 cl,1,https://s1.dia.es/medias/h21/h4b/9847200612382.jpg,Dia
+0.62,1.88,"AMSTEL Oro cerveza tostada 0,0% alcohol lata 33 cl",No promotion,amstel oro,lata,33 cl,1,https://s2.dia.es/medias/h4f/he3/9859383263262.jpg,Dia
+0.63,0.19,EL AGUILA cerveza 1900 lata 33 cl,No promotion,el aguila,lata,33 cl,1,https://s2.dia.es/medias/h6e/h7a/10286983348254.jpg,Dia
