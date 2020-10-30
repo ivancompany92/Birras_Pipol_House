@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
@@ -31,19 +30,6 @@ def get_data(directory, input_shape, batch_size, train=True):
     generator = datagen.flow_from_directory(directory,
                                             batch_size=batch_size,
                                             class_mode='categorical',
-                                            target_size=(input_shape[0], input_shape[1]))
-    return generator
-
-
-# function to get the data for the model (test generator):
-def get_data_test(dataframe, input_shape, batch_size, x_col):
-    datagen = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1 / 255)
-    generator = datagen.flow_from_dataframe(dataframe,
-                                            x_col=x_col,
-                                            y_col=None,
-                                            batch_size=batch_size,
-                                            shuffle=False,
-                                            class_mode=None,
                                             target_size=(input_shape[0], input_shape[1]))
     return generator
 
@@ -104,21 +90,15 @@ def plot_training(history):
 def save_model(model):
     model.save_weights('./saved_model/model_3_inceptionv3_280x280_full_weights.h5')
     model_json = model.to_json()
-    with open("./saved_model/model_3_inceptionv3_280x280_full1.json", 'w+') as json_file:
+    with open("./saved_model/model_3_inceptionv3_280x280_full.json", 'w+') as json_file:
         json_file.write(model_json)
 
 
 # main function, call all other functions for get the model of ML:
-def analyze(data_beer, model):
+def analyze(model):
     if model == 'Y':
         brands_model = ['heineken', 'mahou 5 estrellas', 'estrella galicia', 'mahou clasica', 'san miguel']
         num_cla = len(brands_model)
-        data_model = data_beer[data_beer.brand.isin(brands_model)]
-        data_model.reset_index(inplace=True)
-
-        data_beer_images = pd.DataFrame(columns=['local', 'brand'])
-        data_beer_images['brand'] = data_model['brand']
-        data_beer_images['local'] = data_model['id'].apply(local_beer)
 
         print('starting training...')
         # data loading
@@ -133,20 +113,12 @@ def analyze(data_beer, model):
                             steps_per_epoch=len(images_train),
                             validation_steps=len(images_valid),
                             callbacks=callback)
+        print('training complete!')
         # save the model
         save_model(model)
+        print('model save')
         # plot the loss and the accuracy of the model
         plot_training(history)
-        # model testing
-        images = get_data_test(data_beer_images, INPUT_SIZE, BATCH_SIZE, 'local')
-        predicts = model.predict(images)
-        predicted_class_indices = np.argmax(predicts, axis=1)
-        labels = images_train.class_indices
-        labels = dict((v, k) for k, v in labels.items())
-        predictions = [labels[k] for k in predicted_class_indices]
-        print('predictions of the supermarket beers:')
-        print(predictions)
         print('done!')
-        return predictions
     else:
         pass

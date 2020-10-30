@@ -21,8 +21,8 @@ def argument_parser():
 def main(scrape, download, model):
     print('Starting Pipeline...')
     mac.acquire(scrape)
-    data = mwr.wrangle(scrape, download)
-    man.analyze(data, model)
+    mwr.wrangle(scrape, download)
+    man.analyze(model)
     print('Finished Pipeline')
 
 
