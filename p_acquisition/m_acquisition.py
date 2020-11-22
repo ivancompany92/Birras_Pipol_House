@@ -229,7 +229,12 @@ def get_volumen_unid_al_ce_dia(data_text):
 
 # function to get image of the Alcampo beers:
 def get_image_alcampo(data_text):
-    return data_text.find_all('img')[0].get('data-blzsrc')
+    first = data_text.find_all('img')[0].get('src')
+    second = data_text.find_all('img')[0].get('data-blzsrc')
+    if '==' in first:
+        return second
+    else:
+        return first
 
 
 # function to get dataframe of Alcampo beers with all information
@@ -517,7 +522,7 @@ def get_promotion_eroski(data_text):
 
 # function to get image of Eroski beers:
 def get_image_eroski(beer_images_eroski, number):
-    return beer_images_eroski[number * 2]
+    return beer_images_eroski[(number+1) * 2]
 
 
 # function to get dataframe of Eroski beers with all information
