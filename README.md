@@ -27,6 +27,7 @@ Obtaining from each of them the most important data of their current beer catalo
     - beer picture
     - and if the beer has any active promotions!  😍
 
+![Alt Text](https://raw.githubusercontent.com/ivancompany92/Birras_Pipol_House/master/BirrasPipolHouse.gif)
 
 ## **How can you view all this information?**
 
